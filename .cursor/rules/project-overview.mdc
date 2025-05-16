@@ -1,0 +1,32 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Pydantic Boilerplate Project
+
+## Project Overview
+This project demonstrates how to use Pydantic with AI models through the pydantic-ai library. It connects to OpenRouter API to access LLM models like Gemini 2.5 Flash.
+
+## Main Components
+
+- [main.py](mdc:main.py): The main script that sets up the AI agent and runs the joke generation
+- `.env`: Contains API keys (e.g., OPENROUTER_API_KEY)
+
+## Key Features
+
+1. **Pydantic Models**: Used for structured data validation (e.g., the `Joke` class)
+2. **Async Functions**: The project uses asyncio for handling asynchronous API calls
+3. **OpenRouter Integration**: Connects to various AI models through OpenRouter
+4. **Environment Variables**: Uses dotenv for secure API key management
+
+## How to Run
+
+1. Ensure you have an `.env` file with your `OPENROUTER_API_KEY`
+2. Run with `python main.py`
+
+## Dependencies
+
+- pydantic
+- pydantic-ai
+- python-dotenv

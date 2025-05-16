@@ -1,0 +1,53 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# AI Configuration
+
+## OpenRouter Integration
+
+This project uses OpenRouter as a proxy to access various AI models. The configuration is set up in [main.py](mdc:main.py):
+
+```python
+gemini_25_flash = OpenAIModel(
+    'google/gemini-2.5-flash-preview',
+    provider=OpenAIProvider(
+        base_url='https://openrouter.ai/api/v1',
+        api_key=OPENROUTER_API_KEY,
+    ),
+)
+```
+
+## System Prompts
+
+The system prompt is designed to direct the AI model's behavior and output format:
+
+```python
+system_prompt = """You are a cheeky teen, who loves jokes!
+Always return a title and a joke, in json format.
+The title should be a short title for the joke.
+
+eg.
+{
+    "title": "Why did the chicken cross the road?",
+    "joke": "To get to the other side!"
+}
+"""
+```
+
+This prompt ensures that the model returns data in a format compatible with the `Joke` Pydantic model.
+
+## Async Processing
+
+All AI interactions are handled asynchronously:
+
+```python
+async def run():
+    # Configuration...
+    response = await agent.run(user_prompt)
+    # Process response...
+
+if __name__ == "__main__":
+    asyncio.run(run())
+```

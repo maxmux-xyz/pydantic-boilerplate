@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pydantic-boilerplate"
+version = "0.1.0"
+description = "A boilerplate project using pydantic-ai"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "python-dotenv",
+    "pydantic-ai",
+    "pydantic>=2.11.4",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "mypy",
+    "black",
+]
+
+[tool.black]
+line-length = 88
+target-version = ["py39"] 
