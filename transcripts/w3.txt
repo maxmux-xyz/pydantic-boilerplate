@@ -1,0 +1,2313 @@
+# The AI Cold War, Signalgate, CoreWeave IPO, Tariff Endgames, El Salvador Deportations
+# https://www.youtube.com/watch/Iazo7g40VbQ
+
+00:00:00.040 when I wasn't able to use the r word I
+00:00:02.679 would use Dey Chente for two people
+00:00:05.279 Jason and and friberg's dog Marshall
+00:00:08.559 freedberg oh come on I can't stand
+00:00:11.080 Marshall freed that little bastardino
+00:00:13.719 jumps on the table eats the nuts the
+00:00:16.960 worst the worst I hate Marshall
+00:00:18.800 freedberg I hate him I can't stand this
+00:00:22.320 bastard guy look how he sits like a
+00:00:25.960 [ __ ] sits like he sits like a Dey
+00:00:28.960 chanted look at this dweeb and
+00:00:31.920 this now Nick show them my dogs
+00:00:34.440 beautiful beautiful dogs Valentina
+00:00:37.000 zanini she's the breeder of breeders
+00:00:39.239 look at these two beautifully elegant oh
+00:00:42.079 look at look how look how well behaved
+00:00:44.120 they are you don't see them jumping on
+00:00:45.600 the table to eat the main course freed
+00:00:47.600 no no Marshall almost ruined our
+00:00:49.640 Christmas dinner this is why I'm holding
+00:00:51.039 a real grudge against Marshall freedberg
+00:00:52.800 he at off nuts no and Alison [ __ ]
+00:00:55.039 Allison off guard she's like Marshall
+00:00:56.399 freedberg get off the table I just love
+00:00:59.280 that he's got a full
+00:01:00.559 name Marshall Eugene
+00:01:04.040 freedberg let your winners
+00:01:06.640 ride Rainman
+00:01:11.000 David and instead we open source it to
+00:01:13.600 the fans and they've just gone crazy
+00:01:15.439 with
+00:01:16.240 [Music]
+00:01:19.079 it all right everybody welcome back to
+00:01:22.159 the number one state SP I'm sorry Allin
+00:01:25.159 podcast in the world the number one
+00:01:27.360 podcast oh sorry stray bullets here we
+00:01:29.280 go back on the program our guy Gavin
+00:01:32.560 Baker is here you know him from a
+00:01:34.439 treaties management does private and
+00:01:36.320 public 4 billion under management and
+00:01:38.960 lot to talk about with you gb1 good to
+00:01:41.200 have you gb1 is Here solo Doo cor weave
+00:01:44.640 IPO happening soon uh by the time you
+00:01:47.439 get this and Nvidia you were there at
+00:01:49.719 Nvidia you were the one analyst Gavin
+00:01:53.399 that Jenson pulled up you're loved by
+00:01:57.840 Jensen what's it like to be loved by
+00:01:59.600 Jens
+00:02:00.560 tell us
+00:02:01.520 everything well so first he did um there
+00:02:04.280 was uh Alfred F was from squa
+00:02:08.038 MH and then they had a a nice sside guy
+00:02:11.400 whose name is escaping me at the moment
+00:02:13.560 but it is technically true I was the
+00:02:14.959 only public Equity investor on the buy
+00:02:16.920 side that Jin Jensen asked I've known
+00:02:19.480 Jensen for 25 years he's he's kind of
+00:02:22.400 the same guy he ever was like just maybe
+00:02:24.640 slightly calmer Gavin can I ask you like
+00:02:26.840 all this stuff where they talk about the
+00:02:31.319 balance
+00:02:32.680 sheet questions that some folks have
+00:02:35.120 about Nvidia some of the accounts
+00:02:37.959 receivable issues and stuff is there any
+00:02:40.000 legitimacy to those issues the round
+00:02:42.159 tripping like what's the what's the real
+00:02:44.599 story of someone that that peers into
+00:02:46.640 that p&l and understands it yeah so we I
+00:02:49.360 guess maybe take them in reverse order I
+00:02:52.080 really don't think like if if Nvidia had
+00:02:55.280 not not put any money into cor weave not
+00:02:58.040 put any money into kind of other of
+00:03:00.159 these neoc clouds I don't think it would
+00:03:02.480 have impacted their revenues at
+00:03:05.799 all at all they would have sold more to
+00:03:09.680 meta and more to more to meta more to
+00:03:12.080 Amazon more to
+00:03:14.120 Microsoft so the reason they did it is
+00:03:19.120 even three years ago it was a very
+00:03:21.920 stable three-player
+00:03:23.840 oligopoly from the cloud computing
+00:03:25.840 players in Amazon Google and Microsoft
+00:03:28.560 and if you're Nvidia that's not great to
+00:03:30.840 have just three big
+00:03:32.560 customers those big clouds particularly
+00:03:35.680 in 2023 when there was such a rush to
+00:03:38.120 get gpus they each kind of want to do
+00:03:40.680 their own kind of custom version of an
+00:03:43.000 Nvidia server and Nvidia by giving kind
+00:03:47.360 of like a standard reference design
+00:03:49.319 which someone like cor weave bought to
+00:03:51.159 cor weave you got gpus in the market a
+00:03:52.959 lot faster and when you use Nvidia
+00:03:55.599 reference design it's generally smoother
+00:03:57.599 and easier to stand them up and
+00:04:00.439 so the big three kind of cloud computing
+00:04:04.319 you know
+00:04:05.239 hyperscalers their incremental share of
+00:04:07.959 Revenue went down and that was nothing
+00:04:11.159 but good for NVIDIA because they now
+00:04:13.120 have kind of a more fragmented base of
+00:04:16.000 buyers who have less power over them but
+00:04:18.839 what does that mean Gavin when like the
+00:04:20.120 accounts receivable jumps from a billion
+00:04:22.360 five or so to like 5 and a half billion
+00:04:24.639 year-over-year is that concerning or
+00:04:27.320 that's just business so look it's never
+00:04:29.560 good good but if you think Nvidia has
+00:04:32.080 gone through the biggest product
+00:04:35.360 transition in history in terms of Hopper
+00:04:38.520 you know this is a business doing tens
+00:04:39.960 of billions of dollars at scale there's
+00:04:42.039 never been a product transition like
+00:04:43.680 this in the history of semiconductors
+00:04:45.000 going from Hopper to Blackwell you know
+00:04:46.919 kind of the 2022 generation GPU to this
+00:04:50.120 one the only precedent for this on
+00:04:53.120 planet Earth is the
+00:04:54.759 iPhone
+00:04:56.880 and there's something called the Osborne
+00:04:59.080 effect which is you know when Apple
+00:05:01.240 comes out with new iPhone for the three
+00:05:02.960 months before nobody buys the new
+00:05:06.120 iPhone and I think the only reason
+00:05:08.400 Nvidia was able to grow through this
+00:05:10.560 product transition is because of
+00:05:12.240 reasoning models like deep seek which
+00:05:13.919 are just so compute hungry and this
+00:05:16.240 product transition does come back to the
+00:05:17.759 days receivables the cume receivables
+00:05:19.919 now is like23 billion yeah it's never
+00:05:22.919 good when accounts receivables go up but
+00:05:25.840 if this is the most understandable time
+00:05:29.160 for it to happen in a product refresh
+00:05:31.720 cycle you're saying yeah and because a
+00:05:34.319 hopper server you know it's a rack it's
+00:05:36.919 whatever it is 7 feet high it weighs
+00:05:38.479 1,000 lbs it consumes 60 kilow which is
+00:05:41.680 60 American OHS and it's air cooled so
+00:05:43.880 you cool those gpus and the big problem
+00:05:46.039 gpus one of the biggest is they melt you
+00:05:48.400 cool it with air
+00:05:50.280 Blackwell weighs 3,000 lb so three times
+00:05:53.960 as much the rack you know it's 8T tall
+00:05:56.520 maybe 5T deep or 4 feet deep 300 ,000 lb
+00:06:00.840 and it consumes 120 KW so twice as much
+00:06:04.080 power and roughly kind of the same
+00:06:06.240 footprint three times as much weight and
+00:06:09.080 it's liquid cooled so this is like an
+00:06:11.440 iPhone upgrade cycle you know it was
+00:06:13.080 like it's still a pain that we went from
+00:06:16.039 you know lightning to USBC you know I'll
+00:06:18.479 grab a cord and it'll be lightning
+00:06:20.080 instead of USBC this is like an iPhone
+00:06:22.479 upgrade cycle where to get the new
+00:06:24.840 iPhone not only do you have to change
+00:06:26.919 your connectors you have to put in a new
+00:06:29.000 generator you have to put in a new
+00:06:31.000 boiler and a whole house humidification
+00:06:33.479 system you know to kind of make it
+00:06:36.680 work so it's a Monumental product
+00:06:39.479 transition
+00:06:41.520 and I think that is a lot of why the
+00:06:44.680 receivables went up you know they're
+00:06:46.479 recognizing Blackwell
+00:06:48.479 Revenue you know while it was still kind
+00:06:50.800 of getting into customers hands
+00:06:54.319 um if that Trend continues past the July
+00:06:58.520 quarter then I would say hey that's
+00:07:01.360 reason for concern but this is a very
+00:07:04.560 understandable time for that to happen
+00:07:06.039 from my perspective so basically the
+00:07:07.560 summary is AR accounts
+00:07:10.400 receivable builds as you go through this
+00:07:12.759 very complicated product transition but
+00:07:16.240 then at some point it Peaks and then you
+00:07:18.879 start to work through all of it and it
+00:07:21.120 moves off balance sheet basically gets
+00:07:22.919 recognized and you move forward and so
+00:07:24.680 then that AR should shrink and just to
+00:07:26.680 clarify that that's accounts receivable
+00:07:28.479 that's the money owed to you by by
+00:07:29.720 customers for the audience who might
+00:07:31.240 have a question what they are exactly
+00:07:33.240 and the reason they're not collecting it
+00:07:35.840 is because they haven't delivered it I
+00:07:37.240 mean the county gets very complicated
+00:07:38.879 with these systems but yes I mean they
+00:07:41.759 have delivered it and they've recognized
+00:07:44.560 the revenue but maybe the customer is
+00:07:47.000 saying hey we're not going to pay you
+00:07:48.919 until
+00:07:50.680 X you know until we get them plugged in
+00:07:52.960 and working I mean who knows what it is
+00:07:55.319 got it because it's a new thing total
+00:07:59.759 accounts receivable it's just that here
+00:08:02.120 the accounts receivable have gone up
+00:08:04.599 more than sales and that's just a
+00:08:06.520 function of the complexity of this
+00:08:07.879 product transition the other part of
+00:08:09.520 what I would say is the first part of
+00:08:10.879 what you're saying is very similar to
+00:08:12.560 what Intel did to scale their chip
+00:08:15.039 dominance in the 80s and 90s with this
+00:08:17.120 Intel Inside program they didn't really
+00:08:19.479 need to do it probably in hindsight but
+00:08:22.080 it helped them support an ecosystem and
+00:08:23.840 it helped diversify their buyer base so
+00:08:27.039 that fewer people had power over them
+00:08:28.759 and so a lot this quote unquote round
+00:08:30.599 tripping from your perspective is
+00:08:32.479 diversifying the ownership pool of
+00:08:34.000 Nvidia is what you're saying absolutely
+00:08:36.200 and sending Nvidia gpus to people who
+00:08:39.719 are adopting invidious reference
+00:08:41.279 architecture which they believe is the
+00:08:43.839 best architecture for those gpus whereas
+00:08:47.120 each hyperscaler has their own slight
+00:08:50.120 tweaks to that server um that
+00:08:52.839 hyperscaler does it so it looks more
+00:08:54.440 like their other servers but maybe
+00:08:56.680 doesn't run quite as well as the
+00:08:58.640 standard in video reference architecture
+00:09:00.560 with all of their chips not just the
+00:09:02.720 Nvidia gpus but the Intel Insight
+00:09:05.279 analogy is interesting I had not thought
+00:09:06.720 of that thank you jth well it he is
+00:09:09.440 definitely doing Keynotes like Intel did
+00:09:13.040 and trying to Brand the actual names of
+00:09:15.760 the units which is yeah it was
+00:09:17.560 interesting Pentium inside people would
+00:09:19.320 go and buy a computer does it have a
+00:09:21.279 Pentium and which Pentium does it have
+00:09:23.000 and now Apple's doing that same thing
+00:09:25.120 with the M4 you know series and people
+00:09:27.440 are actually asking questions like you
+00:09:29.160 know so there is something to it that
+00:09:31.959 maybe some portion of the consumer base
+00:09:34.519 wants to know what's inside right and
+00:09:37.040 and doesn't cost much to brand since
+00:09:39.200 we're here let's talk a little bit about
+00:09:40.720 the cor weave IPO cor weave is going to
+00:09:42.800 go public on Friday we tape on Thursday
+00:09:45.040 so when you listen to this episode you
+00:09:48.320 will have the actual data on what
+00:09:50.480 happened with their IPO they're going to
+00:09:52.360 raise 1.5 billion they're a neocloud
+00:09:54.600 neocloud means not just cloud computing
+00:09:56.800 but a new Cloud thus Neo and company has
+00:10:01.000 really been growing quickly it was
+00:10:02.720 reported they wanted to raise 2 billion
+00:10:04.399 and I guess they stepped it down to 1.5
+00:10:06.040 billion at a 23 billion doll valuation
+00:10:09.480 they had two billion in Revenue last
+00:10:11.079 year so they're up 8X and they've got a
+00:10:13.680 lot of debt that's the other issue with
+00:10:15.360 core weave that people note almost 8
+00:10:17.480 billion in debt and one customer
+00:10:19.839 Microsoft accounts for over 60% of their
+00:10:21.880 revenue always a bit of a a red flag
+00:10:24.360 there as Troth mentioned Nvidia accounts
+00:10:26.519 for 15% of their revenue and they own 6%
+00:10:29.399 6% seems small enough to not make a
+00:10:31.160 difference so Gavin I guess what do you
+00:10:33.760 make of this company cor weave and their
+00:10:35.880 timing what it says about the markets
+00:10:37.839 because hey this is the biggest IPO
+00:10:39.800 we've had in a bit I think maybe the
+00:10:42.200 last ones that were notable were Reddit
+00:10:44.120 last year and a couple of other
+00:10:45.800 companies got out obviously stripe
+00:10:47.800 hasn't gotten out so is this a major
+00:10:50.639 Milestone or are they going out because
+00:10:53.040 they have to go out because of all this
+00:10:54.600 debt and then this is all against maybe
+00:10:57.519 a backdrop of did we
+00:10:59.959 overb and are these language models
+00:11:02.600 going to require as much Hardware uh as
+00:11:06.240 we thought last year so we're definitely
+00:11:08.760 not overbuilt yet like since deep seek
+00:11:12.240 came out like what has happened since
+00:11:14.079 deep SE car1 came out is China is buying
+00:11:17.120 every GPU they can one of the largest
+00:11:19.920 Chinese server manufacturers warned last
+00:11:21.720 night that there's about to be a
+00:11:24.320 shortage of gpus in China the price of
+00:11:27.079 memory DM goes up every day
+00:11:30.680 so we're not overbuilt
+00:11:33.720 today Point number one and you know open
+00:11:36.360 AI yesterday said that they are gating
+00:11:39.040 their new image generation service
+00:11:40.760 because they don't have enough gpus so
+00:11:42.639 we're not overbuilt yet Blackwell is
+00:11:44.600 going to be a very successful product
+00:11:46.240 cycle there is a little bit of a
+00:11:47.920 prisoners dilemma
+00:11:49.760 where you're going to spend on Blackwell
+00:11:52.480 almost no matter what because if you
+00:11:54.320 don't you're afraid that you seed a big
+00:11:56.120 advantage to a competitor you know if
+00:11:57.839 you're meta and you don't spend Google
+00:11:59.560 spins and their AI is a lot better than
+00:12:01.880 yours you're worried you may not catch
+00:12:03.519 up I would say that that's already the
+00:12:05.360 case yeah that's already the case but
+00:12:07.440 here this is a brand new architecture
+00:12:09.000 which is a lot I mean not only is it
+00:12:12.079 really different as we went through it
+00:12:14.199 is a lot better but now I would say all
+00:12:16.360 these gpus they're hard to get them
+00:12:18.399 working at the beginning like right now
+00:12:20.880 Hoppers are you know finally tuned
+00:12:22.680 everybody knows how to work with them
+00:12:25.199 Blackwell you know it's almost like
+00:12:26.839 you're you're skipping ahead you know
+00:12:29.240 it's like imagine each one of these gpus
+00:12:31.279 is a Formula 1 car you know now you
+00:12:33.320 skipped ahead 10 years in the future and
+00:12:34.920 you have to kind of learn how to drive
+00:12:36.600 that new Formula 1 car and it takes a
+00:12:38.880 while till you drive it as well as the
+00:12:40.240 old one so any other thoughts Gavin on
+00:12:42.600 the core weave IPO which will have
+00:12:44.760 happened by the time people listen to
+00:12:46.839 this episode yeah I would say you know
+00:12:49.720 the sentiment on X investors on X are
+00:12:52.279 pretty negative on core weave I think
+00:12:53.760 there's maybe a little bit of you know
+00:12:55.639 negativity in the market they had to you
+00:12:57.399 know reduce the range lower the price
+00:13:00.240 and everyone is very convinced this is a
+00:13:02.320 commodity business loads of debt loads
+00:13:04.399 of capex you know one really
+00:13:06.920 concentrated customer and that they're
+00:13:08.920 completely
+00:13:10.000 undifferentiated and I guess I would
+00:13:11.639 just make a point which is in America if
+00:13:15.800 you can pick any category any retail
+00:13:18.600 category and if you can run a thousand
+00:13:20.760 stores in 50 different states with
+00:13:23.639 different preferences and have those
+00:13:25.560 stores well lit clean stocked by
+00:13:28.399 friendly employees es with the right
+00:13:30.399 stuff in stock you will create a
+00:13:32.760 business that is worth you know well
+00:13:35.000 over 10 billion and that's sounds easy
+00:13:37.760 but very few companies have been able to
+00:13:39.480 do it I think what may be
+00:13:42.320 underappreciated about cor weave is it's
+00:13:44.680 actually really hard to run these big
+00:13:47.760 training clusters everybody thinks it's
+00:13:50.600 easy but to synchronize ttin of
+00:13:53.360 thousands of gpus where they're melting
+00:13:55.399 or cables are being
+00:13:57.120 unplugged and you know you lose a bunch
+00:13:59.440 of training data when it happens I just
+00:14:02.000 think it's
+00:14:03.120 not it may not be the commodity that
+00:14:06.040 everyone thinks it is and it may turn
+00:14:07.880 out that it's much harder to do than
+00:14:10.279 people think would there be analogy for
+00:14:12.199 that wouldn't there like people thought
+00:14:14.160 AWS would never work at the beginning
+00:14:16.320 they were like who's going to trust
+00:14:17.880 Amazon with their compute and it was
+00:14:20.519 difficult and it you know developers
+00:14:22.079 didn't understand exactly how to
+00:14:24.199 abstract their services into the cloud
+00:14:26.720 yeah the world was convinced AWS well
+00:14:29.160 lot of the world was convinced AWS was a
+00:14:30.880 terrible business for the first few
+00:14:32.279 years you know when Microsoft announced
+00:14:33.959 they're going to transition to the cloud
+00:14:35.240 it was very controversial because you go
+00:14:37.519 from a capex light model to a capex
+00:14:39.639 heavy model so you know Wall Street
+00:14:41.480 consensus has been wrong before and I do
+00:14:43.880 think core weave
+00:14:45.600 runs these big GPU clusters as well as
+00:14:49.120 anyone and there aren't that many people
+00:14:51.560 on planet Earth who can run them well
+00:14:54.279 and you know it's kind of easy you can
+00:14:56.600 just look at the npv of their contracts
+00:14:58.399 and the asset value and so everyone you
+00:15:01.040 know who's kind of you know confidently
+00:15:03.600 putting out all the negatives here like
+00:15:05.079 I just think there are some offsetting
+00:15:07.600 positives that it's good for you know I
+00:15:10.440 think people to be aware of and consider
+00:15:13.079 that's all I think it's a good company I
+00:15:15.680 I would I would second I mean I think
+00:15:17.000 it's a and it's a great business and I
+00:15:18.639 think they deserve to be
+00:15:21.000 successful totally true and it's great
+00:15:23.079 to see a competitor to the existing
+00:15:25.000 three or four clouds that are out there
+00:15:26.920 and uh it's great to see a company go
+00:15:28.639 public I mean m&a with whiz and now core
+00:15:31.399 weave going public rol lenina KH is over
+00:15:34.360 you got to give the administration a lot
+00:15:36.440 of credit for maybe removing the
+00:15:38.120 roadblocks to m&a and IPOs or at least
+00:15:41.680 people perceive that so I don't know if
+00:15:43.839 perception becomes reality here but does
+00:15:46.040 seem like m&a is a bit on Far yeah Gavin
+00:15:48.240 and and people are talking above and
+00:15:49.959 beyond Wiz I mean cor we bought weights
+00:15:51.639 and biases which I think is a really
+00:15:53.120 interesting acquisition for them that
+00:15:54.680 kind of kind of further differentiates
+00:15:56.720 them and maybe decommodify them a little
+00:15:58.680 bit uh but there have been quite a few
+00:16:01.399 acquisitions by big companies of smaller
+00:16:03.440 companies in the last month and I think
+00:16:05.680 as none of the companies that have been
+00:16:07.000 bought have been public maybe it's
+00:16:08.759 flying a little under the radar but it's
+00:16:10.920 happening in in I think a you know an
+00:16:13.480 accelerating way and I think this would
+00:16:15.240 be you know very good for the market and
+00:16:17.560 animal spirits
+00:16:19.880 and everything that we care about do you
+00:16:22.519 think that there's any issues there was
+00:16:23.959 a a bunch of companies added to the
+00:16:25.720 export control list two days ago some
+00:16:28.199 were in quantum Computing generally a
+00:16:30.360 lot of it though was in the Nvidia
+00:16:31.920 ecosystem so I think that the the US
+00:16:34.639 government is really trying to make sure
+00:16:36.199 that these next gen gpus don't go
+00:16:38.040 directly to China but also don't go to
+00:16:39.920 countries that could then redirect them
+00:16:41.560 into China did you get a chance to look
+00:16:43.079 at that or did your team look at that
+00:16:44.440 yet oh yeah and I think this will be
+00:16:47.240 part of you know the upcoming
+00:16:49.040 negotiation between America and China
+00:16:51.560 but it is hard you know it's like if we
+00:16:54.560 can't you know if America cannot keep
+00:16:56.880 illegal drugs out of you know out of our
+00:17:00.720 own country these gpus are arguably
+00:17:04.760 dramatically more valuable per unit you
+00:17:08.199 know like a Blackwell is like you know
+00:17:10.119 the size of this and it's just hard
+00:17:14.240 particularly like you know America we're
+00:17:16.319 trying to keep drugs
+00:17:17.959 out here China is trying to bring the
+00:17:20.480 gpus in and it's kind
+00:17:23.039 of significantly you know I think harder
+00:17:26.000 to prevent than than you know smuggling
+00:17:28.520 of drugs now everybody does their best
+00:17:31.360 but um yeah the United States I think
+00:17:34.440 it's always going to be kind of a game
+00:17:35.840 of cat and mouse until you get some sort
+00:17:37.760 of grand bargain and right now they
+00:17:40.320 they're allowed to sell certain kinds of
+00:17:41.679 gpus into China and I'm sure they'll be
+00:17:44.360 should we be doing that Gavin is is this
+00:17:46.200 going to be an effective strategy you
+00:17:48.840 know if you were advising the president
+00:17:50.600 we just say ah just let Nvidia sell them
+00:17:53.440 it's a Fool's eron to try to stop them
+00:17:54.799 because they're all going to Singapore
+00:17:56.080 or wherever Vietnam and and routing
+00:17:59.000 their way around I think we're putting
+00:18:01.039 enough friction into the
+00:18:03.600 system that it does theoretically give
+00:18:07.679 America an advantage at the cost of
+00:18:11.600 creating tremendous incentives for China
+00:18:15.400 to develop their own semiconductor
+00:18:18.480 ecosystem and you know pressure to kind
+00:18:22.159 of you know Necessities a mother of
+00:18:24.080 innovation and these export controls are
+00:18:27.080 creating an immense incentive for China
+00:18:29.159 to be really algorithmically Innovative
+00:18:30.919 and you saw that with deep SE where
+00:18:32.559 there were some real algorithmic
+00:18:35.120 Innovations yeah so said another way if
+00:18:38.280 we squeeze too tightly on letting them
+00:18:40.320 buy the Nvidia chips they might make a
+00:18:42.919 better Nvidia I mean become resilient I
+00:18:46.400 think they're doing it now they're
+00:18:47.320 trying now so that's well they're trying
+00:18:49.320 but I guess what are the chances they
+00:18:51.000 succeed in your mind Gavin in creating
+00:18:52.600 something competitive with or better and
+00:18:55.880 then what would that say about the AI
+00:18:57.440 race in the next five years I think zero
+00:18:59.799 I think it's really really hard but over
+00:19:02.360 the 10 years who knows and if you're the
+00:19:05.320 CCP 10 years isn't that long if you're
+00:19:07.760 America 10 years is an eternity yeah
+00:19:10.600 they're thinking in centuries and we're
+00:19:12.640 thinking in decades yeah that's probably
+00:19:15.039 correct hey um let's pivot over to AI
+00:19:17.760 agent since we're in the AI and
+00:19:19.880 obviously there's other big topics this
+00:19:21.159 week we'll get to you doing politics and
+00:19:23.720 uh signal and all that kind of good
+00:19:25.320 stuff but we have a company
+00:19:29.320 that seems to be you know having a
+00:19:32.760 moment it's called Manis uh m n it's
+00:19:36.520 currently in private beta but they're
+00:19:38.159 creating agents and we've been talking
+00:19:40.000 about this agentic revolution basically
+00:19:43.440 little you know jobs going out we used
+00:19:45.919 to call them Crown jobs back in the day
+00:19:47.320 but going out and doing things for you
+00:19:49.360 and it seems to be working and it's
+00:19:51.080 pretty impressive what do you think
+00:19:53.440 about this company specifically if
+00:19:55.760 anything and are we getting to a point
+00:19:59.520 where we're going to have the same chat
+00:20:01.320 GPT 2.5 moment but with agents and then
+00:20:04.559 if we do have that Gavin what will that
+00:20:07.679 look like in terms of employment and how
+00:20:09.360 companies are run look I do think uh
+00:20:12.760 if agents materialize as a reality and
+00:20:16.159 you know Manis is maybe a little bit of
+00:20:18.080 a chat GPT moment for that I would say
+00:20:21.360 open Ai and anthropic anthropic
+00:20:23.720 developed something called the model
+00:20:24.760 context protocol that openai just
+00:20:27.440 adopted I think it will become a
+00:20:28.679 standard and it makes it really easy for
+00:20:31.159 an llm like stripe can just integrate
+00:20:34.880 with mCP and then any llm that uses mCP
+00:20:38.880 can you know interact with
+00:20:41.640 stripe and this is solving a big big
+00:20:44.679 problem for agents um in terms of just
+00:20:47.360 making them you know much easier to use
+00:20:49.960 much more
+00:20:51.799 standardized but if agents become a
+00:20:54.360 reality one the ROI on AI and Blackwell
+00:20:58.159 is going to be very high and two what
+00:21:01.480 will it's not good for human
+00:21:04.679 employment but what will be kind of I
+00:21:07.159 would say the rate limiting factor is
+00:21:09.840 just compute in a world where we all
+00:21:12.559 have agents doing things for us all day
+00:21:15.120 long it's going to be a long time before
+00:21:18.480 we have enough compute in the ground for
+00:21:21.279 that to be a really really widespread
+00:21:24.200 reality and I think that's why you know
+00:21:25.600 open AI was talking about pricing their
+00:21:27.520 first agents at ,000 $20,000 a month
+00:21:30.600 like this Roi on AI question I think to
+00:21:32.880 me really does come down to agents in
+00:21:35.200 the short term freeberg your thoughts on
+00:21:37.880 these agents and the impact they could
+00:21:41.440 have on running businesses employment
+00:21:43.880 and just generally efficiency we now
+00:21:45.840 starting to have some standards mCP
+00:21:47.799 stands for model context protocol your
+00:21:51.400 thoughts freeberg on how this might
+00:21:53.039 impact you know architecting a business
+00:21:55.120 which you're doing right now with ohal
+00:21:56.760 how how might this change how people
+00:21:59.279 work on a day-to-day basis let's maybe
+00:22:01.240 give some examples for the audience look
+00:22:03.360 I'll take a slightly different view than
+00:22:05.279 Gavin I've said this in the past but
+00:22:08.200 maybe I'll try and contextualize it a
+00:22:11.080 little bit I think that the big unlock
+00:22:14.039 with these kind of agentic systems is
+00:22:17.960 not necessarily about replacing the easy
+00:22:20.720 human tasks which everyone kind of
+00:22:23.039 thinks are kind of the obvious
+00:22:25.400 application of them I think what we're
+00:22:27.720 missing is is the ability to unlock
+00:22:32.000 really complex tasks that are not really
+00:22:35.200 manageable today I
+00:22:38.360 can't come up with a very Grand project
+00:22:43.240 planning exercise with the team I have
+00:22:45.360 today I have to go hire 30 people let
+00:22:47.679 let me give you an example I want to go
+00:22:49.880 build a plant breeding facility under
+00:22:52.919 the ocean okay so how do I do that so to
+00:22:56.159 do that today I'm like well I got to go
+00:22:57.640 hire people that under understand oceans
+00:22:59.360 I that understand engineering that
+00:23:02.240 understand how to do underwater
+00:23:03.159 engineering I have to hire material
+00:23:04.679 scientists I have to hire physicists I
+00:23:06.440 have to hire construction project
+00:23:08.400 planners there's a whole group of
+00:23:10.240 complicated people I would need to kind
+00:23:11.559 of put together to be able to kind of
+00:23:14.200 execute on that opportunity but now a
+00:23:16.720 smaller group maybe three or four people
+00:23:18.520 or two people can say okay let's use
+00:23:20.480 these agents to help us build that
+00:23:22.039 project plan and spec out every step of
+00:23:24.760 the process Define how much everything
+00:23:26.760 will cost what workloads are needed
+00:23:28.919 who's going to do what so suddenly that
+00:23:31.279 difficult project becomes a reality
+00:23:32.919 here's another good example the
+00:23:34.000 California highspeed rail program that's
+00:23:36.000 ballooned to this hundred billion doll
+00:23:37.440 what if we had a agents organizing and
+00:23:39.799 running that program well maybe the cost
+00:23:41.760 of that program and the reality of that
+00:23:43.159 program makes it a reality now so it
+00:23:46.279 suddenly becomes a program that we
+00:23:47.840 launch we get it done we build this
+00:23:49.559 railroad whereas all the people all the
+00:23:51.360 complication all the confusion has and
+00:23:53.919 whatever grift has been going on has led
+00:23:56.039 to a hundred billion dollar balloon
+00:23:57.320 budget with no outcome so I think
+00:23:59.440 complex projects can actually be tackled
+00:24:01.919 in an easier way that actually unlocks a
+00:24:04.480 tremendous amount of building a
+00:24:05.960 tremendous amount of opportunity for new
+00:24:08.080 employment for people to come in and
+00:24:10.520 small teams of three or four to get
+00:24:12.080 hired that can now do the work of three
+00:24:14.000 or 400 really deeply sophisticated
+00:24:16.600 highly technical people with a very
+00:24:18.520 small less technical group so I think
+00:24:20.400 there's going to be a tremendous amount
+00:24:22.039 of opportunity in biotech in Engineering
+00:24:27.360 in Manufacturing in Urban Design in
+00:24:31.919 transportation and on and on and on
+00:24:33.880 where small groups are going to get spun
+00:24:35.399 up that can use these systems uh to do
+00:24:37.600 really complex projects it's less about
+00:24:39.480 like oh you're going to replace call
+00:24:40.559 centers like sure maybe but like what
+00:24:43.039 are we going to be able to do with these
+00:24:44.080 things that I can't even think about
+00:24:45.240 doing today chamath let's level this up
+00:24:48.000 and just talk about the bigger picture
+00:24:49.760 which is our giant rival in
+00:24:53.200 China they're actually catching up in
+00:24:55.919 some cases exceeding us if they get to
+00:24:58.399 AI first and then are able to execute on
+00:25:01.520 this given their top- down controls uh
+00:25:04.200 given the size of their population given
+00:25:06.200 their advantages in manufacturing that
+00:25:08.600 we're seeing now with xiaomi making
+00:25:12.720 cars you know what uh byd is doing in
+00:25:15.799 self-driving and cars what we're seeing
+00:25:17.760 now with chips versus Nvidia it's kind
+00:25:20.360 of getting set up that almost everything
+00:25:22.640 we're building here in the US China's
+00:25:24.480 copying at a very fast pace and then
+00:25:26.320 exceeding so what's at stake here big
+00:25:28.720 picture and then I guess we'll then look
+00:25:31.440 at why what should our what should our
+00:25:33.840 philosophy be you know on in a
+00:25:36.080 geopolitical way yeah let's just do an
+00:25:38.000 economics lesson why does
+00:25:39.880 anybody invest they invest because you
+00:25:43.440 let's just say a
+00:25:44.720 dollar you want to generate a rate of
+00:25:47.320 return that's better than all your
+00:25:49.039 Alternatives and the riskier it gets the
+00:25:52.039 more of a return you want right that's
+00:25:53.559 the basic idea so if you invest a dollar
+00:25:55.679 in bonds you can get five or six% if you
+00:25:57.840 invest a dollar in an early stage
+00:26:00.480 startup you want to get 50 or 60%
+00:26:02.640 returns okay that's that's obvious but
+00:26:05.720 the return that you generate is in part
+00:26:08.960 driven by how profitable is this company
+00:26:11.600 obviously and if you have a 300 person
+00:26:14.880 group of people that has to do something
+00:26:17.080 it's a lot harder for them to generate
+00:26:18.919 profit and then to generate a rate of
+00:26:20.679 return than it is if you have two or
+00:26:22.919 three people so the
+00:26:26.559 Chinese strategic comperative is no
+00:26:29.360 different than small startups versus an
+00:26:32.399 incumbent which is to be as hyper
+00:26:34.720 disruptive economically as you can so I
+00:26:39.159 think the big risk is not necessarily
+00:26:42.640 Chinese but many of these Alternatives
+00:26:44.760 will come from China which is to say
+00:26:47.320 that where are the
+00:26:49.000 incumbents most of the incumbents are
+00:26:51.760 American companies if you look at SAS
+00:26:54.480 software that's a perfect example of
+00:26:56.960 where there is trillions of of dollars
+00:26:58.880 the the software industrial complex as I
+00:27:01.000 call it right that's like a three and a
+00:27:03.559 half four trillion dollar industry it
+00:27:06.440 grows by 10% a year so every year it's
+00:27:09.279 adding 300 billion of quote unquote
+00:27:12.640 Enterprise Value is that value that is
+00:27:15.440 being created I think a lot of the
+00:27:17.720 customers would say no so if you're a
+00:27:20.480 startup or if you're China what is the
+00:27:23.640 most disruptive thing you could do well
+00:27:26.679 you could take a three-person team to
+00:27:28.200 disrupt a 30,000 person team and blow a
+00:27:30.440 hole right in the side of that trillion
+00:27:32.799 economy that's the big risk so whether
+00:27:35.600 the risk comes from here whether it
+00:27:37.080 comes from the Chinese I think what
+00:27:39.159 you're seeing is that if these agents
+00:27:41.159 can scale the Opex the actual load of
+00:27:45.760 making something will go down by an
+00:27:47.559 order of magnitude and that is and maybe
+00:27:50.679 even two orders of magnitude that is
+00:27:52.840 incredibly disruptive because the
+00:27:55.039 existing incumbents cannot compete with
+00:27:57.880 that cost scale and Gavin to just bring
+00:28:01.519 this around the horn Here China is
+00:28:03.600 playing a different game and obviously
+00:28:05.840 there's other competitors on a global
+00:28:07.200 basis but they are subsidizing for
+00:28:08.919 example their cars and their entire car
+00:28:11.640 industry so the margin of cars here in
+00:28:14.159 the United States and Germany and Japan
+00:28:16.279 that's their opportunity they don't
+00:28:17.600 actually need to make a profit on it
+00:28:19.000 they could just break even there are
+00:28:20.480 cars now 10 20 30 $40,000 cars now being
+00:28:23.880 made there so this then leads us to oh
+00:28:27.880 my goodness will Americans buy these
+00:28:30.320 we're pretty great customer Will trump
+00:28:32.760 block them with tariffs so let's make
+00:28:35.519 the jump what would the Tariff policy be
+00:28:38.360 if as chamat points out here we've got
+00:28:41.120 this big broadside of our Battleship
+00:28:43.240 that they can put a giant hole through
+00:28:45.679 which is our software industry our car
+00:28:48.760 industry pick and Industry that they
+00:28:51.159 might be able to just blow a hole in
+00:28:52.880 because they don't need to make a profit
+00:28:54.120 they just need to have jobs and break
+00:28:55.679 even
+00:28:58.240 what should our tariff policy be or what
+00:29:00.159 is it I mean we know what it is for
+00:29:01.440 Autos it's 25 do we know what it is I
+00:29:03.799 mean it seems like it's inlux so maybe
+00:29:05.840 we start there what should the policy be
+00:29:08.679 what do you perceive the policy is
+00:29:11.480 because it does seem to be a moving
+00:29:13.320 Target we'll see what happens on April
+00:29:15.240 2nd because Trump keeps tweaking let's
+00:29:18.039 say adjusting in
+00:29:20.080 public yeah I mean this is so
+00:29:24.559 traditional economics would say hey
+00:29:27.440 tariffs are not a good idea we should
+00:29:29.080 have free trade you know everybody
+00:29:30.840 understands the principle of comparative
+00:29:32.320 advantage I do think the Trump
+00:29:34.240 Administration is pretty
+00:29:35.960 convicted that that approach has not
+00:29:39.159 worked well for America over the last 20
+00:29:43.039 years and maybe it's worked well for
+00:29:44.840 knowledge workers but it hasn't worked
+00:29:46.480 well for kind of ordinary Americans and
+00:29:49.200 I think they are very convicted in
+00:29:51.440 changing that and trying to bring back
+00:29:53.320 kind of good highquality manufacturing
+00:29:55.159 jobs to America I think they see tariffs
+00:29:57.480 as an eff way to do that are they right
+00:30:00.720 is is it going to be because a lot of
+00:30:02.399 what we're seeing in factories is
+00:30:04.120 automation so what they may have been
+00:30:06.840 right about tariffs bringing back
+00:30:09.080 high-paying middle class jobs for the
+00:30:10.720 past 20 years we cannot go in a time
+00:30:12.360 machine and change that policy and isn't
+00:30:14.720 where the Puck's going that we're going
+00:30:16.279 to have Optimus robots figure robots
+00:30:18.360 pick a robot company doing all this work
+00:30:20.760 here's what tariffs do tariffs are a
+00:30:23.120 level setting mechanism
+00:30:25.600 that fixes a historical imbalance look
+00:30:29.640 the reality is that we have had
+00:30:32.480 meaningfully lower tariffs for products
+00:30:35.320 coming in then those reciprocal tariffs
+00:30:38.519 exist for our products going into these
+00:30:41.559 other countries that's true and the one
+00:30:44.760 thing I'll say about Donald Trump is you
+00:30:46.480 may not agree with the tariffs but he's
+00:30:48.720 been incredibly consistent I was on
+00:30:51.720 YouTube
+00:30:53.360 yesterday and I stumbled into an
+00:30:56.080 interview he did Nick maybe you can find
+00:30:58.279 this with Larry King in
+00:31:00.240 1987 and he ran a full page ad in the
+00:31:03.440 New York Times talking about this exact
+00:31:05.760 issue and then went on Larry King and he
+00:31:08.240 walked through the entire trade
+00:31:09.799 imbalance 40 years ago yeah he's been on
+00:31:12.799 this so this is not a fly by night thing
+00:31:16.760 so what do they want what they want is
+00:31:19.279 to create the economic incentives to
+00:31:22.360 reshore as much industry as possible
+00:31:25.880 into the United States the delicate
+00:31:28.000 Balancing Act though is that after 20
+00:31:30.760 years of
+00:31:32.000 globalism and a perverted version of
+00:31:35.440 free trade because it's not what it is
+00:31:36.880 today it's been
+00:31:38.120 perverted it is incredibly difficult to
+00:31:40.639 do that without these whack-a-mole
+00:31:43.600 problems emerging in other areas right
+00:31:46.279 whether it's inflation or whether it's
+00:31:48.279 retaliatory tariffs or consumption taxes
+00:31:51.080 all of these complexities I think are
+00:31:52.919 what has to get figured out but the
+00:31:54.559 structural reason of why tariffs make
+00:31:57.120 sense is not necessarily to overly
+00:31:59.559 penalize one country over another but
+00:32:01.960 it's simply to say if you charge 5% we
+00:32:04.600 charge 5% if you charge 10% we charge
+00:32:06.760 10% Nick has the clip you just just
+00:32:08.519 listen to this from 40 years ago we
+00:32:10.039 don't have free trade right now because
+00:32:11.440 if you want to go to Japan or if you
+00:32:12.880 want to go to Saudi Arabia or various
+00:32:14.440 other countries it's virtually
+00:32:15.880 impossible for an American to do
+00:32:17.399 business in those countries virtually
+00:32:19.000 impossible so the fact is that you don't
+00:32:21.360 have free trade we think of it as free
+00:32:23.360 trade but you right now don't have free
+00:32:24.919 trade so Gavin let's get back to this
+00:32:27.240 original question with chat's important
+00:32:30.080 context Trump has been on this for a
+00:32:31.639 while but is this where the Puck's going
+00:32:34.600 we have the lowest unemployment of our
+00:32:37.279 lifetime wages are obviously not where
+00:32:39.320 we want them to be so is the right
+00:32:41.440 solution to in put in a bunch of tariffs
+00:32:44.039 create trade Wars and then hope that
+00:32:46.720 people are going to build factories that
+00:32:48.440 employ humans when in fact it probably
+00:32:51.559 will be robots so is there another
+00:32:54.799 solution like maybe raising the minimum
+00:32:56.760 wage I don't know what are you your
+00:32:57.960 thoughts well one I think it's jamat and
+00:32:59.919 that clip Illustrated he is convicted in
+00:33:02.720 this it's 40 years old it's happening
+00:33:05.960 yeah it's happening and so I would say
+00:33:08.240 two things like one I think it's all
+00:33:10.240 something I'm always conscious
+00:33:12.919 of at um my wife Becky one of her
+00:33:17.000 college or High School reunions there's
+00:33:19.200 a guy there who' been in her class and
+00:33:20.639 had been in the Navy Seals and he
+00:33:22.120 deployed to 80 countries he'd been the
+00:33:23.840 Navy Seals for like a decade and I said
+00:33:26.240 what's the one thing that you learned
+00:33:28.799 and he said the one thing I learned is
+00:33:30.760 everybody in America is always trying is
+00:33:32.880 always focused on making America better
+00:33:35.480 have youve been to 80 different places
+00:33:37.159 all around the world our only goal
+00:33:40.279 should be to not screw it up in America
+00:33:42.120 just don't make it worse because America
+00:33:44.720 is so much better than everywhere else
+00:33:46.919 so the first thing is like you know chth
+00:33:49.039 said the word delicate and I think
+00:33:50.320 that's right and if I had one thought
+00:33:53.279 for the administration it would be every
+00:33:55.399 time they say the word tariff whatever
+00:33:57.320 they think
+00:33:58.320 Wall Street in the markets and I would
+00:34:00.440 say you know I think a lot of Business
+00:34:02.080 Leaders are convinced that tariffs are
+00:34:03.880 bed now maybe Wall Street is wrong and
+00:34:06.639 the administration is right one thing
+00:34:08.639 everyone agrees on is deregulation is
+00:34:10.639 good so every time they say the word
+00:34:13.040 tariff they need to say the word
+00:34:14.918 deregulation two or three times because
+00:34:18.239 the best way to I think maximize the
+00:34:20.800 odds of this policy succeeding despite
+00:34:23.399 the headwinds from
+00:34:24.719 automation I think it's going to be a
+00:34:26.440 long time before we have hundreds and
+00:34:27.879 millions of robots you know even between
+00:34:29.960 China and Tesla I think it's going to
+00:34:31.440 take a long time to make vast numbers of
+00:34:34.280 humanoid robots the best way to
+00:34:36.918 encourage this reshoring is just making
+00:34:39.239 it easier to do business in America okay
+00:34:42.560 100% can I just add one thing that's
+00:34:44.719 really really important what Gavin said
+00:34:46.320 there's a third thing I would add Gavin
+00:34:47.639 to your list which is we need to figure
+00:34:50.520 out the difference between manufacturing
+00:34:53.119 and IP and I think what we want to do is
+00:34:55.760 make sure that we trap the real value
+00:34:57.440 back back in America as well look I've
+00:34:59.079 told you guys a story before but when I
+00:35:02.040 was helping to run Facebook I was a
+00:35:03.680 signatory when we were setting up
+00:35:05.280 Facebook abroad we exported all of our
+00:35:07.839 IP to
+00:35:08.839 Ireland and lo and behold who do they
+00:35:12.320 sue Zach meta and me pink and we've been
+00:35:17.640 in this 10year lawsuit 15year lawsuit
+00:35:20.560 with the IRS because they're trying to
+00:35:22.400 come back and say hey Facebook you owe
+00:35:25.440 all of this money why because we
+00:35:27.839 exported all of our critical IP to
+00:35:29.520 Ireland and we trapped it there that
+00:35:31.800 should not have been able to happen we
+00:35:33.960 can fix it separately there's many
+00:35:36.520 companies who are abroad who live inside
+00:35:39.280 the American Market who have given a
+00:35:40.839 mechanism would import their IP into the
+00:35:42.760 United States if there was a mechanism
+00:35:44.280 to do so so not only can you have
+00:35:46.400 manufacturing you can also have the
+00:35:48.160 critical knowledge not just of that
+00:35:50.040 manufacturing but of that product of
+00:35:51.680 that supply chain those are the
+00:35:53.440 incentives that these nuances if we get
+00:35:55.640 right it's really a Renaissance for the
+00:35:57.640 United States let's talk a little bit
+00:35:59.319 about maybe other Solutions
+00:36:01.880 freedberg
+00:36:03.400 obviously perhaps raising the minimum
+00:36:05.839 wage or increasing corporate taxes in
+00:36:08.240 order to do that would that not
+00:36:10.599 also help us maybe build back the middle
+00:36:14.560 class that is the criticism I think some
+00:36:16.440 other people have we you know Trump when
+00:36:17.920 he did his tcj ja if people remember the
+00:36:21.640 tax cut and jobs act corporate tax rate
+00:36:23.880 was 35% we put it down to 21 and now rep
+00:36:27.760 ation of cash from overseas as chat's
+00:36:29.720 pointing out I think it's only 15% it's
+00:36:31.560 like everybody can kind of afford that
+00:36:33.960 so would that not be another way to
+00:36:37.119 solve this problem of the bottom half
+00:36:39.040 the bottom third not making enough or
+00:36:41.160 maybe even lowering their tax rate which
+00:36:42.800 is already pretty
+00:36:46.440 low well I think the proposal that I've
+00:36:49.359 heard from this
+00:36:50.880 Administration that we heard from Howard
+00:36:53.119 lutnick when we met with him was they're
+00:36:54.480 going to cut all taxes for people making
+00:36:57.599 less than $150,000 a year so get the tax
+00:37:00.480 rate to
+00:37:01.760 zero do you believe that do you think
+00:37:03.720 it's realistic now that it's after you
+00:37:05.319 do that you actually think that could
+00:37:06.599 happen I 100% do and in what timeline
+00:37:09.880 and why well that's the key question
+00:37:12.400 this is where this becomes like a first
+00:37:14.440 and second derivative problem let's just
+00:37:16.440 talk about it this way when you take
+00:37:18.480 money out of the economy you want to
+00:37:21.000 make sure you're also putting money back
+00:37:22.440 into the economy in another way to keep
+00:37:24.440 the economy stable or growing so if
+00:37:27.000 you're taking money out of the economy
+00:37:29.319 in the case of tariffs you're putting
+00:37:31.800 money into the government's
+00:37:33.960 coffers you're reducing people's
+00:37:36.119 spending because everything costs more
+00:37:37.960 now so consumers will spend less so what
+00:37:40.640 you want to do is you want to make sure
+00:37:41.880 that the money that you're
+00:37:43.280 repatriating is going back to the
+00:37:45.200 consumers so they can now have more
+00:37:46.920 money to spend so that's why you want to
+00:37:48.400 cut taxes at the same time that you're
+00:37:50.640 increasing the Tariff rates so if you
+00:37:52.599 increase the Tariff rates things cost
+00:37:54.319 more the government is now making things
+00:37:56.800 more expensive that's not good but at
+00:37:59.400 the same time if I cut your taxes and
+00:38:00.920 you got more money now than you did
+00:38:02.839 before so you can now buy the things
+00:38:04.160 that you were buying even though they're
+00:38:05.160 a little more expensive the economy
+00:38:07.400 should be able to remain stable or grow
+00:38:10.160 at the same time if you're cutting
+00:38:11.560 government spending that means that the
+00:38:14.119 government can afford to take less taxes
+00:38:17.079 in and so they can make that assessment
+00:38:20.200 so these are all we've said it many
+00:38:22.040 times these are all very related and to
+00:38:24.440 Gavin's point you've got to cut
+00:38:25.680 regulation at the same time so that the
+00:38:27.839 incremental dollars flow into things
+00:38:30.200 like automation onshore production so
+00:38:32.000 the cost of things come down and so
+00:38:35.400 again not a simple equation I would call
+00:38:37.720 it a grand economic experiment the
+00:38:40.040 analogy for me feels a little bit like
+00:38:41.720 there's four freight trains kind of
+00:38:43.200 passing by each other at very high speed
+00:38:45.520 and you're trying to pass all the
+00:38:46.599 ingredients to make a sandwich between
+00:38:48.599 the windows of the freight Trends you're
+00:38:49.800 trying to get them all over so you can
+00:38:51.200 make this delicious sandwich and get to
+00:38:52.599 this golden age that's the configuration
+00:38:55.200 that it feels like they need to kind of
+00:38:57.160 assess as and they're iteratively they
+00:38:59.200 have to thread the needle is I think
+00:39:01.079 your point and it's really hard to do
+00:39:03.880 and you use the phrase experiment Gavin
+00:39:06.079 you said before hey don't screw up this
+00:39:09.680 amazing country and what we've got here
+00:39:12.160 this sounds like a very high-risk you
+00:39:15.240 know High dexterity maneuver it feels
+00:39:17.480 like a a fighter plane like trying to
+00:39:20.200 land on you know a very small you know
+00:39:23.760 aircraft carrier can they pull this off
+00:39:26.040 can they get to the tariffs working at
+00:39:28.720 the same time inflation not spiking not
+00:39:31.440 impacting employment getting rid of
+00:39:33.640 people's taxes does this sound too
+00:39:35.760 complex to you and too much too fast
+00:39:38.520 what what is your honest thought Gavin
+00:39:39.880 as you watch this as a capital allocator
+00:39:41.359 are they going too hard too fast or is
+00:39:42.960 it worth pursuing this experiment as as
+00:39:46.240 freedberg framed it look Scott bent is
+00:39:49.480 probably the single most respected or
+00:39:51.599 was the single most respected macro
+00:39:53.119 investor in the world like he really
+00:39:55.560 understands the markets how they through
+00:39:57.720 to policy policy flows back he's an
+00:40:00.520 extremely smart talented guy they have a
+00:40:04.079 coherent Theory you know I thought
+00:40:06.960 Howard and Scott did a great job in the
+00:40:09.160 last two episodes Absolutely yeah kind
+00:40:11.680 of explaining the theory and the one
+00:40:14.000 thing I would just say having you know
+00:40:15.880 we all watched the first Trump
+00:40:17.240 Administration he is adaptable he adapts
+00:40:19.800 to
+00:40:20.680 circumstances and the midterms now are
+00:40:24.280 whatever whatever they are you know and
+00:40:26.880 and pol iCal terms they're they're 15
+00:40:29.079 months away from you know around the
+00:40:30.880 corner yeah around the
+00:40:32.640 corner so I think they're trying to do a
+00:40:35.079 lot as quickly as they
+00:40:37.560 can but I also think that if after a few
+00:40:41.079 months it's you know 6 months nine
+00:40:44.680 months it's not working they will adapt
+00:40:47.319 and I think that's one reason there's
+00:40:49.520 such an emphasis on reciprocity you know
+00:40:52.000 and Vietnam came out and they lowered
+00:40:53.880 their tariffs on American goods and
+00:40:55.680 that's that's good and so I think the
+00:40:58.000 out is oh you know maybe it's not going
+00:41:02.119 quite the way we hoped we're going to
+00:41:04.400 declare kind of hey we have a series of
+00:41:06.079 grand Bargains with these countries
+00:41:08.000 declare Victory maybe tariffs on
+00:41:10.800 American goods are slightly lower
+00:41:12.520 tariffs here are slightly higher feels
+00:41:14.680 more
+00:41:16.040 fair and you know move on to kind of
+00:41:18.640 firmer ground of kind of
+00:41:21.359 deregulation balancing the budget
+00:41:23.440 cutting government spending and cutting
+00:41:25.560 Government taxes commensurate with the
+00:41:27.880 spinning Cuts so I think they're trying
+00:41:29.880 the risky stuff first and if it doesn't
+00:41:32.520 work they will attack quickly yeah that
+00:41:34.960 was my perception especially after
+00:41:36.520 hearing bent on the all-in pod great job
+00:41:39.200 uh guys on getting those long form and I
+00:41:41.119 think this is where the administration
+00:41:42.319 is strong it's when they do a long form
+00:41:43.839 discussion and you hear their thoughts
+00:41:45.280 about it it doesn't sound as crazy as
+00:41:48.280 when you know all due respect to the
+00:41:50.400 president when the president is like I'm
+00:41:51.960 going to go easy on them I'm going to go
+00:41:53.040 hard on them you know and it's like a
+00:41:54.280 reality TV show and who's going to get
+00:41:55.839 fired this week you actually have two
+00:41:58.079 incredibly thoughtful I will point out
+00:41:59.960 Democrats lifelong Democrats around
+00:42:02.160 Trump and I I think that's like a really
+00:42:04.480 I had this crazy observation gabin I
+00:42:06.480 don't know if you notic it as well you
+00:42:08.200 know Trump lost his reelection campaign
+00:42:11.040 and he filled his whole cabinet with a
+00:42:12.920 bunch of Republicans this time he's
+00:42:14.680 filled his whole cabinet and everybody
+00:42:16.040 around him's a Democrat and he's gone to
+00:42:18.160 a really unique concept here of how to
+00:42:21.520 solve the US's problems which is get the
+00:42:24.640 working man and woman a higher salary
+00:42:27.880 and lower their taxes this this could be
+00:42:30.359 like an incredible Grand bargain that
+00:42:32.800 bent I think is the architect of and
+00:42:35.640 letnik is you know the communicator and
+00:42:38.160 and uh executor of you think they have a
+00:42:40.640 chance of pulling this off what do you
+00:42:41.839 if you had to handicap it I hope they do
+00:42:44.040 as an American I hope they do I think
+00:42:46.119 they for sure have a chance of doing it
+00:42:47.920 they have a solid theory of the case
+00:42:50.040 they need to execute well um I would say
+00:42:52.960 Doge's efforts are important you know if
+00:42:55.319 you can really cut a trillion dollars of
+00:42:57.280 of waste Fraud and Abuse out of the
+00:42:59.559 government government spending that's
+00:43:01.760 good you know we should all agree As
+00:43:03.400 Americans you know maybe Democrats they
+00:43:05.520 want more government spending maybe
+00:43:07.000 Republicans want less but for whatever
+00:43:08.680 given level of government spending we
+00:43:10.079 want it to be as efficient as possible
+00:43:12.200 because if you're a Democrat that means
+00:43:13.599 more services if you're a republican
+00:43:15.559 maybe that means a smaller government so
+00:43:17.599 I think they have a solid theory of the
+00:43:19.280 case I think there's a reasonable chance
+00:43:21.440 it will succeed but if it doesn't I
+00:43:23.160 think they will tack quickly and the one
+00:43:26.240 thing they can't afford is a recession
+00:43:27.960 if they're focused on the def deficit a
+00:43:30.480 recession blows out the deficit so they
+00:43:33.040 will be ultimately sensitive to these
+00:43:35.839 market-based forces you know rates stock
+00:43:39.319 markets the foreign Cur foreign currency
+00:43:42.119 markets trath you want to uh maybe wrap
+00:43:45.119 this up for us here move on to some of
+00:43:47.359 the other topics of the Week John Arnold
+00:43:49.440 had a post this morning on X he was
+00:43:51.720 saying the deficit this year is going to
+00:43:54.240 be 1.9 trillion his best guess for 20 26
+00:43:57.480 was 1.9 trillion and he was just kind of
+00:43:59.480 asking his followers what they thought
+00:44:02.240 if you listen to Howard last week what
+00:44:04.440 he said is I'm going to raise a trillion
+00:44:06.839 dollars and elon's going to cut a
+00:44:08.480 trillion now if that comes to pass then
+00:44:13.280 we have a balanced
+00:44:15.000 budget if you ask the sharp money on
+00:44:17.880 Wall Street their numbers range from 170
+00:44:21.839 billion to 300 billion on the revenue
+00:44:24.760 side so let's take the midpoint of
+00:44:27.400 around 200 to 250 billion okay 250 if
+00:44:30.640 the sharp money is right that means that
+00:44:33.720 tariffs and all of that stuff will only
+00:44:35.760 really raise a quarter of a trillion
+00:44:38.400 which means that there's going to be
+00:44:39.559 even more pressure on Elon he's going to
+00:44:41.480 have to find not one trillion but 1.75
+00:44:44.559 trillion again assuming that that $1.9
+00:44:47.800 trillion deficit exists next year so
+00:44:50.720 that's the math it is A2 trillion doll
+00:44:53.280 Bogey and they have to fill it somehow
+00:44:55.760 my intuition is that the waste Fraud and
+00:44:58.920 Abuse is probably meaningfully more
+00:45:02.240 significant than we think when we were
+00:45:04.319 there we heard about one consulting firm
+00:45:08.079 95 plus of all of their revenue
+00:45:10.359 multi-billion dollar Revenue comes from
+00:45:12.079 time and materials contracts with the
+00:45:13.559 United States government we heard
+00:45:15.599 throughout the week I've reposted it on
+00:45:17.520 X $65 billion is paid out to Consulting
+00:45:22.640 organizations Beyond just that one in
+00:45:25.200 these time materials costplay contracts
+00:45:27.720 if you start to add all of these up
+00:45:30.040 today we just heard that the2
+00:45:32.680 billion grift to Stacy abrs was canceled
+00:45:35.880 and they're now starting a doj
+00:45:38.119 investigation into how those dollars got
+00:45:39.920 given to her all of these things start
+00:45:42.240 to add up it may be the case that if
+00:45:45.640 there's an upper bound on
+00:45:47.760 tariffs that there will be more than a
+00:45:50.520 trillion and Elon kind of fills in the
+00:45:53.720 Gap but I think it's possible they are
+00:45:56.079 looking Gavin also at military spending
+00:45:59.000 and maybe cutting that 8% a year every
+00:46:01.680 year for a couple years that's where big
+00:46:03.119 dollars are are sitting and obviously
+00:46:05.000 nobody wants to touch Social Security
+00:46:06.680 despite I do have to point this out for
+00:46:08.800 my besties you guys did a great job with
+00:46:10.160 that interview and uh you know I just
+00:46:12.640 want to say fmz for like trying to spin
+00:46:15.599 it as you know letnik was trying to take
+00:46:18.960 away people's Social Security they
+00:46:21.839 literally took an hour plus interview
+00:46:25.559 they clipped it to try to make it seem
+00:46:28.520 like he was saying the opposite of what
+00:46:30.960 he said he was saying the frauders will
+00:46:34.480 be the first to respond not my mom my
+00:46:37.720 mom would just you know call eventually
+00:46:39.280 and say hey can I she would assume that
+00:46:41.280 there was good intentions yes whereas
+00:46:43.520 the fraud would be like oh man I got to
+00:46:44.960 get here I think it's you know what
+00:46:47.079 swier did the same thing no let me
+00:46:48.680 finish my little thing here TR because I
+00:46:50.559 don't want you guys have to defend
+00:46:51.839 yourself listen I couldn't make it you
+00:46:53.880 guys did these last minute interviews
+00:46:55.319 mazeltov we missed you I thank you for
+00:46:57.880 saying that I would have loved to be
+00:46:59.280 there I will be at the next ones for
+00:47:00.800 people who are saying like oh there's
+00:47:02.040 some conspiracy there's no conspiracy I
+00:47:03.520 had ski week these guys went to do
+00:47:05.000 business or whatever they were doing and
+00:47:06.280 to see their friends in DC and uh you
+00:47:09.000 know these things happened very rapidly
+00:47:11.400 uh and I wasn't able to get there bottom
+00:47:13.680 line these were great substantive long
+00:47:16.760 interviews from Democrats one of them a
+00:47:19.720 gay Democrat by the way the highest
+00:47:21.200 ranking gay Democrat who's ever been in
+00:47:23.280 uh an Administration the left and the
+00:47:25.760 media should be giving praise to these
+00:47:27.599 interviews they should be studying them
+00:47:29.960 and they're doing the exact opposite
+00:47:31.599 they're trying to spin them into
+00:47:32.839 something they weren't it's a gift what
+00:47:34.920 the all-in podcast did to the American
+00:47:36.800 people by showing them a long form
+00:47:39.200 interview with the administration
+00:47:41.200 explaining these details don't spin it I
+00:47:44.119 think great I think it's great sorry I'm
+00:47:46.079 pissed off about it piss me off I don't
+00:47:48.000 think you should be pissed off I think
+00:47:49.119 it's wonderful that these people lie I
+00:47:51.440 think it's incredible that they just put
+00:47:52.960 it out there and it just further erodes
+00:47:56.440 what's happening I think if once Bobby
+00:47:59.160 puts a nail in the coffin of Pharma ads
+00:48:01.359 on TV byebye Anderson Cooper byebye all
+00:48:04.599 these guys I think it's great I'm so
+00:48:07.240 pissed off I'm sorry like when I see
+00:48:09.079 people lie like that they should be
+00:48:10.800 lying they should be lying they should
+00:48:12.680 it's great they're because they will not
+00:48:14.359 exist okay gav you're a neutral third
+00:48:16.000 party go ahead no I just say three
+00:48:17.440 really quick points like first what
+00:48:19.240 Howard lutnick literally said was if we
+00:48:22.079 can find a lot of waste Fraud and Abuse
+00:48:24.559 we don't have to raise the retirement
+00:48:26.160 age everybody talking about raising the
+00:48:27.680 retirement age to 70 if we administer
+00:48:30.079 these programs more efficiently we can
+00:48:32.079 keep it at 65 and you know that's good
+00:48:34.520 for everyone the second thing is it's
+00:48:36.319 just interesting to me there's so much
+00:48:38.599 doubt about this when the inspector
+00:48:40.440 generals of you know both Biden and
+00:48:43.319 Obama you know said there were hundreds
+00:48:45.000 of billions of dollars of waste Fraud
+00:48:46.240 and Abuse and I would just say someone
+00:48:47.559 in my immediate
+00:48:49.480 family has had their social security
+00:48:52.200 their identity stolen and someone is
+00:48:54.200 using their social security number to
+00:48:56.440 collect unemployment benefits in Alabama
+00:49:00.280 and this has been going on for two years
+00:49:02.680 and they've been unable to stop it and
+00:49:04.760 so you know you don't want to rely too
+00:49:06.000 much on anecdote but I think this is
+00:49:08.640 really happening and then just the third
+00:49:10.839 thing I would just say is I do think you
+00:49:13.240 know no one has ever raised no president
+00:49:15.400 has ever raised my taxes more than Trump
+00:49:17.280 did and I think they are pretty
+00:49:19.000 convicted in their focus on normal
+00:49:22.599 workingclass Americans and making their
+00:49:25.599 lives better is actually genuinely their
+00:49:28.599 North Star You can disagree with the
+00:49:30.559 theory of the case you can disagree with
+00:49:34.160 you know the the way they're
+00:49:35.280 communicating it but I think their
+00:49:37.160 intentions are good absolutely and you
+00:49:40.799 know what he even said in the interview
+00:49:42.680 if you if you really listen to it he
+00:49:44.839 said he was disgusted by the idea that
+00:49:46.680 you would even raise the Social Security
+00:49:49.319 age I think we should by the way any
+00:49:51.880 rational person I think the majority of
+00:49:53.720 people say hey maybe it should go up a
+00:49:54.960 year or two maybe we should have a
+00:49:56.119 little auster here on the margins but no
+00:49:59.040 of course not we can't talk about that
+00:50:00.799 and um you know the the thing this
+00:50:03.240 Administration could do better is
+00:50:05.200 communication those two long form
+00:50:06.799 interviews was a great step in the right
+00:50:08.640 direction they should do more of those
+00:50:10.319 and do should do a better job of
+00:50:12.480 explaining this waste and fraud they're
+00:50:14.359 doing a good job I give them like you
+00:50:16.520 know a B+ but there's more work to be
+00:50:18.599 done here and there's waste there's
+00:50:22.240 overspending there's fraud and there's
+00:50:24.200 abuse right these are like different
+00:50:25.520 categories to get to the fraud that
+00:50:28.799 takes building legal cases all that
+00:50:30.920 stuff's going to have to be referred to
+00:50:32.319 people we have a justice system here
+00:50:33.880 it's going to take years to figure out
+00:50:36.119 if somebody actually stole but waste and
+00:50:39.160 overspending we're going to find that
+00:50:40.920 pretty quickly so it's a process people
+00:50:42.839 and I I I for one trust the process
+00:50:45.119 because we're overspending massively
+00:50:47.640 let's get to some other conversations
+00:50:49.440 here I think maybe we start with J I
+00:50:52.480 just think it is it is whether it's a
+00:50:55.119 semiannual or quarterly something that
+00:50:57.599 is like the Doge report and everything's
+00:51:00.799 been audited and triple checked these
+00:51:03.040 are the three categories this is what we
+00:51:05.480 found I think something like that would
+00:51:07.480 be very helpful I think they need
+00:51:09.119 investigative journalists I'm I'm happy
+00:51:10.760 to help with this I'll do a doge pod you
+00:51:12.839 know listen I'm not part of the
+00:51:13.720 administration everybody knows I was
+00:51:15.040 never Trumper I'm independent blah blah
+00:51:16.280 blah disclaimer disclaimer disclaimer I
+00:51:18.040 would totally go in there and I would do
+00:51:20.040 a do J why do you keep saying
+00:51:23.079 independent and then you throw yourself
+00:51:24.839 a label that says you're not independent
+00:51:27.480 I'm telling people I I was a never
+00:51:29.400 Trumper but if Trump is going to
+00:51:30.880 surround himself with the moderate
+00:51:32.480 Democrat are you truly
+00:51:34.280 independent I like to think so I I try
+00:51:36.559 to be independent call balls and Strikes
+00:51:38.079 here on the program I'm not going to
+00:51:39.559 bend the knee to the administration I'm
+00:51:40.960 going to I'm going to be critical of
+00:51:42.839 trump coin I'm going to be critical of
+00:51:44.559 these deportations which we're going to
+00:51:45.839 get to and I will say critical things
+00:51:48.000 but I would go in there and I would do
+00:51:49.319 the Doge pod with Elon or whoever in the
+00:51:51.280 group is and go Point by Point through
+00:51:53.520 these things to explain it to the
+00:51:54.920 American public let's keep moving here
+00:51:56.559 we got such a full docket I want to talk
+00:51:58.440 about signal text our bestie and talk to
+00:52:00.839 him about it I think that's yeah I mean
+00:52:02.200 maybe I should go in there because
+00:52:03.440 listen I don't even consider this like a
+00:52:05.000 trump Administration now I consider this
+00:52:06.440 a democratic moderate Administration
+00:52:09.880 everybody around Trump now is a Democrat
+00:52:12.040 I think I might be in I might be in you
+00:52:13.640 guys look like you had a good time you
+00:52:15.520 guys look like you had a good time last
+00:52:17.040 week I kind of want to included it look
+00:52:19.200 like fun did you vote for Trump I don't
+00:52:22.119 want to bring in my vote I did not vote
+00:52:24.599 for comma let's keep moving here I'm
+00:52:26.520 going to keep dropping wow my go I did
+00:52:28.480 not vote for KLA I couldn't vote for her
+00:52:30.559 she said I don't want to say it
+00:52:34.440 but anyway let's keep going I I don't
+00:52:36.680 want to vote for somebody who was
+00:52:37.720 selected I wanted to vote for somebody
+00:52:39.200 who had a primary and the Democrats disr
+00:52:41.240 OD for not having a speedrun primary
+00:52:44.160 signal gate it's the biggest story in
+00:52:46.200 America right now on Monday turning this
+00:52:48.559 is incredible what a day no I me list
+00:52:50.599 I'm going to call balls and shrikes
+00:52:51.799 right now 70% of what they're doing I
+00:52:53.720 agree with 30% I don't I'm going to get
+00:52:55.440 to the 30% and human rights basis I
+00:52:57.480 think you just admitted you voted for
+00:52:58.720 Trump it's really incredible actually
+00:53:00.280 anyway let's keep moving here I'm from
+00:53:02.400 the great state of Texas I'll leave that
+00:53:04.720 signal gate signal gate signal gate on
+00:53:06.920 Monday the Atlantic published a story
+00:53:09.119 titled the Trump Administration
+00:53:10.559 accidentally texed me their War plan
+00:53:12.680 somehow Atlantic editorinchief Jeffrey
+00:53:15.599 Goldberg was added to a super high
+00:53:18.319 profile signal group with our secretary
+00:53:22.200 of state our vice president tulsy
+00:53:25.440 bessent the CIA director the Secretary
+00:53:28.240 of Defense how is this possible folks
+00:53:31.319 they added a journalist the edin chief
+00:53:33.680 of the Atlantic to their War planning
+00:53:35.839 signal group they shouldn't be using
+00:53:37.280 signal obviously to do this stuff and
+00:53:40.559 inside this group they discussed the
+00:53:42.280 plans to strike houy targets across
+00:53:44.480 Yemen nobody noticed nobody checked that
+00:53:48.960 the editor-in-chief of the Atlantic was
+00:53:51.240 in the group
+00:53:52.559 chat they included the exact t targets
+00:53:57.400 the actions the timing of all of this it
+00:53:59.799 was apparently cut and pasted from some
+00:54:02.000 other system by heg our secretary of
+00:54:05.559 defense and former Fox commentator
+00:54:08.440 that's not a dig it's just a fact and
+00:54:10.079 I'm not saying it as a dig
+00:54:12.040 chth people are losing their mind over
+00:54:14.319 this I could get into all the details I
+00:54:15.920 think most people know it because it's
+00:54:17.200 taking up the
+00:54:18.400 whole all the oxygen in the room in the
+00:54:20.920 media in the group chats number one
+00:54:24.359 what's your general take on what
+00:54:25.880 happened to how stupid is this how
+00:54:27.680 ridiculous is it does it matter go ahead
+00:54:30.200 Jam start us off here I think that what
+00:54:33.799 folks have stopped talking about
+00:54:35.440 entirely which I think is just worth
+00:54:37.480 touching upon okay is what is actually
+00:54:40.480 going on that
+00:54:42.440 necessitated this group chat to be
+00:54:44.760 created in the first place in such haste
+00:54:48.440 so I have a couple of images that I
+00:54:50.400 pulled just to explain what this issue
+00:54:52.400 is so the problem that we have is that
+00:54:56.520 somewhere
+00:54:58.280 after the war with
+00:55:00.839 Gaza Iran continues to fund these houti
+00:55:05.000 rebels in Yemen and what do they start
+00:55:07.079 to do they start to invade and flood
+00:55:09.119 into the Red Sea and they start to block
+00:55:12.040 up the suas canal in different points
+00:55:14.520 making it very perilous for Freight
+00:55:17.280 traffic to get there so what do folks do
+00:55:19.520 they're either forced to go all the way
+00:55:21.400 around the Cape of Good Hope or risk
+00:55:23.880 attack through the Suz Canal so what do
+00:55:26.520 you think happens
+00:55:27.839 well the traffic through the Red Sea in
+00:55:30.200 the sus Canal falls off a cliff and then
+00:55:33.319 you would ask well why is that important
+00:55:35.160 well the problem is that because of that
+00:55:36.960 other chart and this chart prices start
+00:55:39.559 to Skyrocket so if you're trying to ship
+00:55:41.920 things even going into the United States
+00:55:44.480 prices start to rise 30 40% going to
+00:55:47.200 Europe prices are rising 300 and 400% if
+00:55:50.760 you add that all together as Gavin said
+00:55:53.480 earlier we're in this very delicate
+00:55:55.640 moment where we're fixing all these
+00:55:57.079 parts of the economy the thing we can't
+00:55:58.880 have is productivity go down you can't
+00:56:02.000 have a recession and so if you have a
+00:56:04.119 bunch of input prices that go up or
+00:56:06.400 trade slow down now you're bringing the
+00:56:10.799 likelihood of a recession to the
+00:56:12.119 Forefront so that's one thing the second
+00:56:14.599 thing which was included in the group
+00:56:16.640 chat is it turns out that nobody was in
+00:56:19.640 a position to fight off these houthis
+00:56:22.920 except the United States the British the
+00:56:25.559 French all of their Naval capacity
+00:56:28.000 wasn't strong enough or adaptable enough
+00:56:30.520 to fight these folks off so the United
+00:56:32.559 States had no choice but to attack these
+00:56:35.520 guys and reset and so what happened now
+00:56:38.920 all of a sudden traffic is reset right
+00:56:42.280 volumes are back up by the third week of
+00:56:44.720 March which is where we are now we're
+00:56:46.839 back to where they were even a year
+00:56:49.079 ago the price of shipping is now
+00:56:51.319 contained the inflation risk is
+00:56:53.359 contained the productivity hit is
+00:56:55.760 contained
+00:56:57.480 it's just
+00:56:58.440 important that's the context why they
+00:57:01.559 did the attack great I find it crazy
+00:57:03.960 that we still actually for 95 articles
+00:57:06.680 though Jason on Signal we have only less
+00:57:09.920 than one article on this so I just
+00:57:11.079 wanted the smart people listen to our po
+00:57:13.119 to actually understand it the second
+00:57:14.880 thing the second we're to send the bill
+00:57:16.680 to Europe because this is really a
+00:57:19.000 European problem because okay so we have
+00:57:21.079 the whole Pacific Ocean we can accept
+00:57:23.440 things through and you can go ports in
+00:57:24.839 Texas or you go so the point is we're on
+00:57:27.280 a shock so the point is we're on a shock
+00:57:29.480 clock people had to act quickly here's
+00:57:32.039 my big problem with signal I think it
+00:57:33.880 was a [ __ ] up okay and I think I think I
+00:57:37.079 think it was an important set of
+00:57:39.240 decisions that had to be made but I
+00:57:40.640 think the using signal was a mistake but
+00:57:42.920 there's very one narrow reason why and
+00:57:45.400 we've said this in our group chat the
+00:57:47.559 signal desktop app is total and complete
+00:57:50.559 garbage okay and when you build apps
+00:57:54.400 somewhere along the way we were all told
+00:57:56.599 all of us as app developers oh you need
+00:57:58.599 to have an app on every endpoint it
+00:58:02.079 needs to be available for Android it
+00:58:03.520 needs to be available for the iPad it
+00:58:05.400 needs to be available for your phone it
+00:58:06.880 needs to be available for the desktop
+00:58:08.480 and the problem is now you'll have a
+00:58:11.039 computer at home you'll have a computer
+00:58:13.079 In Your Den you'll have a computer at
+00:58:14.599 the office some it person comes and
+00:58:17.359 helps you install this stuff and now all
+00:58:19.000 of a sudden instead having one attack
+00:58:21.480 Vector you you have seven right so this
+00:58:24.480 is insanity so
+00:58:26.799 it's a mistake it's a stupid mistake but
+00:58:29.119 I think it's a mistake and so I think
+00:58:30.799 like you know let's give it two
+00:58:32.280 scaramucci I think we'll forget about it
+00:58:35.480 give it a scarci or to should somebody
+00:58:37.240 resign should somebody be fired no no no
+00:58:39.520 I think these are mistakes and I think I
+00:58:41.079 think by the way sorry the other thing
+00:58:42.280 is John rackliff was very clear there
+00:58:44.079 are very clear procedures that they
+00:58:45.760 inherited which is no administration's
+00:58:47.559 fault but there's some security it
+00:58:49.839 person that writes these things it's
+00:58:52.359 approved and so rewrite those things to
+00:58:54.680 be more normal your thoughts here do you
+00:58:57.440 have a
+00:58:58.280 take so I think this issue will become
+00:59:02.200 one of whether or not government
+00:59:06.799 officials can use signal and apps like
+00:59:11.079 it for
+00:59:13.640 communication this is a controversy
+00:59:15.680 that's been around for some time but
+00:59:16.880 it's actually being tried in the courts
+00:59:18.559 right now there's I think four Active
+00:59:21.079 cases so the federal records Act was
+00:59:24.200 originally passed in 1950
+00:59:26.799 and then there was this amendment
+00:59:28.319 related to electronic communications
+00:59:30.160 that was passed in
+00:59:31.400 2014 and the federal records act says
+00:59:34.079 all government officials and employees
+00:59:36.039 have to create maintain and preserve
+00:59:38.240 adequate and proper documentation of
+00:59:40.160 activities transactions decisions
+00:59:42.079 policies and other business that's the
+00:59:44.440 law that's the law and it says adequate
+00:59:46.400 and proper documentation is defined as
+00:59:48.200 records that clearly document the
+00:59:49.920 government's decisions and actions and
+00:59:53.119 that can be preserved and retrieved for
+00:59:54.680 accountability transparency and
+00:59:56.039 hisorical purposes and then we have the
+00:59:57.520 foil laws which allow you as a citizen
+01:00:00.039 or as a journalist to go make a request
+01:00:01.720 Freedom of Information Act this is to
+01:00:03.880 have a functioning democracy what you're
+01:00:06.039 talking about here freeberg is people
+01:00:07.880 who work for us should not be able to
+01:00:09.799 endr run their communication and that's
+01:00:12.160 the law yeah the Foya provides access to
+01:00:14.559 government records because our taxpayer
+01:00:16.039 dollars pay for the government to do its
+01:00:17.839 work and therefore access so the
+01:00:19.720 question is is the particulars of the
+01:00:22.640 communication that's taking place
+01:00:24.880 amongst these individuals in this case
+01:00:26.960 and in the daily work done by government
+01:00:29.799 officials that's like this where people
+01:00:32.319 are updating one another or talking with
+01:00:33.960 one another about things does that have
+01:00:36.880 restrictions around preservation of
+01:00:39.079 Records under the federal records Act
+01:00:40.799 and the amendment that came out in 2014
+01:00:43.319 and so there were a bunch of lawsuits
+01:00:44.880 one is the competitive Enterprise
+01:00:46.240 Institute against the OSP the office of
+01:00:48.359 Science and Technology policy in
+01:00:50.400 2016 where using email accounts and
+01:00:53.119 Communications that weren't properly
+01:00:54.480 archived or preserved was challenged by
+01:00:57.079 this institute and the DC Circuit Court
+01:00:58.839 of Appeals ruled that the officials who
+01:01:01.200 use private email for official business
+01:01:03.119 must copy or forward email
+01:01:04.319 Communications government accounts to
+01:01:05.680 comply the citizens for responsibility
+01:01:07.799 and ethics in Washington act sued the
+01:01:09.599 Trump Administration in 2017 and this is
+01:01:12.079 ongoing in multiple forms right now in
+01:01:14.880 the courts where there's a lot of
+01:01:17.000 procedural
+01:01:18.440 complexity but the courts have generally
+01:01:20.880 said that they emphasize that these
+01:01:22.799 officials are obligated to preserve
+01:01:24.240 official Communications and that failure
+01:01:27.319 is violating the laws then there's
+01:01:29.160 Judicial Watch versus Department of
+01:01:30.559 Homeland Security and then there's
+01:01:32.559 National Security archiv versus Mike
+01:01:34.200 Pompeo the state department 2019 which
+01:01:36.400 is also still in the courts and I think
+01:01:39.240 from these cases and this particular
+01:01:41.559 incident there's going to become much
+01:01:43.960 greater kind of call it Clarity and also
+01:01:46.480 a better understanding of the
+01:01:48.240 consequences of what communication do
+01:01:50.640 you need to preserve records of and what
+01:01:53.160 communication are you allowed to have
+01:01:55.240 off the Record that you what do you
+01:01:56.799 think freeberg I mean we get it there's
+01:01:58.480 a what do you personally think like what
+01:02:00.720 do you David freeberg the sulan of
+01:02:02.799 science think I think it is
+01:02:04.279 counterproductive to have every piece of
+01:02:06.440 communication foilable and kept in the
+01:02:08.839 public record I think that's a mistake
+01:02:10.599 and I'll tell you why when you're making
+01:02:12.520 a business decision let's say you're
+01:02:13.799 making an HR decision the management
+01:02:15.359 team sitting around they're talking
+01:02:16.480 about a particular candidate or person
+01:02:18.039 at the company should we give this
+01:02:19.599 person a raise should we terminate
+01:02:21.000 someone you don't want to have a record
+01:02:22.960 of that that employees can then go pull
+01:02:24.680 up and see and understand because it
+01:02:26.799 will have a really muing effect and a
+01:02:29.599 dampening effect on the types of
+01:02:31.760 conversation on the authenticity of the
+01:02:33.760 conversation on the productivity of the
+01:02:35.119 conversation that you will be able to
+01:02:37.160 have if you're forced to say this is
+01:02:39.440 always going to be in the public domain
+01:02:40.880 true and so I do think that this idea on
+01:02:43.119 like how did you make a decision and
+01:02:45.799 what was the action that you took those
+01:02:48.240 to me feel like they should be recorded
+01:02:50.960 and they should be foilable but all of
+01:02:53.359 the background material all of the noise
+01:02:55.480 all of the dialogue that leads to
+01:02:58.119 that I do not think that should be
+01:03:00.119 foilable and I think that you need to
+01:03:02.000 justify the actions and the decisions
+01:03:03.680 that you're making as a government
+01:03:04.839 official but I don't think that you need
+01:03:06.480 to have a record personally of
+01:03:08.880 everything that led up to that action or
+01:03:10.520 that decision because I think that that
+01:03:11.799 will be really deeply unproductive let
+01:03:13.880 me give a take
+01:03:15.039 here this is a serious issue they
+01:03:17.279 shouldn't be doing it for obvious
+01:03:19.000 reasons it's very easy to hack personal
+01:03:21.359 phones and they do have a way to do this
+01:03:24.760 which is called the skiff and there's
+01:03:26.200 other places for them to have secure
+01:03:28.000 communication and as you point out they
+01:03:29.839 work for the American people they should
+01:03:31.240 be a record of this they're breaking the
+01:03:33.039 law by doing this so the the the
+01:03:35.720 administration should not be breaking
+01:03:37.400 the law obviously we don't want them to
+01:03:39.599 do that also hexa clearly
+01:03:42.799 took a report of the attack plan cut and
+01:03:46.599 pasted it from a some server somewhere
+01:03:48.440 and then pasted it over this is a known
+01:03:50.599 Vector your your clipboard is what it's
+01:03:52.559 called and this is an attack Vector that
+01:03:54.279 you know anybody who's in
+01:03:56.839 or has basic security training knows
+01:03:59.720 that you can get your clipboard hacked
+01:04:01.720 very easily they need to take ownership
+01:04:04.359 of it and this is one of the things that
+01:04:05.720 this Administration and this group does
+01:04:07.520 very poorly instead of taking ownership
+01:04:10.240 like chamad said here just take just own
+01:04:11.760 it no big deal this is a you know a
+01:04:14.480 chance for us to learn and iterate on
+01:04:16.000 the security protocols yada yada we
+01:04:17.799 apologize let's move on they attack and
+01:04:21.599 this is Trump's like Playbook we have to
+01:04:23.359 attack the journalist so what did they
+01:04:24.680 do they attack the journalist they take
+01:04:26.200 no ownership and the second thing which
+01:04:28.279 this Administration really has an
+01:04:29.880 Achilles heal for is on top of just
+01:04:32.720 taking not taking ownership and
+01:04:34.880 attacking um the hypocrisy because this
+01:04:37.640 was the entirety of the anti-hillary
+01:04:39.880 movement was oh my God she did this
+01:04:42.039 exact same thing with her email and
+01:04:44.119 Republicans had a long list of oh my God
+01:04:46.920 here's hold on I'll finish you'll get
+01:04:48.480 your chance sham to defend your boys the
+01:04:51.799 point is it's complete utter hypocrisy
+01:04:54.559 and it's distasteful to attack the
+01:04:56.240 journalist which you added this is
+01:04:57.960 incompetence it's a mistake own it well
+01:05:00.760 hold on and then every single person's
+01:05:02.960 phone has to get dumped now and so
+01:05:05.279 they're not doing a good job
+01:05:06.359 communicating what they're going to do
+01:05:07.880 to make sure that somebody hasn't gotten
+01:05:10.200 onto everybody's personal phone why are
+01:05:12.920 they doing this on their personal phones
+01:05:14.839 as chth you very much pointed out these
+01:05:17.240 are attack vectors they should be using
+01:05:19.200 the phones issued to them for these
+01:05:21.440 communications not their personal
+01:05:23.480 devices goad the first thing is I think
+01:05:26.960 you're wrong about the fact that they
+01:05:30.160 don't have an adequate claim with this
+01:05:32.359 journalist I think it's fair to ask what
+01:05:35.359 is the ethical standard that that
+01:05:37.200 journalist should have had if you're
+01:05:39.799 added to something you know it's
+01:05:42.359 inappropriate the guy just sat there
+01:05:44.720 lurking you don't know how it was added
+01:05:47.079 Jason you're speculating it could have
+01:05:48.839 been Sure hold on it could have been
+01:05:50.480 injected okay it could have been
+01:05:52.000 injected into a laptop nobody knows yet
+01:05:55.119 this is why I think just admit what
+01:05:58.160 happened was a mistake I think they did
+01:06:00.039 that they're looking into it let them
+01:06:02.359 look into it I don't think you need to
+01:06:03.880 have scalples and heads and all this
+01:06:05.559 other stuff but I do think it's
+01:06:07.319 important to say why was this guy
+01:06:09.200 lurking about okay what ethical standard
+01:06:12.039 should he have at C he had none and by
+01:06:14.039 the way this guy oh no that's ridiculous
+01:06:15.520 you're so wrong with this he he tried to
+01:06:18.279 figure out okay your opinion is wrong in
+01:06:19.960 this case respect he tried to figure out
+01:06:22.920 what was going on here and then when he
+01:06:25.160 did figure out it he contacted them and
+01:06:27.480 removed himself he didn't stay on there
+01:06:29.160 indefinitely if he did that that would
+01:06:31.000 be wrong but for him to be added to
+01:06:33.200 something he may have he may have been
+01:06:35.400 being attacked himself and the other
+01:06:38.480 reason you're wrong is they went on the
+01:06:39.960 attack immediately and they denied that
+01:06:42.359 there was anything wrong they did not
+01:06:44.279 take ownership of it and that's why
+01:06:45.599 we're having this debate right now is
+01:06:47.240 they don't take ownership of these
+01:06:48.599 things Marco Rubio did say someone made
+01:06:51.680 a big mistake there were no
+01:06:54.240 consequences we learned we're going to
+01:06:56.400 do better and he is a secretary of state
+01:06:58.599 so someone in the
+01:07:00.000 administration did say that this was a
+01:07:02.160 mistake yeah and the other guys attacked
+01:07:03.599 a journalist so that's what I find
+01:07:04.799 distaste no no but hold on a second
+01:07:06.279 Trump said it was a mistake too I don't
+01:07:07.760 think these guys it it is it's a mistake
+01:07:09.839 so fix it and move on but the point
+01:07:12.920 should be what is the mistake the
+01:07:14.880 mistake is the security protocols that
+01:07:18.880 these guys rely on I don't I'm going to
+01:07:21.119 just go out on a limb as expert as they
+01:07:23.319 are in policy I think they're in experts
+01:07:25.960 in technology so there is probably
+01:07:29.000 somebody that is responsible for how all
+01:07:31.599 of these folks communicate how all of
+01:07:34.640 these folks get software installed on
+01:07:36.279 their multiple devices okay how they get
+01:07:38.839 new devices it I'm guessing that it's
+01:07:40.880 not them so I think that they're using
+01:07:44.760 their personal devices I think that's
+01:07:46.359 the problem why why is anybody in
+01:07:48.319 government using a personal device to
+01:07:51.359 Share Plans how do you know that for
+01:07:53.920 because they said it was their personal
+01:07:55.119 device
+01:07:56.240 they've said it this has been
+01:07:57.119 established that they did this on their
+01:07:58.240 personal devices that that that's
+01:07:59.799 totally established now okay um so and
+01:08:03.160 they have skips for this so I I just
+01:08:04.640 don't understand why they don't just
+01:08:07.200 their but again I'm saying the bigger
+01:08:09.000 issue is that they had to
+01:08:10.839 operationalized quickly they weren't in
+01:08:12.799 a position to be together the importance
+01:08:15.480 of the issue is getting lost it was an
+01:08:17.279 important issue that has consequences
+01:08:19.679 they're all within 10 ft of a skiff at
+01:08:21.198 all times their their SUVs are Skiffs
+01:08:23.479 their offices are Skiffs scav you have
+01:08:25.080 any final that's why before we move on
+01:08:26.359 to the yeah I would just say I thought
+01:08:28.399 the contents were interesting and that
+01:08:30.560 there are a couple of things you know
+01:08:31.679 there's all this you know oh the Trump
+01:08:33.799 Administration is you know coing up to
+01:08:36.198 Russia and you know trying to blow up
+01:08:38.560 these you know this post World War II
+01:08:40.279 alliance with Europe there are two
+01:08:42.399 things one they said we are the only
+01:08:44.960 people on our side of The Ledger who can
+01:08:48.679 deal with the houthis and our side of
+01:08:51.120 Ledger meaning like recognizing kind of
+01:08:54.158 Europe you know tradition alliances the
+01:08:56.759 good team the good team so I thought
+01:08:58.479 that was interesting that just for all
+01:09:00.000 the rhetoric they're conscious of who's
+01:09:02.560 the home team and second they made it
+01:09:05.439 was very clear to everyone in that chat
+01:09:06.839 and JD van raised it 3% of America's
+01:09:09.839 trade goes through the sus Canal 40% of
+01:09:13.120 Europe's trade so we are really doing
+01:09:15.679 this it will help us a little bit but it
+01:09:18.799 will help Europe a vast amount and we're
+01:09:21.279 doing something that helps them that
+01:09:23.640 they cannot do now hey they're asking
+01:09:26.319 that they want to be paid but I just
+01:09:28.238 think it made me think that behind the
+01:09:30.439 scenes a lot of this rhetoric about you
+01:09:33.238 know the US and the European Schism is
+01:09:35.560 overblown and we're still helping them I
+01:09:38.479 thought that was interesting yeah I
+01:09:40.439 think it's important note okay let's
+01:09:42.319 move on to our final two stories the
+01:09:44.238 Trump Administration has deported 238
+01:09:46.560 alleged gang members to a pretty severe
+01:09:50.120 prison called Cott CE coot prison in El
+01:09:53.839 Salvador here's a clip of them being
+01:09:55.679 dragged out of the United States and put
+01:09:57.760 into this
+01:10:00.040 extremely
+01:10:01.719 notorious prison this was all done under
+01:10:04.880 the alien enemies Act of 1798 this
+01:10:08.280 allows the president to detain and
+01:10:09.920 support individuals without due process
+01:10:12.120 from quote an enemy Nation during an
+01:10:14.120 invasion or quote predatory incursion
+01:10:17.120 it's been used before but only during
+01:10:18.840 actual Wars FDR used it to deport
+01:10:21.760 thousands of Germans Italians Japanese
+01:10:23.760 during World War II the Trump
+01:10:25.840 Administration is claiming that the gang
+01:10:27.600 members were sent to the US
+01:10:29.000 intentionally calling them a hybrid
+01:10:31.000 criminal State not surprisingly most of
+01:10:33.520 them were not all of them had criminal
+01:10:34.760 records in the US uh this was confirmed
+01:10:36.679 by ice and obviously some number of
+01:10:40.600 them appear to have been misidentified
+01:10:44.040 as gang members or terrorists I can tell
+01:10:45.960 you you know coming from a law
+01:10:47.280 enforcement family and just looking at
+01:10:49.440 the statistics out of 238 you're not
+01:10:51.719 going to bat a thousand so maybe you get
+01:10:53.480 a couple of these wrong former pro
+01:10:55.400 soccer player jersey Rees baros he fled
+01:10:59.880 Venezuela after being tortured by the
+01:11:01.239 government for protesting he's a
+01:11:03.719 refugee he has been mistaken for a gang
+01:11:06.440 member according to his people because
+01:11:09.920 he's got an arm tattoo supporting his
+01:11:11.679 favorite Club Real
+01:11:13.480 Madrid and there is a social media post
+01:11:17.280 that ice officials believe
+01:11:19.320 featured him making gang signs but it
+01:11:22.000 was actually the language for I love you
+01:11:24.800 according to to his attorney second
+01:11:27.199 example a shoe salesman and social media
+01:11:29.440 influencer noberto Rodriguez he fled
+01:11:32.440 Venezuela for Columbia out of
+01:11:33.719 desperation because he and his family
+01:11:35.480 were starving he's a father of three he
+01:11:37.560 was also suspected because of a tattoo
+01:11:39.520 which features playing cards and dice
+01:11:41.520 his family says he got to he got it to
+01:11:43.320 cover a scar on his forearm and third
+01:11:46.960 and final example stylus and makeup
+01:11:49.040 artist Andre Hernandez he is being
+01:11:52.480 represented by the immigration Defenders
+01:11:54.480 Law Center
+01:11:56.000 he claims he has no criminal history he
+01:11:58.600 sought Asylum after fleeing Venezuela
+01:12:01.120 where he was persecuted for being
+01:12:03.400 gay again his arrest was based on
+01:12:06.639 tattoos that is attorneys claim are not
+01:12:09.480 gang affiliated this has caused the US
+01:12:12.520 District Judge to pause these
+01:12:14.719 deportations the Administration has
+01:12:17.159 apparently continued these deportations
+01:12:19.320 and they're even gloating by doing
+01:12:21.920 videos highly produced videos
+01:12:25.360 threatening people with the prison in El
+01:12:28.760 Salvador again the seot your thoughts
+01:12:32.199 chth on this extradition process if any
+01:12:36.880 I mean as long as there's a mechanism
+01:12:40.320 for these mistakes to get
+01:12:43.800 rectified seems like the overwhelming
+01:12:46.000 majority of these folks should
+01:12:48.159 not have been in the United States and
+01:12:50.400 we part of illegal criminal
+01:12:52.679 organizations okay so there should be a
+01:12:54.520 mechanism Gavin your thoughts if
+01:12:56.920 innocent people were sent to a prison
+01:12:59.120 like that's a terrible mistake and you
+01:13:01.280 know that that
+01:13:03.639 happens and it shouldn't happen and
+01:13:05.719 hopefully it gets rectified but I guess
+01:13:07.880 my bigger thought is a little bit you
+01:13:10.560 know the this Administration and as we
+01:13:12.040 discussed they have a really ambitious
+01:13:14.000 agenda they want to fundamentally change
+01:13:16.239 America in the ways that they think will
+01:13:17.520 be better for kind of blue Coller normal
+01:13:19.800 working Americans and things like this
+01:13:23.239 you know signal gate if you if they made
+01:13:26.560 a mistake and sent innocent people to
+01:13:28.199 this prison there's only so many of
+01:13:31.239 those mistakes they can afford before
+01:13:33.719 they lose kind of the Mandate necessary
+01:13:36.360 to accomplish their
+01:13:38.880 goals and you know hopefully it's you
+01:13:41.800 know we're we're whatever we're not even
+01:13:44.199 into the you know third full month 66
+01:13:47.480 days 66 days we're into the third month
+01:13:49.520 but um we're 4.5% of the way through the
+01:13:53.000 second term and it feels like
+01:13:55.960 yeah six gamucci in yeah it's brutal It
+01:13:59.239 Ain't Easy here this is such a good
+01:14:01.440 point though Gavin continue they just
+01:14:03.920 execution matters like if they they to
+01:14:07.040 accomplish their goals they need to
+01:14:09.520 execute at a high level and
+01:14:12.719 communicate clearly and effectively and
+01:14:16.120 just if innocent people were sent to you
+01:14:19.560 know this prison mistake signal gate
+01:14:23.280 look you know hey maybe it's a big
+01:14:24.719 mistake it's a small mistake depending
+01:14:26.280 on where you sit I thought Marco Rubio's
+01:14:27.880 response was good but just like I think
+01:14:30.480 execution is important for them to
+01:14:32.080 accomplish their goals great freeberg
+01:14:34.520 any thoughts here I do not agree with
+01:14:38.280 sending people to prison or Detention
+01:14:40.760 Center that due
+01:14:42.320 process I felt similarly that Guantanamo
+01:14:45.199 Bay because I don't think
+01:14:47.199 it matches the rights and the values
+01:14:50.440 that the United States should stand for
+01:14:52.560 I think it's different if you believe
+01:14:54.040 that they're here illegally part of a
+01:14:55.280 criminal Enterprise and we don't want to
+01:14:56.600 try them in courts here then we should
+01:14:58.360 ship them back to a port of departure
+01:15:00.120 somewhere else in another country maybe
+01:15:01.520 it's back to Venezuela and let their
+01:15:04.120 courts try them but I will talk a little
+01:15:05.840 bit about this El Salvador motivation as
+01:15:08.760 you guys know the El Salvador prison
+01:15:11.239 that they set up for putting the um the
+01:15:12.920 gang members in had a radical impact on
+01:15:15.719 living standards in the country in 20 15
+01:15:19.920 the homicide rate per capita in El
+01:15:21.520 Salvador was 103 people per 100,000 so
+01:15:25.080 out of every thousand people were
+01:15:26.400 murdered every year they introduced this
+01:15:28.719 aggressive policy of rounding people up
+01:15:30.400 without you process and putting them in
+01:15:31.960 this prison and through that action they
+01:15:34.920 were able to reduce the homicide rate
+01:15:36.840 per capita below two per 100,000 which
+01:15:39.800 is what it was last year
+01:15:41.159 1.9 so it had a radically positive
+01:15:43.920 effect on society but obviously at the
+01:15:46.520 cost of a value that we in the United
+01:15:48.960 States hold dear which is the the value
+01:15:51.480 of due process and and the importance of
+01:15:53.120 due process because all it takes is one
+01:15:54.560 innocent life being locked up but so
+01:15:57.040 you're saying El Salvador there was no
+01:15:58.800 due process there was no due process and
+01:16:00.960 so there are plenty of stories if you
+01:16:02.239 watch the documentaries on this prison
+01:16:04.440 there are plenty of stories of people
+01:16:05.679 that later were released when they were
+01:16:07.199 found to be completely innocent and
+01:16:08.719 randomly rounded up or caught up in a
+01:16:10.520 sweep or something that they shouldn't
+01:16:11.679 have been at um and there was actually
+01:16:14.320 one fascinating interview I saw of one
+01:16:16.280 of the guys who spent over a year in the
+01:16:17.920 prison was completely Innocent but he
+01:16:20.239 said you know what it was worth it
+01:16:22.000 because the government's been able to
+01:16:23.440 clean up the streets I got to find this
+01:16:25.239 clip but I was really like shocked I
+01:16:27.040 couldn't believe that a guy that spent a
+01:16:28.239 year in this prison actually had
+01:16:29.520 something positive to say because it was
+01:16:30.960 such a say that to get out who knows you
+01:16:33.400 know well it was such a profoundly
+01:16:34.840 difficult place to live in El Salvador
+01:16:37.000 and we've all heard these stories but I
+01:16:38.800 do think that there's an a cue being
+01:16:40.719 taken by this
+01:16:43.280 Administration that there's a way to
+01:16:45.360 kind of very quickly resolve to a
+01:16:47.040 positive outcome with respect to
+01:16:48.600 immigration and crime but I do think
+01:16:50.600 Gavin's point is right that we do have
+01:16:52.400 to have some boundary conditions
+01:16:53.800 particularly as it relates to human
+01:16:56.199 rights that we do value here in this
+01:16:58.120 country and as long as there's a court
+01:17:00.239 trial as long as there's a judge as long
+01:17:01.920 as there's some sort of it doesn't need
+01:17:03.040 to be a jury of peers but as long as
+01:17:05.159 there's some evidentiary hearing to make
+01:17:07.760 the determination that someone is you
+01:17:10.320 know likely this criminal makes sense
+01:17:12.880 but again I'm much more in favor if
+01:17:14.880 there's going to be forced movement of
+01:17:16.880 people I don't think that they should
+01:17:18.320 necessarily be moved into a prison as
+01:17:20.120 much as moved to a port of departure and
+01:17:22.280 have them tried in another country if is
+01:17:25.159 a crime or we try them here and put them
+01:17:26.800 in prison I agree so much with what you
+01:17:29.400 just said due process is important like
+01:17:32.239 America like human rights are a core
+01:17:34.440 American value that was great you
+01:17:36.800 acknowledged that like the outcome in El
+01:17:39.679 Salvador was good homicides down 99.9%
+01:17:43.159 lots of lives saved and just you know
+01:17:46.639 there needs to be a balance between
+01:17:48.199 these yes then let me ask you guys a
+01:17:50.080 question very pointed question if you
+01:17:51.639 guys could Implement an El Salvadorian
+01:17:54.000 Style
+01:17:55.600 incarceration system
+01:17:57.480 tomorrow and it would have the exact
+01:17:59.960 same effect on American Crime so yeah C
+01:18:03.679 by with and and and I'll give you
+01:18:06.120 there's a four or five% error rate would
+01:18:09.560 you do it would the benefit of the safer
+01:18:14.600 Society be outweighed in your minds by
+01:18:17.880 the error rate or not absolutely not
+01:18:20.400 most people would say yes because they
+01:18:22.360 would view it wouldn't affect them and
+01:18:24.280 then the two 5% of people who have
+01:18:26.080 family members who are innocent get
+01:18:28.120 locked up I get that I'm saying what do
+01:18:29.719 you think yeah I I I wouldn't compromise
+01:18:32.199 that value yeah yeah we don't want to
+01:18:33.800 compromise that value it's incredibly
+01:18:35.320 dangerous yeah incredibly dangerous
+01:18:37.159 we've been riding on a bit of a high and
+01:18:40.560 I think there's a couple of things here
+01:18:42.080 this Administration could do better and
+01:18:44.920 communicating when they make a mistake
+01:18:46.560 and then human rights is such a core
+01:18:48.480 part I believe me Jason calanis believes
+01:18:51.760 that there is a sadistic nature to this
+01:18:53.960 Administration is an Achilles heal for
+01:18:55.880 them and when you see them doing videos
+01:18:59.360 from these prisons and saying this is
+01:19:01.239 going to happen to you and this prison
+01:19:03.239 is known for torture and this prison is
+01:19:05.199 known for just absolutely the most
+01:19:07.280 abhorent issues in the world this is the
+01:19:10.480 sadistic nature of this Administration
+01:19:13.000 that I think they need to drop because
+01:19:14.480 it is going to derail them and people
+01:19:16.400 care in this country deeply about human
+01:19:18.120 rights and process and there is a
+01:19:20.679 constitutional issue right now because
+01:19:23.199 Trump and this Administration is
+01:19:25.320 disobeying the court when they say hey
+01:19:27.560 let's slow down here there is no cost
+01:19:30.199 zero cost to Americans sending these
+01:19:32.400 people to a was station and
+01:19:34.400 investigating each of these cases to
+01:19:36.120 make sure we don't send a gay
+01:19:37.480 hairdresser to El Salvador another
+01:19:40.000 country to be tortured in prison if that
+01:19:42.000 is in fact the case and it is Against
+01:19:46.000 All American principles to not have due
+01:19:48.440 process and to have innocent people
+01:19:50.679 potentially go to jail and what all
+01:19:52.440 Republicans should do is here is say
+01:19:54.199 this is going to derail the
+01:19:56.639 administration these are the things that
+01:19:58.520 will build up over time and people just
+01:20:01.719 pragmatically speaking people in America
+01:20:04.320 who are rooting for this Administration
+01:20:06.440 to do some good things like I am when
+01:20:08.920 they do stuff like this and I represent
+01:20:10.480 a large swath of people it loses them
+01:20:12.960 votes and this is why they I predict
+01:20:15.480 this is why they will lose the mid turns
+01:20:17.080 if they continue to do this type of
+01:20:18.880 stuff that's my position it's not
+01:20:20.480 virtual signaling I've cared about human
+01:20:22.120 rights long before the all-in podcast
+01:20:23.840 existed I my first job was working at
+01:20:26.159 Amnesty International and this is a
+01:20:29.040 giant Mistake by this Administration
+01:20:30.880 Gavin you had some thoughts this whole
+01:20:32.199 debate is a question of ins versus means
+01:20:35.480 and it's like we all agree that the
+01:20:37.480 homicide rate down
+01:20:39.280 99.9% and Al Salvador is a good outcome
+01:20:42.800 it's a good end and this is one of the
+01:20:44.800 great philosophical questions and it's
+01:20:48.080 you know we can debate it
+01:20:50.360 endlessly and there has to be a balance
+01:20:53.560 between the two human rights are a core
+01:20:55.840 American value and I agree I think with
+01:20:58.280 a lot of what David said but I also
+01:21:00.199 think if you are you know going back to
+01:21:02.800 that homicide rate the Trump campaign
+01:21:05.360 you know they spoke to the mothers and
+01:21:08.360 the families of people who were brutally
+01:21:10.920 murdered or raped and
+01:21:13.360 murdered by um people who were illegal
+01:21:17.280 immigrants and were convicted criminals
+01:21:20.000 in their home country and were known
+01:21:22.280 convicted criminals and some how still
+01:21:25.280 were not apprehended and then committed
+01:21:27.080 terrible crimes that were very similar
+01:21:29.280 to the crimes they committed there you
+01:21:30.760 have a lot of compassion for the victims
+01:21:33.239 too but all they have to do like one of
+01:21:35.719 I thought elon's best moments and I
+01:21:37.880 think you know it's what doge is doing
+01:21:39.560 is great these are brilliant people
+01:21:41.000 working hard for
+01:21:43.440 free to do things that have never been
+01:21:45.719 done before in the government in terms
+01:21:47.120 of efficiency and kind of modernizing it
+01:21:49.719 but you know Elon said at one of the at
+01:21:51.199 the first press conferences listen we're
+01:21:53.239 going to make mistakes and then we're
+01:21:54.880 going to quickly correct them so to me I
+01:21:58.120 think all the administration needs to
+01:21:59.840 say and I do think more due process to
+01:22:02.159 David's point is good is like listen if
+01:22:04.880 we made a mistake it's terrible and
+01:22:07.120 we're going to fix it
+01:22:08.600 immediately and it just it bring gives
+01:22:11.080 you so much credibility when you say
+01:22:13.719 that
+01:22:15.159 agreed but isn't due process happening
+01:22:17.719 how else would you guys know that three
+01:22:20.040 out of the 238 were miscast the fact
+01:22:24.159 that you know that means the process is
+01:22:25.960 working I I think the question is what
+01:22:27.960 about the other 235 people their
+01:22:30.320 families talked to the press this wasn't
+01:22:31.960 from the administration from but the
+01:22:33.440 point is it's it's there so whether it's
+01:22:35.159 the freedom project or whether it's the
+01:22:36.600 Southern Property Law Center my point is
+01:22:38.239 there are resources is it bad when this
+01:22:40.520 happens absolutely my question is do you
+01:22:43.120 just blow the whole process up and then
+01:22:44.800 what do you do with the other 235 people
+01:22:46.719 You' hold all 238 at GMO if you wanted
+01:22:49.800 to in Humane prisons and process them
+01:22:53.239 and then have their attorneys get to
+01:22:54.600 look at their case you could give their
+01:22:56.840 cases to you could be public with their
+01:22:58.800 cases and say here are the cases these
+01:23:00.880 are the people we deporting and why
+01:23:02.560 right so your specific issue is where
+01:23:04.400 they're being sent yes you Cham they're
+01:23:07.280 being sent to the most sadistic prison
+01:23:09.320 in the world Cham do you want to answer
+01:23:10.880 your question about like the 5%
+01:23:13.280 trade-off like if you sweep up 5% of the
+01:23:16.239 people being innocent whether it's worth
+01:23:18.120 that trade off for
+01:23:20.080 Crime did I get an answer you well you
+01:23:23.360 asked the question but I wanted to hear
+01:23:25.000 your answer like what's your point of
+01:23:26.600 view on that I think that that's
+01:23:28.080 probably what happens today in America's
+01:23:31.880 prisons in fact it's probably more than
+01:23:34.040 5% but I guess the question is Jam what
+01:23:36.040 is an acceptable you know it's a little
+01:23:37.679 bit like the trolley problem you know
+01:23:39.360 there are many variations of this I
+01:23:40.800 think the important thing is I think
+01:23:42.320 that that a bit above our pay grade but
+01:23:44.560 I don't think it's above the presidents
+01:23:46.280 and I think that that was part of what
+01:23:49.120 he was elected to do is make that call
+01:23:51.320 because I don't think he hid behind any
+01:23:53.360 rhetoric he was very clear about what
+01:23:54.960 his intentions were and to your point he
+01:23:57.440 did bring the you know Lake and Riley
+01:24:00.199 act I mean they were very explicit about
+01:24:02.360 what their intentions were
+01:24:05.719 yes but man it just feels like a little
+01:24:08.199 more due process being a little more
+01:24:10.520 careful with the signal but also just
+01:24:12.159 going back to what were 4 and a half%
+01:24:13.960 into the administration I'm not saying
+01:24:16.280 hey mistakes were made and it's okay
+01:24:18.080 inent people were sent to this prison
+01:24:19.639 that's terrible and I hope it gets
+01:24:21.000 rectified quickly if there was some
+01:24:24.400 concession here hey if we made a mistake
+01:24:26.560 we're going to fix it that would be a
+01:24:27.920 lot better than putting out promotional
+01:24:29.600 videos Ling how brutal this prison is
+01:24:34.159 that would go a long way with me but
+01:24:36.239 we're seeing the opposite they're
+01:24:38.080 releasing videos that they're producing
+01:24:40.520 we we'll play one here for you to see by
+01:24:43.280 the way I I think an important point
+01:24:45.199 about
+01:24:48.159 this and perhaps like the key part of
+01:24:51.400 the strategy of the administration is
+01:24:53.199 that this isn't the beginning of a
+01:24:54.760 continuous
+01:24:56.239 process
+01:24:58.040 but they're sending a signal which they
+01:25:01.719 expect will cause people to naturally
+01:25:04.679 immigrate out of the country that are
+01:25:06.159 committing crime or at risk of being
+01:25:07.840 caught for being associated with gangs
+01:25:10.040 and while beinga uh in the United States
+01:25:13.080 as a way to kind of Chase folks out so I
+01:25:15.199 think that there's some calculus and
+01:25:16.719 what's going on here with respect to the
+01:25:18.360 risk and the actions being hey look if
+01:25:21.400 we do this to the first 240 people and
+01:25:23.800 even if or four innocent people get
+01:25:25.560 caught up there's a net benefit
+01:25:28.440 ultimately because it will reduce the
+01:25:30.880 immigra immigrants kind of coming to
+01:25:32.480 this country that are parts of gangs and
+01:25:34.560 perhaps some of them will choose to go
+01:25:36.480 home you know they clearly believe that
+01:25:39.080 this is that this is going to save
+01:25:42.040 innocent lives in America that is their
+01:25:45.080 clear belief
+01:25:46.639 system well yeah and everybody wants
+01:25:49.920 that here's secretary chrisy Noam from
+01:25:52.920 the prison itself at Cott today and uh
+01:25:56.000 visiting this facility and first of all
+01:25:57.880 I want to thank El Salvador and their
+01:25:59.560 president for their partnership with the
+01:26:01.040 United States of America to bring our
+01:26:02.639 terrorists here and to incarcerate them
+01:26:05.040 and have consequences for the violence
+01:26:07.239 that they have perpetuated in our
+01:26:08.639 communities I also want everybody to
+01:26:10.719 know if you come to our country
+01:26:11.840 illegally this is one of the
+01:26:13.280 consequences you could face uh first of
+01:26:15.480 all do not come to our country illegally
+01:26:18.119 uh you will be removed and you will be
+01:26:20.000 prosecuted but know that this facility
+01:26:22.440 is one of the tools in our toolkit that
+01:26:23.960 we will use if you commit crimes against
+01:26:26.159 the American people harsh words she's
+01:26:28.280 trying to make it a deterrent clearly
+01:26:30.560 all right another amazing episode of
+01:26:33.280 Allin is in the can for Gavin Baker
+01:26:37.239 David freeberg and jth
+01:26:39.080 POA I'm Jay Cal Jason Cal canis and we
+01:26:41.840 will see you all greatest next time
+01:26:44.040 virtue signal [ __ ] [ __ ]
+01:26:47.280 did you see I love I mean I can't even
+01:26:49.280 take it there I'm sorry I'm passionate
+01:26:51.400 about some things I'm passionate about
+01:26:53.040 some things look at this I can't tell
+01:26:54.960 how much of the tension is real vers
+01:26:57.080 like I love I
+01:27:00.719 love let your winers
+01:27:03.400 ride Rainman
+01:27:07.719 David and instead we open source it to
+01:27:10.280 the fans and they've just gone crazy
+01:27:12.119 with it love queen
+01:27:14.930 [Music]
+01:27:20.600 of Besties
+01:27:24.239 that's my dog taking
+01:27:26.390 [Music]
+01:27:28.400 driveways oh man myit will meet me at
+01:27:32.119 should all just get a room and just have
+01:27:33.639 one big huge orgy cuz they're all this
+01:27:35.320 useless it's like this like sexual
+01:27:36.960 tension that they just need to release
+01:27:38.920 [Music]
+01:27:44.360 Som we need to get mer
+01:27:49.940 [Music]
+01:27:54.800 I'm going all in

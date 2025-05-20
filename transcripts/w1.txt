@@ -1,0 +1,3070 @@
+# The Great Tariff Debate with David Sacks, Larry Summers, and Ezra Klein
+# https://www.youtube.com/watch/KcmMOZKnKAk
+
+00:00:00.160 looking forward to our thing in a few
+00:00:01.680 weeks yeah i don't know if I'll end up
+00:00:03.360 being there but I'm hoping to i'm hoping
+00:00:05.120 to it's been What do you guys You guys
+00:00:06.879 have like a liberal cuddle party or what
+00:00:08.960 are you doing yeah yeah larry Larry
+00:00:10.639 takes a bunch of MDMA and we all sort of
+00:00:12.559 go into the the corner and hang out
+00:00:14.240 together god that sounds incredible
+00:00:16.720 liberalism is wonderful man you should
+00:00:18.080 come try it that's not liberalism it's
+00:00:19.840 called something else sorry Nikki is our
+00:00:22.640 cryptozar joining us or no he's uh I'm
+00:00:25.439 talking to now it looks like he is oh
+00:00:28.400 zing this is going to be great this will
+00:00:30.560 be like ratings bonanza all right we do
+00:00:32.880 have David Saxs here david make sure you
+00:00:34.399 have a quick time on look at Sax looking
+00:00:36.640 so presidential he looks thin doesn't he
+00:00:38.559 oh he looks fabulous all right here we
+00:00:40.399 go three two one let your winners
+00:00:50.800 we open source it to the fans and
+00:00:52.559 they've just gone crazy with it
+00:00:58.160 all right everybody welcome back to the
+00:00:59.680 number one podcast in the world i'm your
+00:01:02.559 host Jason Calcanis with my besties Chim
+00:01:05.360 Polyha Patia our chairman dictator and
+00:01:08.640 live from well the administration Mr
+00:01:12.400 david Saxs our ZAR for AI and crypto and
+00:01:16.000 amazingly two fantastic guests this week
+00:01:20.000 we have uh New York Times writer and
+00:01:22.080 host of the Ezra Klein podcast he's got
+00:01:25.119 a new book with Derek Thompson Abundance
+00:01:27.200 and he co-founded Vox in 2014 and he's
+00:01:30.880 our guest here today before Trump ships
+00:01:32.880 him to El Salvador please welcome Ezra
+00:01:35.040 Klein how are you sir glad to be here in
+00:01:36.799 my final hours of freedom okay great
+00:01:39.040 good to be here sorry Saxs uh and uh
+00:01:41.600 with us of course Larry Summers
+00:01:43.439 economist former Treasury Secretary
+00:01:45.680 under Clinton former director of the
+00:01:47.680 National Economic Council under Obama
+00:01:49.840 and the president of Harvard from 2001
+00:01:52.000 to 2006 thanks for coming Larry good to
+00:01:54.560 be with you okay we have a lot to get to
+00:01:57.439 here so we uh might as well talk about
+00:02:01.119 the big news of tariffs it's day 80 of
+00:02:04.960 the Trump presidency and a second
+00:02:08.080 presidency his second term and Trump
+00:02:10.399 tweeted that he paused tariffs for
+00:02:12.560 everyone but China on Wednesday
+00:02:14.160 basically let me just ceue up the
+00:02:16.160 details Larry and then we'll get your
+00:02:17.599 take on all of this just one week after
+00:02:20.800 Liberation Day Trump announced on Truth
+00:02:23.920 Social that in effect he was raising
+00:02:27.040 tariffs against China
+00:02:29.000 125% based on their lack of respect
+00:02:31.680 quote unquote instead of negotiating and
+00:02:34.160 that he was pausing reciprocal tariffs
+00:02:36.160 on all other countries for 90
+00:02:38.680 days and markets ripped 10% after he
+00:02:42.480 posted this and today Thursday when we
+00:02:45.160 tape there's been a massive selloff on
+00:02:47.599 Wall Street so the roller coaster ride
+00:02:49.480 continues what it will be on Friday when
+00:02:51.920 you consume this podcast is anyone's
+00:02:54.120 guess s&p is down 5% today for context
+00:02:58.480 the S&P was at 5700 pre-liberation day
+00:03:02.319 so about a 9% drop after these wild
+00:03:05.879 swings and uh in fact this has been
+00:03:09.640 historic
+00:03:11.400 volatility here are the top selloffs in
+00:03:15.519 history as you can see three of them
+00:03:17.440 came during Black Monday in
+00:03:20.040 1987 three of them came during the
+00:03:23.120 financial crisis three of them came
+00:03:25.280 during COVID and uh coming in 11th is
+00:03:28.599 Trump's tariffs also in the gainers uh
+00:03:32.560 you have these big
+00:03:34.120 rebounds wednesday's 9.5% recovery was
+00:03:37.440 number three the administration says
+00:03:39.840 this was all part of a master plan we'll
+00:03:41.920 hear more about that later and that they
+00:03:44.000 laid a trap for China they lit a trap
+00:03:47.000 bessent has been the
+00:03:49.640 spokesperson during this retreat or
+00:03:53.120 whatever we're going to call the uh
+00:03:54.799 pause and quote "This was driven by the
+00:03:58.239 president's strategy." He and I had a
+00:04:00.159 long talk on Sunday and this was his
+00:04:02.080 strategy all along i don't think we need
+00:04:04.080 to play the clip uh that's the gist of
+00:04:05.840 it the White House account then tweeted
+00:04:09.360 in all caps "My favorite way to tweet do
+00:04:11.680 not retaliate and you will be rewarded."
+00:04:14.080 Wall Street Journal on the other side
+00:04:15.760 posted a story about why Trump blinked
+00:04:18.160 they chronicled the decision as uh being
+00:04:20.759 affected by Jaime Diamond who went on
+00:04:23.440 Fox to express fears of recession while
+00:04:25.680 saying the tariffs were valid and that
+00:04:28.000 he knew that Trump and cabinet would be
+00:04:29.520 watching him on Fox other banking
+00:04:31.199 executives who felt they didn't have a
+00:04:32.960 lot of influence in this administration
+00:04:35.280 according to the Wall Street Journal
+00:04:36.560 started lobbying Republican
+00:04:38.360 lawmakers that the Trump tariff plan
+00:04:40.800 would tank the economy the White House
+00:04:42.720 chief of staff Susie Wild started
+00:04:44.240 receiving calls from executives and
+00:04:46.080 lobbyists expressing concerns and uh the
+00:04:49.280 Wall Street Journal reports that Trump
+00:04:50.639 was influenced heavily by Bessant they
+00:04:52.400 were flooded with worried calls from
+00:04:54.720 Wall Street and that the president was
+00:04:58.320 uh lobbyed to find an off-ramp trump
+00:05:01.199 ultimately relied on his instincts
+00:05:03.360 according to the administration larry is
+00:05:06.320 this 4D
+00:05:07.560 chess or is this something else what are
+00:05:10.320 your thoughts
+00:05:12.160 this is uh dangerous work with a
+00:05:16.120 sledgehammer on a pretty sensitive
+00:05:18.680 machine which is the global economy
+00:05:21.919 that's having really serious uh
+00:05:25.080 consequences first it's important to
+00:05:27.880 understand that there's more tariffs
+00:05:30.880 that are around than you described even
+00:05:34.560 after the big backoff there's a 10%
+00:05:37.759 across the board tariff a range of
+00:05:40.560 structural tariffs like on steel and
+00:05:43.720 automobiles and a range of new tariff
+00:05:46.400 threats like on uh
+00:05:49.720 pharmaceuticals here's a kind of
+00:05:51.759 market-based estimate of what the damage
+00:05:55.759 that the market thinks this is all doing
+00:05:58.240 to the US economy is market's down let's
+00:06:01.919 take today's number 9% if that's right
+00:06:06.160 that would be about $4
+00:06:09.560 trillion of course the at $4 trillion
+00:06:12.960 since Liberation Day of course markets
+00:06:15.680 were down coming into Liberation Day
+00:06:18.400 because of some anticipation of these
+00:06:20.600 policies so let's be conservative and
+00:06:23.680 say these policies have taken $6
+00:06:25.600 trillion off the stock market now the
+00:06:29.360 stock market only measures the adverse
+00:06:31.759 impact on corporate profits not the
+00:06:34.479 adverse impact on workers not the
+00:06:37.120 adverse impact on consumers so you need
+00:06:40.160 to add to that uh stock market number uh
+00:06:45.039 one way of thinking about adding to it
+00:06:47.199 would be to say that corporate profits
+00:06:49.440 were 10% of the economy so you could
+00:06:52.160 argue for multiplying by a factor of 10
+00:06:55.120 but maybe that's being too exaggerating
+00:06:58.240 or too bold so let's multiply by a
+00:07:01.520 factor of uh five and what you get is a
+00:07:05.120 loss in the $30 trillion range as the
+00:07:09.199 present value as estimated by markets of
+00:07:13.840 what's being done now I know the Trump
+00:07:16.960 administration sometimes likes to say
+00:07:18.880 it's working for Main Street not Wall
+00:07:20.840 Street i noticed that they were pretty
+00:07:23.039 excited about the stock market rally
+00:07:25.560 yesterday in a way that wouldn't really
+00:07:27.919 go with uh not caring about uh markets
+00:07:34.000 so I think what markets are seeing
+00:07:37.039 what's is what's true which is three
+00:07:41.039 things this is an inflation shock cuz
+00:07:46.240 you're adding to prices ceo of Amazon
+00:07:50.880 got it right the Secretary of the
+00:07:53.120 Treasury got it wrong increases in
+00:07:55.919 tariffs of this magnitude the
+00:07:58.319 overwhelming part of them will be passed
+00:08:01.680 on to consumers so you've got an
+00:08:04.800 inflation shock when you raise the
+00:08:07.759 prices of people and their income at
+00:08:10.240 least in the short run is the same
+00:08:12.560 they're poorer and that means they can
+00:08:14.960 afford less stuff and that pushes the
+00:08:18.440 economy down and so you've got higher
+00:08:23.240 inflation and you've got um more uh less
+00:08:28.039 demand and therefore more
+00:08:31.159 unemployment all of that's bad for the
+00:08:33.519 economy and companies and the last thing
+00:08:36.799 which I think is profoundly important is
+00:08:42.240 we are trading like an emerging market
+00:08:44.720 country right now
+00:08:47.000 for serious countries for the United
+00:08:50.680 States the pattern is that when the
+00:08:54.720 world gets
+00:08:55.959 riskier the bonds go down in yield and
+00:08:59.920 the currency goes up in value because
+00:09:02.959 people come for the safe
+00:09:05.080 haven when you're a country like
+00:09:08.839 Argentina then the assets all move
+00:09:11.360 together falling stock prices go with
+00:09:14.959 higher bond yields go with a weakening
+00:09:18.279 currency and so because of our erratic
+00:09:22.519 behavior we have changed the
+00:09:25.720 zeitgeist surrounding America from the
+00:09:29.360 traditional zeitgeist surrounding
+00:09:31.200 America to the kind of zeitgeist that
+00:09:34.200 surrounded Juan Peron's
+00:09:36.760 Argentina and that goes with all the
+00:09:40.880 other things that are happening the more
+00:09:44.040 protectionism denying the independence
+00:09:46.320 of the central bank fiscal
+00:09:50.440 irresponsibility breakdown of
+00:09:52.240 traditional boundaries between
+00:09:54.080 government and business substantial uh
+00:09:58.360 cronyism as a strategy authoritarian
+00:10:02.839 tendencies towards uh the opposition
+00:10:07.040 lack of total respect for uh the
+00:10:10.800 judiciary larry keep going Larry what
+00:10:13.519 we're seeing is a is a pattern of
+00:10:18.320 America being governed on the kind of
+00:10:21.279 Juan Peron Argentina model and that
+00:10:25.120 sometimes produces some benefits for
+00:10:27.200 some people in the short run that
+00:10:29.600 sometimes generates popularity
+00:10:32.560 uh for it peron kept coming back in
+00:10:36.600 Argentina but ultimately it's extremely
+00:10:39.839 costly for our society uh you've you've
+00:10:43.360 heard uh Larry's uh take on all of this
+00:10:46.800 larry's giving it about a a B+ on the
+00:10:48.880 Harvard great scale
+00:10:51.200 which might be inflated i'm not sure
+00:10:53.200 sachs obviously in the administration
+00:10:55.760 you cover two things AI and of course
+00:11:00.440 crypto and you're a member of the pod so
+00:11:03.120 let's get your take on what happened
+00:11:06.079 this week with these tariffs even the
+00:11:09.279 most ardent supporters of Trump have
+00:11:11.760 felt this is chaotic not well executed
+00:11:15.279 not communicated well what's your take
+00:11:18.720 Saxs on how this was executed and could
+00:11:21.200 this have been done better well I think
+00:11:23.760 what happened if you go back to
+00:11:25.760 Liberation Day was only 8 days ago it
+00:11:27.600 was April 2nd if I had told you on April
+00:11:31.560 1st that Donald Trump would find a way
+00:11:34.560 to get the entire world to eagerly
+00:11:37.279 embrace a 10% tariff on the American
+00:11:40.079 market and not only would they not
+00:11:42.000 complain but they'd actually be relieved
+00:11:44.399 that it was only 10% you would have said
+00:11:46.320 that would be an April Fool's joke if I
+00:11:48.560 had told you eight days ago or nine days
+00:11:51.120 ago that Trump would find a way to
+00:11:53.279 accelerate the United States is
+00:11:54.959 decoupling from China which is something
+00:11:56.959 he's long wanted to do and that Wall
+00:11:59.200 Street would basically breathe a sigh of
+00:12:01.200 relief over that you would have said
+00:12:03.120 that there's no way that could happen if
+00:12:05.120 I had told you eight or nine days ago
+00:12:07.600 that President Trump figured out a way
+00:12:09.200 to assert a presidential power in a way
+00:12:11.120 that gives America extraordinary
+00:12:12.639 leverage over virtually every country in
+00:12:14.880 the world you would have said "Well I
+00:12:16.959 don't believe it i don't you know what
+00:12:18.320 what is that power and he proceeded to
+00:12:20.079 do that and now basically every country
+00:12:22.320 in the world except for for China is
+00:12:24.720 coming to Washington seeking to
+00:12:26.720 negotiate a new trade deal for the
+00:12:28.720 United States on better terms for the US
+00:12:32.000 if you told me any of that few days ago
+00:12:34.399 I would have believed you and I would
+00:12:37.120 have thought the consequences would be a
+00:12:39.920 substantially
+00:12:41.320 deteriorated American economy and a
+00:12:44.399 substantially less secure i don't think
+00:12:46.480 we know that United States i don't think
+00:12:47.680 we know that it's not any surprise
+00:12:49.440 there's nothing surprising about the
+00:12:51.839 fact that the United States has the
+00:12:53.360 power to extort Loto it's just and
+00:12:56.560 that's that's the country that was
+00:12:58.000 singled out in the Trump formula for the
+00:13:00.800 highest level of protection there is no
+00:13:05.079 surprise in uh that there is no surprise
+00:13:10.279 that capacity to isolate itself to
+00:13:13.440 Washington will be very very Japan's
+00:13:15.519 coming to Washington south Korea is
+00:13:17.360 coming to Washington everybody's going
+00:13:18.639 to try to cut everyone's going to come
+00:13:19.839 to Washington it never would have
+00:13:21.440 occurred to anyone with experience in
+00:13:24.240 government that the United States would
+00:13:26.320 have any difficulty getting any major
+00:13:29.200 country to come send a representative to
+00:13:32.000 the United States to have a discussion
+00:13:34.320 and a negotiation with a United States
+00:13:38.240 on a matter that was of concern to the
+00:13:40.079 United States they never could possibly
+00:13:42.399 have commish any Let me let Sax reply to
+00:13:44.880 that and then Ezra I'm going to bring
+00:13:46.000 you in saxs go ahead you reply then why
+00:13:48.880 didn't they Larry do you think that all
+00:13:51.839 these countries were going to
+00:13:52.880 renegotiate their trade deals with the
+00:13:54.480 US if President Trump asked nicely if he
+00:13:57.040 said pretty please renegotiate our trade
+00:13:58.880 deals so you take down your trade
+00:14:00.240 barriers they would have done it if he
+00:14:02.000 had said pretty please with a cherry on
+00:14:03.519 top that's not the way these things work
+00:14:05.360 he had to establish the leverage in the
+00:14:07.040 negotiation first and the fact of the
+00:14:09.440 matter is he's the first president in
+00:14:11.199 decades who's been willing to do that
+00:14:13.440 you don't get anywhere by just asking
+00:14:15.199 nicely and I think that what President
+00:14:17.360 Trump did over the last eight days is a
+00:14:19.839 establish the leverage and b get all
+00:14:22.800 these countries to now want to negotiate
+00:14:24.560 a new trade deal with the United States
+00:14:26.160 if this is such a terrific
+00:14:28.040 thing why do markets think it's so
+00:14:31.040 terrible for the American economy maybe
+00:14:33.680 there maybe the market's just completely
+00:14:36.399 wrong but at least another possibility
+00:14:39.040 is the question that the market's
+00:14:41.199 judging this that the market I mean job
+00:14:43.519 of markets is to look forward it's to
+00:14:46.959 look past the immediate it's to see what
+00:14:50.079 the long run consequence are going to be
+00:14:52.720 and markets are making a pretty
+00:14:54.560 devastatingly negative judgment not true
+00:14:57.760 not true not true that feels emotional
+00:15:00.880 and nice but it's just not accurate so
+00:15:03.279 let's just establish a couple facts
+00:15:05.440 about quote unquote the markets number
+00:15:08.240 one there are two markets and they
+00:15:10.399 behave totally differently and sometimes
+00:15:12.880 inversely to each other there's the
+00:15:14.720 stock market and there's the bond market
+00:15:17.440 with respect to the stock market what
+00:15:19.839 they are debating and you're right Larry
+00:15:21.920 is what is the effective long-term rate
+00:15:25.040 of return a dollar needs to generate in
+00:15:28.720 order to pay me back that dollar that is
+00:15:30.480 what the fundamental stock market does
+00:15:33.040 and what we've seen for many years with
+00:15:36.160 trade imbalances trade deficits and
+00:15:39.279 close to zero interest rates of which
+00:15:41.839 more of that happened under Democrats
+00:15:43.519 and Republicans we have allowed the
+00:15:46.480 stock market to inflate past historical
+00:15:49.959 averages what we've actually seen happen
+00:15:52.720 in the last week is what most people
+00:15:55.040 would call mean reversion the stock
+00:15:57.680 market is still way above where it was
+00:16:00.720 last year two years ago three years ago
+00:16:04.240 what has happened is that the forward
+00:16:05.839 multiples have compressed so that's
+00:16:07.519 number one that's a fact you can debate
+00:16:09.440 whether that's bad or good and I'm
+00:16:10.959 willing to debate that with you okay now
+00:16:13.040 let's go to bonds and then with respect
+00:16:15.440 to bonds what we are seeing now is there
+00:16:17.759 are two very complicated issues and we
+00:16:20.160 don't know what the unknown known is and
+00:16:23.519 let me be very specific in the last two
+00:16:26.399 days we saw one part of the bond market
+00:16:29.600 totally get out of
+00:16:31.240 whack and what we know is that the
+00:16:34.000 yields changed materially in a very
+00:16:36.959 acute way which is atypical of how the
+00:16:40.079 bond market typically digests a
+00:16:43.040 philosophical change in approach to
+00:16:45.480 policy normally when you see an acute
+00:16:48.320 reaction in the bond market the
+00:16:50.639 underlying reason tends to be some
+00:16:52.880 financial calamity in a participant what
+00:16:56.639 we heard in the last 24 hours is a lot
+00:16:59.839 of this move may have been attributed to
+00:17:03.199 an enormous levered bet on US treasuries
+00:17:07.439 by a Japanese hedge fund it will take
+00:17:10.959 three and four and five and 6 weeks for
+00:17:13.119 us to really know separately what we do
+00:17:15.599 know though where the structural
+00:17:17.520 complexity of the market and this is
+00:17:19.119 where Larry I agree with you is acute
+00:17:22.240 and important to observe is in the
+00:17:24.160 credit markets for private companies and
+00:17:26.880 that is where you have to pay a lot of
+00:17:28.799 attention okay Larry let me let you
+00:17:31.440 respond to Chimath's response to you and
+00:17:34.000 then Ezra I promise you're going to come
+00:17:35.600 in next larry go ahead martha as you
+00:17:39.440 well know the vast majority of financial
+00:17:42.840 thinking
+00:17:44.360 emphasizes changes in the earnings
+00:17:46.720 prospects of companies associated with
+00:17:49.840 the strength of the economy as a major
+00:17:52.559 source of stock market fluctuations and
+00:17:55.280 if you look at dividend strips if you
+00:17:57.440 look at what's happening to analyst
+00:18:00.120 revisions that's got a lot to do
+00:18:02.880 negative prospects for the economy has a
+00:18:05.440 lot to do with why the economy why the
+00:18:08.880 stock market has turned downwards the
+00:18:11.840 foreign exchange market's very big and
+00:18:14.400 it's a big referendum on whether people
+00:18:17.520 have confidence in uh the United States
+00:18:21.360 and somehow tariffs reduce imports are
+00:18:26.000 supposed to reduce dollar selling and
+00:18:28.080 make the currency go up and not only is
+00:18:30.640 the currency not going up it's going
+00:18:33.840 down substantially so we're seeing a
+00:18:37.200 pattern maybe it's all just due to one
+00:18:39.760 Japanese hedge fund but maybe we're
+00:18:42.400 seeing a pattern that really looks that
+00:18:45.679 looks pretty much like uh the Argentine
+00:18:48.880 pattern ezra you uh are hearing this
+00:18:51.600 debate i think there's no debate that
+00:18:53.600 this was done in a very extreme fashion
+00:18:56.720 at a minimum do you wonder if this could
+00:18:59.840 have been done in a more gradual or
+00:19:02.000 thoughtful way what's your take on the
+00:19:04.720 execution here by the administration of
+00:19:06.880 these tariffs and their response to the
+00:19:09.280 markets i I can't say I wonder if it
+00:19:10.880 could have been done in a more gradual
+00:19:12.320 thoughtful way it could have uh I I
+00:19:14.559 defer to Larry on the markets i'm more
+00:19:15.919 of a a connoisseur of arguments and
+00:19:17.440 something I've been thinking about over
+00:19:18.720 the past very long 8 days is covering
+00:19:23.039 the 2024 election and covering Donald
+00:19:25.440 Trump's tariff promises and it was a
+00:19:28.480 thing that liberals like me were doing
+00:19:30.400 where we would do these shows and say
+00:19:31.919 Donald Trump is promising a 10% to 20%
+00:19:34.480 global tariff and then 65% tariff on
+00:19:37.440 China and if he does that it'll have
+00:19:39.919 this set of effects higher prices it'll
+00:19:42.000 create financial uncertainty etc and
+00:19:44.320 what I would be told like the the
+00:19:46.679 counterargument was oh you libs you
+00:19:49.919 always take him literally when you
+00:19:52.480 should be taking him seriously had
+00:19:53.760 became Swami on my show he said he's not
+00:19:56.320 going to do that that's just a
+00:19:57.520 negotiating ploy and this was the the
+00:19:59.600 common line from Trump allies on Wall
+00:20:02.520 Street and then I watched as he began
+00:20:06.080 doing not just that but layering uh a
+00:20:09.520 series of then bilateral tariffs on top
+00:20:11.120 of that plan the markets began freaking
+00:20:13.760 out while they were freaking out a bunch
+00:20:15.520 of his defenders said "No no no actually
+00:20:17.520 these tariffs which we told you were
+00:20:19.039 never going to happen are actually a
+00:20:20.880 great idea we need to reset the entire
+00:20:22.880 global financial system and you can't uh
+00:20:25.520 shift those tectonic plates without
+00:20:27.600 creating a few earthquakes then the
+00:20:30.480 moment the tariffs paused with the
+00:20:32.080 90-day pause on the uh tariffs on top of
+00:20:34.640 the 10% and the China tariff then I
+00:20:36.880 heard "Nope that pause is genius haven't
+00:20:39.039 you read the art of the deal?"
+00:20:41.120 And what I would observe from this is it
+00:20:44.159 usually when an idea is good you don't
+00:20:47.280 need people jumping back and forth on it
+00:20:49.760 so often going between these tariffs are
+00:20:51.919 a bad idea but they're a smart
+00:20:53.120 negotiating ploy to these tariffs plus
+00:20:55.440 are an actually great idea and you
+00:20:56.720 should all calm down as Trump said you
+00:20:58.559 should all be cool back to know these
+00:21:00.240 tariffs are a great idea i I think
+00:21:02.480 something I'd love to hear from David uh
+00:21:04.159 it's very hard to break the the pattern
+00:21:06.080 being a podcast host i would like to
+00:21:08.559 hear what the measure of success in two
+00:21:11.760 years is right we can sit here and
+00:21:14.320 speculate about the effect of these and
+00:21:16.000 I'm much more on on Larry's side than
+00:21:17.600 what I'm hearing from from Chimath and
+00:21:18.960 David but if what are your measures what
+00:21:23.039 in 2 years good question if
+00:21:25.240 manufacturing you know employment or
+00:21:27.039 whatever is below X will you be unhappy
+00:21:30.240 if GDP is what what is a a sort of uh
+00:21:33.360 objective yard stick where we could come
+00:21:35.360 back in 700 days and say did this work
+00:21:38.480 out or was this a bad idea go ahead i
+00:21:42.000 would say probably the biggest thing
+00:21:43.360 would be whether the US can
+00:21:45.520 re-industrialize to some extent so that
+00:21:47.679 we're not completely dependent for our
+00:21:49.120 supply chains on on a potentially
+00:21:51.440 hostile adversary and what is the
+00:21:52.960 measure of that is it the the quantity
+00:21:54.960 of manufacturing we're making is it the
+00:21:57.280 share of manufacturing i think that's a
+00:21:58.880 hard thing to understand you know during
+00:22:00.799 co we
+00:22:01.799 learned point I am saying it concisely
+00:22:05.360 during co we discovered that we were
+00:22:07.280 horribly dependent on a supply chain
+00:22:09.760 from China for some of our most
+00:22:11.280 essential products for pharmaceuticals
+00:22:13.280 for other medical gear that we needed
+00:22:15.840 during co Sure so what would be if you
+00:22:17.919 were to put a metric on just as one
+00:22:19.760 example but we've also learned that our
+00:22:22.080 entire supply chain for all sorts of
+00:22:23.679 industrial products now is dependent on
+00:22:25.840 China and other countries so let's be
+00:22:27.919 more precise we have 4%
+00:22:29.720 unemployment at the record low of our
+00:22:32.080 lifetimes and do you think Americans
+00:22:34.320 want to work in these factories and if
+00:22:36.960 so which factories obviously
+00:22:38.480 pharmaceuticals that's a dependency
+00:22:40.240 obviously building ships and weapons
+00:22:41.840 that's a dependency i think we can all
+00:22:43.200 agree on that and that might be hundreds
+00:22:44.799 low hundreds of thousands of jobs do you
+00:22:47.280 believe we should be making Nike
+00:22:48.799 sneakers here do you believe we should
+00:22:50.240 be making jeans here again what what
+00:22:52.480 would be the objective measure of
+00:22:54.080 success like a certain number of jobs
+00:22:56.559 certain number of factories certain
+00:22:58.480 types of factories because the other
+00:22:59.840 piece that I don't understand and maybe
+00:23:01.600 you can inform me here Saxs is number
+00:23:04.400 one who's going to do this work if we're
+00:23:07.120 uh going to be deporting millions of
+00:23:09.200 people and we have the lowest
+00:23:10.720 unemployment of our lifetimes and we
+00:23:12.480 have automation coming to these
+00:23:13.840 factories and Americans don't want to
+00:23:15.760 take these jobs historically how is this
+00:23:18.159 all going to work it seems a bit
+00:23:20.320 farcable to me that we're going to bring
+00:23:22.080 these things back i don't think the the
+00:23:23.520 millions of Americans who lost their
+00:23:25.440 jobs in the heartland because we let
+00:23:27.679 China into the WTO which is something
+00:23:29.520 that Larry I think supported and
+00:23:31.039 championed talking about decades though
+00:23:32.640 right that's what started this whole
+00:23:34.000 thing yeah okay okay I don't think those
+00:23:35.760 millions of people want to lose their
+00:23:36.880 jobs you're talking nonsense what are
+00:23:39.840 you talking about respectfully David you
+00:23:42.000 are Treasury secretary when we walk when
+00:23:44.320 we walk China into the WTO and you're
+00:23:46.320 just still defending it I was just
+00:23:48.000 watching an interview hold David Larry
+00:23:50.720 you just did an interview with Neil
+00:23:52.000 Ferguson
+00:23:53.080 answer why am I the only one who gets to
+00:23:55.200 talk for two seconds before I get
+00:23:56.480 interrupted you guys give 5 to 10
+00:23:58.159 minutes finish your thoughts finish your
+00:24:00.039 thoughts i got to speak for two seconds
+00:24:02.559 then you interrupt me you speak for five
+00:24:04.240 or 10 minutes go right ahead larry I
+00:24:06.000 just saw you do an interview with Neil
+00:24:08.559 Ferguson where he asked you was it a
+00:24:11.039 good idea to bring China into the WTO
+00:24:13.520 was it a good idea to give them
+00:24:15.039 permanent normal trade relations status
+00:24:17.600 basically MFN which is something that
+00:24:19.520 Bill Clinton did in 2000 and I admit it
+00:24:22.799 was bipartisan george W bush continued
+00:24:24.720 it was and you were defending this as a
+00:24:27.279 good idea for the country what was the
+00:24:29.600 result of that over the past 25 years
+00:24:31.760 millions of industrial jobs were lost or
+00:24:34.559 export to China millions of factories
+00:24:36.400 shut down the United States has a
+00:24:38.720 diminished and hollowed out industrial
+00:24:40.320 base we certainly can't make the
+00:24:41.840 products of the future like drones or
+00:24:44.080 semiconductors jason just to answer your
+00:24:46.240 question yeah obviously some industries
+00:24:48.400 are more strategic than others do I
+00:24:50.240 personally care about sneakers or
+00:24:52.159 textiles no I personally don't do I care
+00:24:54.320 about semiconductors absolutely do I
+00:24:56.240 care about circuit boards do I care
+00:24:57.679 about drones do I care about robots do I
+00:24:59.760 care about EVs and cars absolutely okay
+00:25:04.480 those industries we are no longer in a
+00:25:06.559 position we are no longer in a position
+00:25:08.480 as a country to make those products
+00:25:10.400 because we exported our entire supply
+00:25:12.640 chain and manufacturing base to China i
+00:25:15.200 have three so how is that a good idea
+00:25:16.559 Larry okay I have three questions and
+00:25:18.400 then Ezra I'll go back to you and Shim
+00:25:19.919 go ahead i have three questions for you
+00:25:22.200 one can you name a single trade barrier
+00:25:27.120 that was reduced by the United States
+00:25:30.159 associated with China accession a single
+00:25:33.279 restriction that existed uh in the
+00:25:35.760 United States that had not been in place
+00:25:38.240 for 5 years before that we removed
+00:25:42.320 during China's WTO accession can you
+00:25:45.039 name one i don't think we should have
+00:25:46.400 done any of it Larry we threw open our
+00:25:48.000 markets to Chinese goods what
+00:25:50.039 restriction your your thesis is that we
+00:25:54.240 threw open the market and therefore we
+00:25:56.480 exposed ourselves to all of this China
+00:25:59.080 thing and question I'm asking you is can
+00:26:02.559 you name any restriction on Chinese
+00:26:07.360 exports to the United States that was in
+00:26:11.600 effect in
+00:26:13.080 1999 and was removed by our WTO
+00:26:17.080 accession in 2000 can you name any such
+00:26:21.360 restriction just name this was a policy
+00:26:23.360 that built up over time and was
+00:26:25.120 basically made permanent hold on it was
+00:26:26.799 made permanent when we walked China to
+00:26:28.320 the WTO and gave them MFN status sorry
+00:26:31.279 i'm sorry David i'll ask the question
+00:26:32.799 one more time we had given them MFN
+00:26:37.159 status 15 years
+00:26:40.600 before no one they had MFN status they
+00:26:45.200 had it for 15 years there was not a
+00:26:48.440 single reduction in a barrier to Chinese
+00:26:52.640 trade so the way in which you're
+00:26:54.720 describing it is just bears no
+00:26:57.400 resemblance to what it was bring him
+00:27:00.320 into the WTO what was the point of
+00:27:01.919 bringing him into the WTO bringing them
+00:27:04.000 into the WTO was to use the leverage
+00:27:06.799 that we had to win a whole variety of
+00:27:10.600 concessions that enabled us to um Larry
+00:27:15.520 more to
+00:27:17.640 China reciprocity this is an
+00:27:20.919 extraordinary history here let's move
+00:27:23.880 forward history you're denying totally
+00:27:25.919 denying history all right listen this is
+00:27:27.440 a bad deal hold on a second i want to
+00:27:29.440 Let's go back to this just a minute i
+00:27:30.960 just want to know the the whole argument
+00:27:34.159 you are making is about increased
+00:27:38.080 exports to the United States that had
+00:27:40.320 bad consequences and so I'm just going
+00:27:42.799 to keep asking you what barrier that
+00:27:46.720 previously existed okay I'll name them
+00:27:49.679 i'll I'll name them i'll name them go
+00:27:51.840 ahead let me get you number one prior to
+00:27:55.039 the WTO China imposed a bunch of export
+00:27:57.279 duties and taxes on a whole bunch of
+00:27:58.799 goods to control outflow okay that
+00:28:00.799 prioritized domestic supply as part of
+00:28:03.360 coming into the WTO China said "Hey hold
+00:28:05.520 on we'll limit these export duties to
+00:28:08.240 only a specific set of
+00:28:10.039 products and then they cap those duties
+00:28:12.559 at agreed rates." Number two they
+00:28:15.039 eliminated export quotas they you
+00:28:17.360 historically had export quotas to manage
+00:28:19.039 the volume of goods under that WTO
+00:28:21.600 commitment they agreed to phase out all
+00:28:23.200 those quantitative restrictions on
+00:28:24.720 exports except were explicitly justified
+00:28:27.039 under WTO number three they removed the
+00:28:29.520 export licensing restrictions number
+00:28:31.520 four they ended state trading monopolies
+00:28:33.600 for exports number five they liberalized
+00:28:35.360 foreign trade rights the point is people
+00:28:37.840 thought that China was going to be a
+00:28:39.440 honeypot of economic activity and it
+00:28:42.240 turned out to be a sucking sound a grand
+00:28:44.960 sucking sound of opportunity where the
+00:28:47.360 globalist corporations saw a massive
+00:28:49.520 labor arbitrage so it's fair to say that
+00:28:52.480 it was done with the best of intentions
+00:28:54.240 but it was a bad deal and they got one
+00:28:56.880 over on us want to say that rather than
+00:28:58.880 having 30 minutes of debate over
+00:29:01.120 something that happened in the '90s I
+00:29:02.559 would I would like to go back to this
+00:29:04.159 question i keep not hearing I will
+00:29:05.440 answer your question because that was a
+00:29:06.880 great hear from David um but I'm I'm I'd
+00:29:09.279 love your
+00:29:10.520 student i never got a chance to tendency
+00:29:13.919 to just begin talking in an anecdotal
+00:29:16.000 way about
+00:29:19.640 aneot
+00:29:24.520 announces you are going to look for
+00:29:26.559 where if it's if in four two years it is
+00:29:29.440 under X I can come back and we can have
+00:29:31.360 a conversation here's the metrics ezra
+00:29:33.039 I'm so sorry here's the metrics for you
+00:29:34.720 okay let's go back to Bill Clinton's
+00:29:36.720 speech that was given at John's Hopkins
+00:29:38.880 on March 9th 20 he was asking about
+00:29:40.720 forward David forward-looking metrics
+00:29:42.480 what would you think would be successful
+00:29:43.679 two years from now not the history
+00:29:44.960 lesson wait hold on we haven't finished
+00:29:46.240 the debate about China and PNTR okay but
+00:29:49.200 my question predated that debate yeah
+00:29:51.200 we're trying to get Listen you're trying
+00:29:52.320 to change the subject let's just finish
+00:29:53.600 up on this no no we're trying to move
+00:29:54.799 forward that's all I'm just trying to
+00:29:56.159 finish up on this topic okay we'll let
+00:29:58.000 you get the last word about this okay
+00:30:00.399 you can have the last word march 9 2000
+00:30:02.240 Bill Clinton announces PNTR at John's
+00:30:05.200 Hopkins it's a very famous speech liam
+00:30:07.520 maybe you can tell us about how it got
+00:30:08.960 written anyway Bill Clinton promises
+00:30:11.440 several things he makes a number of
+00:30:13.120 arguments for PNTR he does not think
+00:30:16.480 that this does nothing larry your
+00:30:18.480 argument is that Bill Clinton didn't do
+00:30:20.000 anything you're saying that somehow it
+00:30:21.520 happened under Reagan or something like
+00:30:22.880 that that's not what Bill Clinton was
+00:30:24.640 arguing he said number one there'd be
+00:30:26.720 huge economic benefits to the US he says
+00:30:28.799 quote by this agreement we will increase
+00:30:31.039 exports of American products he means to
+00:30:34.080 China that will create American jobs
+00:30:36.240 okay did that happen the way we intended
+00:30:38.080 i don't think so number two is he
+00:30:40.399 believed that when you looked at the
+00:30:41.760 data on export flows from the United
+00:30:43.520 States to China it actually did happen
+00:30:45.679 at a quite substantial rate but with
+00:30:48.640 huge trade deficits for the United
+00:30:50.600 States you're arguing that they they did
+00:30:52.960 not act in a discriminatory way towards
+00:30:54.880 our products this idea that Americans
+00:30:56.960 could just do business in China the way
+00:30:58.399 that they could do business here is
+00:30:59.520 ridiculous anyone who tried to do
+00:31:01.200 business over their nose you had to
+00:31:02.399 create a JV you had to get a local
+00:31:04.080 partner give them 51% it was
+00:31:06.240 extraordinarily difficult we were
+00:31:07.919 discriminated against Larry it's
+00:31:09.520 ridiculous to try and claim that somehow
+00:31:11.679 this was an equal relationship okay and
+00:31:14.559 we imported far more from them than we
+00:31:16.799 ever exported to them so Bill Clinton
+00:31:18.559 was wrong about that number two he said
+00:31:20.880 that signing PNTR and and bringing China
+00:31:24.080 to the WTO would promote democracy in
+00:31:26.640 China that we would export one of
+00:31:28.320 democracy's most cherished values
+00:31:29.919 economic freedom did that happen i don't
+00:31:32.080 think so he said this would strengthen
+00:31:34.080 global trade by ensuring China adhere to
+00:31:37.360 international trade rules reducing trade
+00:31:39.360 barriers and resolving disputes through
+00:31:41.039 WTO did that happen i don't think so and
+00:31:43.679 then he said on national security he
+00:31:46.000 said it would improve our national
+00:31:47.440 security to bring China to WTO and help
+00:31:50.000 make them rich he said quote "If we
+00:31:51.679 don't deal with China in this way we
+00:31:53.120 will increase the prospect that they
+00:31:54.720 will turn inward." That's not what
+00:31:56.240 happened we helped make China rich we've
+00:31:58.000 exported millions of jobs to them they
+00:31:59.840 built up their economy and their supply
+00:32:01.200 chain to the point where now they are a
+00:32:03.120 global competitor to the United States
+00:32:04.480 they're a pure competitor we turned that
+00:32:06.799 baby dragon into a Drogonsized monster
+00:32:09.760 that can now challenge us in Asia and
+00:32:12.880 across the world for primacy why in the
+00:32:15.679 world we have done that just for
+00:32:17.120 national security reasons that was a
+00:32:18.880 very foolish thing to do okay so Larry I
+00:32:21.760 I guess I have to let you maybe
+00:32:23.960 self-grade how did you guys do is there
+00:32:26.240 any regrets as Sax is pointing out there
+00:32:29.120 obviously China has not magically become
+00:32:30.720 a democracy but I guess you could argue
+00:32:32.640 they do have a middle class now we
+00:32:34.559 haven't gone to war with them so I guess
+00:32:35.919 you could argue that this has been good
+00:32:37.919 for relations but to Sax's point they
+00:32:40.080 are incredibly powerful and they are our
+00:32:41.600 top adversary how would you grade the
+00:32:43.600 history of this so we can move forward
+00:32:45.919 iowa was a surging growing reforming
+00:32:52.120 economy growing at double-digit
+00:32:55.320 rates that it was before there was any
+00:32:59.200 WTO agreement the WTO agreement did not
+00:33:03.440 change a single rule that represented a
+00:33:06.960 US
+00:33:08.120 restriction on imports from China it did
+00:33:13.679 change a variety of rules not as far as
+00:33:17.279 I would have liked that let the United
+00:33:20.080 States export more to China and that
+00:33:23.760 protected United States intellectual
+00:33:26.440 property in China and that brought China
+00:33:31.679 more closely into the international
+00:33:36.120 system you need a
+00:33:38.200 counterfactual for what would have
+00:33:40.240 happened if China had been excluded from
+00:33:43.600 the World Trade
+00:33:44.919 Organization that counterfactual is not
+00:33:48.240 that they would not have sold goods to
+00:33:50.080 the United States that principle had
+00:33:53.519 already been crossed 15 years before not
+00:33:57.440 a single restriction was uh reduced so
+00:34:03.039 look anything you would have done
+00:34:04.399 differently i just don't get I I don't
+00:34:06.799 get the whole uh mindset uh here i
+00:34:11.599 understand that we should have done more
+00:34:13.839 as a country for the rust belt and
+00:34:17.040 invested in it much more heavily if I
+00:34:20.159 was worried about dependence and
+00:34:22.079 strategic and all that the last policy I
+00:34:25.520 would have wanted to abolish was the
+00:34:28.320 CHIPS act that's the largest boldest
+00:34:31.679 thing the United States has ever done to
+00:34:35.199 avoid dependence in a national security
+00:34:38.239 area great let me bring the Trump
+00:34:40.520 administration has killed all of that
+00:34:43.040 jimoth you heard Ezra's original
+00:34:44.560 question and the history here from Larry
+00:34:47.040 and David looking at there are some
+00:34:50.159 industries that we need strategically
+00:34:52.239 pharma military cars these are fairly
+00:34:55.199 obvious rare earth minerals uh are
+00:34:57.720 obvious but we also have the lowest
+00:35:00.240 unemployment of our lifetimes and
+00:35:03.760 Americans probably don't want to work in
+00:35:06.400 factories on mass what is your take on
+00:35:09.599 going forward some metrics that this
+00:35:12.240 administration should not Sax is saying
+00:35:14.720 this you're saying it what what would
+00:35:17.040 you measure this success as in terms of
+00:35:21.480 onshoring and reducing dependencies if
+00:35:24.240 to Ezra's point two years from now we
+00:35:26.160 were degraded give us some specifics
+00:35:28.079 here Chama there is a major issue that
+00:35:31.440 the United States has that's much bigger
+00:35:33.920 than China which can be framed in the
+00:35:36.640 lens of resiliency and the ability to
+00:35:40.240 fend for
+00:35:41.640 ourselves there are supply chains that
+00:35:44.400 have many single points of failure and
+00:35:47.839 independent of whichever country that
+00:35:50.240 single point of failure exists it could
+00:35:52.640 be an ally or it could be a foe or it
+00:35:55.280 could be a friendmy that creates risk
+00:35:59.119 and I think what we are learning and
+00:36:01.200 David's right it was really highlighted
+00:36:03.280 during COVID we are not in a position to
+00:36:05.920 take care of what we need so if I had to
+00:36:08.240 very precisely answer Ezra's question I
+00:36:11.599 would say that we need to measure and
+00:36:14.240 protect four critical areas everything
+00:36:18.000 else I think we can deal with some
+00:36:20.359 inefficiency some single points of
+00:36:22.240 failure but the following four areas
+00:36:24.079 Ezra I would say are sacrosanked number
+00:36:27.920 one is all of the technology both the
+00:36:31.040 chips as well as the enabling technology
+00:36:34.240 around artificial intelligence it must
+00:36:37.119 be a robust largely American supply
+00:36:40.560 chain it must you cannot have single
+00:36:43.359 points of failure outside the United
+00:36:44.880 States because what you see is even in
+00:36:47.200 allied
+00:36:48.200 countries their posture towards things
+00:36:50.720 like free speech and other things can eb
+00:36:52.640 and flow their posture on trade their
+00:36:55.200 posture on defense okay so that's number
+00:36:56.800 one can change chips got it number two
+00:36:58.800 is energy we have a critical deficit of
+00:37:02.320 electrons in America we do not have the
+00:37:05.200 capability we need to make the energy we
+00:37:07.920 need quickly in many ways we have supply
+00:37:11.599 chain issues on nat gas we have critical
+00:37:14.480 supply chains that can be shut off by
+00:37:16.160 China around photovoltaics so whether
+00:37:18.720 you believe in coal whether you believe
+00:37:20.560 in that gas whether you believe in clean
+00:37:22.480 energy we are in a very we got to shore
+00:37:25.040 that up okay I think we're in agreement
+00:37:26.640 keep going number three are there are
+00:37:28.480 critical material inputs that drive the
+00:37:31.280 material science of the future rare
+00:37:33.760 earths are an example going back to
+00:37:36.160 chips things like gallium things like
+00:37:39.440 phosphorus even so we have a critical
+00:37:43.320 minerals and rare earths and m and
+00:37:46.560 material science input problem and then
+00:37:48.880 the fourth Ezra are pharma APIs so that
+00:37:51.760 when American citizens get sick we have
+00:37:54.640 the ability to not just make it but also
+00:37:57.520 design it and manufacture it because
+00:37:59.119 some of these APIs the active principal
+00:38:01.599 ingredients for many of the drugs
+00:38:04.000 require very convoluted and complicated
+00:38:06.320 processes cold chains and the like and
+00:38:08.480 again there we depend on folks whose
+00:38:13.440 view of the United States can change in
+00:38:15.760 real time so if I had to say to Ezra
+00:38:17.599 what I would expect is if the United
+00:38:19.520 States government whoever was in charge
+00:38:21.680 would put those four things on a board
+00:38:23.760 then detail out all of the key inputs
+00:38:26.320 measure how much we can make ourselves
+00:38:28.240 versus import and then basically try to
+00:38:30.640 level that playing field we would be in
+00:38:32.320 a very good place a couple things
+00:38:33.839 because I think I probably agree with
+00:38:36.320 all of that and what it sounds like is
+00:38:37.920 an excellent argument for Joe Biden's
+00:38:40.119 policies which were functionally maybe
+00:38:42.560 not the pharma side just literally that
+00:38:44.800 let's pull out semiconductors and the
+00:38:46.560 semiconductor supply chain let's pull
+00:38:48.640 out energy let's p a couple of things
+00:38:50.880 like that you know what was it a high
+00:38:52.800 fence around a small garden was what
+00:38:54.400 Jake Sullivan called it let's
+00:38:56.160 particularly try to restrict the supply
+00:38:59.200 chain export of AI critical materials to
+00:39:02.240 China um they had a whole set of
+00:39:04.400 policies about this now the Trump
+00:39:06.560 administration the thing we are in
+00:39:08.000 theory here discussing is an
+00:39:10.359 extraordinarily broad-based set of
+00:39:12.560 policies um it is tariffs on not just
+00:39:15.359 China it's on Brazil it's not just on
+00:39:17.280 critical industries like Chimath is
+00:39:18.880 talking about but it's on you know
+00:39:20.880 mangoes and avocados and you know lumber
+00:39:23.359 from Canada and and basically everything
+00:39:25.200 else i I guess there's an argument I
+00:39:27.680 could sort of extract out of this that
+00:39:30.000 the Biden administration believed what
+00:39:31.839 they called French shoring which is that
+00:39:33.680 you want to create an integrated supply
+00:39:35.359 chain of of allied countries that we can
+00:39:39.200 work with and that we can rely on and
+00:39:41.040 the Trump administration I think
+00:39:43.359 believes something depending on who's
+00:39:45.119 talking more like that the entire supply
+00:39:48.079 chain needs to be on to America
+00:39:50.440 specifically but one of the problems and
+00:39:52.640 the reason I I I'm keep trying to push
+00:39:54.320 people to be very clear about their
+00:39:55.599 arguments and very clear about their
+00:39:57.119 metrics is that I feel like there's this
+00:39:59.280 king's cup of what we're trying to
+00:40:00.560 achieve here where one day it's that
+00:40:02.720 we're trying to achieve the
+00:40:03.599 re-industrialization of the American
+00:40:05.040 heartland and the next we're trying to
+00:40:06.960 replace the income tax with tariff
+00:40:08.720 income and then the next we're just
+00:40:10.320 using it as all-purpose surplus leverage
+00:40:12.800 against any country that does anything
+00:40:14.560 we don't like and the next day we're you
+00:40:17.119 know using it for uh an entirely third
+00:40:19.599 purpose and maybe we're just going to
+00:40:20.800 use it to to isolate China but to bring
+00:40:22.960 in our our friends but none of these you
+00:40:26.240 can't do all of these things at once and
+00:40:28.320 it needs to be very stable if you're
+00:40:30.640 going to get companies to do these
+00:40:33.440 long-term capex investment decisions
+00:40:36.000 that take decades to play out nobody I
+00:40:38.160 know in the market is you guys didn't
+00:40:40.560 want to change anything you guys didn't
+00:40:42.160 want to change anything about anything i
+00:40:43.839 wasn't in the I wasn't in the Biden
+00:40:45.280 administration number one I'm treating
+00:40:46.800 Ezra and Larry as a team i would love to
+00:40:48.960 change i just want to make sure to
+00:40:50.640 change all here you mean the Democrats
+00:40:53.200 didn't want to see if we can cause Let's
+00:40:55.440 see if we can Larry won't even admit
+00:40:57.119 that PNTR did anything can we not keep
+00:40:59.359 doing PNTR for a minute let's look
+00:41:00.800 forward not backward look at the look at
+00:41:02.480 the chips act look at the IRA act they
+00:41:04.480 did the exact things we're talking about
+00:41:06.240 larry go ahead let's see if we can find
+00:41:08.800 a little bit of agreement please here i
+00:41:12.319 agree with Chamath's agenda i I may not
+00:41:14.560 agree in every detail but I broadly
+00:41:16.640 agree with Chamath's agenda and I'll go
+00:41:19.760 a little further than that Ezra i think
+00:41:22.480 Joe Biden's attachment to energy
+00:41:24.760 security was kind of selective and
+00:41:28.560 heavily oriented to green technologies
+00:41:31.680 not others i thought cancelling the
+00:41:33.760 Keystone pipeline was a clear mistake i
+00:41:37.680 thought the stopping a variety of things
+00:41:40.560 involving liquid natural gas were a
+00:41:43.520 clear mistake so I think the Biden
+00:41:47.160 administration's approach to regulation
+00:41:51.040 that empowered every NGO with respect to
+00:41:55.119 stopping transmission lines with respect
+00:41:57.839 to constructing power plants because of
+00:42:00.640 the importance of democratic
+00:42:02.280 constituencies was a mistake so I think
+00:42:05.440 energy security is a central objective
+00:42:07.839 of policy and that there's a lot of room
+00:42:11.160 to move beyond what the Biden
+00:42:13.599 administration did i actually believe
+00:42:15.359 that very strongly and agree with
+00:42:18.079 Chimath and David what I don't
+00:42:20.839 understand
+00:42:22.680 is chips absolutely right the chips act
+00:42:27.520 was all about making there be an
+00:42:29.920 American semiconductor industry with
+00:42:32.800 production in the United States as a
+00:42:36.480 central priority the Trump
+00:42:39.160 administration has declared war on that
+00:42:43.520 rare earths you want to have a strategic
+00:42:45.839 petroleum reserve for any rare earth you
+00:42:48.800 want to do more mining in the areas that
+00:42:51.280 Chamath says we should in the United
+00:42:54.079 States or in friendly countries i am all
+00:42:56.960 for that here's what I cannot understand
+00:43:00.920 chamath they don't see how your
+00:43:03.520 resilience agenda drives anywhere near
+00:43:08.400 liberation day and the emphasis on uh
+00:43:13.440 tariffs it drives towards a set of
+00:43:16.839 specific industrial policies perhaps
+00:43:19.680 including tariffs in some particular
+00:43:22.720 product areas but steel from
+00:43:27.720 Canada anything from
+00:43:31.560 loto any natural resource uh product
+00:43:37.440 across the board tariffs on everything i
+00:43:39.680 think you are absolutely right about
+00:43:42.440 resilience and that traditional
+00:43:44.800 conventional economics has given it too
+00:43:47.520 little thought and that co pointed that
+00:43:50.800 up as a central issue what I can't
+00:43:55.400 understand is why Donald Trump's echoing
+00:43:59.920 of Liia Koko from the 80s about
+00:44:03.640 tariffs is responsive
+00:44:07.359 to any of that but but this is the point
+00:44:10.560 I'm trying to draw around Biden i'm not
+00:44:12.160 saying I agree with every way the Biden
+00:44:14.160 administration defined its objectives i
+00:44:16.000 just wrote an entire book about the
+00:44:17.599 failures of Democratic policym in this
+00:44:19.599 specific era what I am saying is the bid
+00:44:22.240 administration's view of trade was that
+00:44:24.720 there are targeted industries we should
+00:44:26.800 be putting a lot of both uh domestic
+00:44:29.440 policy and international policy into
+00:44:31.599 play in order to protect and reshore or
+00:44:34.240 French shore and the Trump
+00:44:35.920 administration's view is that you have a
+00:44:38.640 generalized problem running all across
+00:44:41.040 the world that requires highly general
+00:44:43.200 policies that then when I ask people to
+00:44:45.040 defend it they sort of move to this
+00:44:46.400 targeted argument donald Trump's view we
+00:44:49.200 can I I feel like we end up making
+00:44:51.599 something that is not that complicated
+00:44:54.160 um into something much more complex than
+00:44:56.079 it is since the 80s you know Larry's
+00:44:58.640 point about Liika Donald Trump has seem
+00:45:01.119 has appeared to hold the view that
+00:45:04.119 anytime the US is operating at a trade
+00:45:06.720 deficit with someone else that is uh
+00:45:09.680 evidence we are being ripped off and
+00:45:11.599 that is how you get at least the initial
+00:45:13.520 set of tariffs here that work off of
+00:45:15.680 bilateral trade deficits and try to
+00:45:18.160 correct every single one with every
+00:45:20.160 single country be it Loto or a
+00:45:22.880 collection of islands inhabited by
+00:45:24.800 penguins i I just I think it's really
+00:45:27.280 important to be connected to the policy
+00:45:29.839 that was actually announced and not sort
+00:45:32.720 of projecting all of our own onto it
+00:45:34.640 like yes Larry's right that you could
+00:45:36.319 have a different set of critical
+00:45:37.599 industries than Biden did the Biden team
+00:45:39.680 was very focused on clean energy over
+00:45:41.200 other kinds of energy i also did not
+00:45:42.880 agree with like the liquid gas pause i
+00:45:45.040 thought there were some you know there
+00:45:46.240 and we did not do nearly enough on
+00:45:48.079 things like permitting reform right
+00:45:49.680 there's a lot you could have done that
+00:45:51.440 they didn't do but if what you have in
+00:45:53.920 your head is a targeted idea of
+00:45:56.400 reshoring specific industries or
+00:45:58.720 nearshoring or frenching or whatever
+00:46:00.319 which is kind of what I'm hearing from
+00:46:02.400 um from a number of people on this call
+00:46:04.800 then it seems like you would want
+00:46:05.920 targeted policies and what we have is
+00:46:07.680 not targeted policies it's broad-based
+00:46:09.440 policies a 90-day pause on larger
+00:46:11.839 broad-based policies and a huge trade
+00:46:13.680 war with China i would like to hear a
+00:46:16.200 defense from somebody
+00:46:19.280 ezra and I agree specific policies i'd
+00:46:22.480 like somebody to explain to me why it's
+00:46:25.280 a remotely sensible theory to say that
+00:46:28.720 the United States is being exploited by
+00:46:32.000 any country where the overall pattern of
+00:46:36.200 trade is uh such that we are running a
+00:46:40.640 trade deficit and maybe in the process
+00:46:43.280 you could explain to me why my grocery
+00:46:45.280 store is exploiting me because I'm
+00:46:47.920 running a massive trade deficit with
+00:46:49.839 that okay trade deficit shimath or Sax
+00:46:52.160 who wants to take it i can start the
+00:46:54.079 then maybe Sax can Saxon so let let me
+00:46:56.560 actually start by giving some credit to
+00:46:59.200 where Biden did do a few things right
+00:47:02.079 just in the spirit of finding some
+00:47:03.680 common ground inside the IRA i think
+00:47:07.200 that there were two things and I've said
+00:47:09.040 this pretty repeatedly but I just want
+00:47:10.480 to put it on the record again the ITC
+00:47:13.720 credits and the ITC transfer markets for
+00:47:17.680 those credits the tax equity markets are
+00:47:20.480 critical industries in America to
+00:47:22.640 support private investment in all kinds
+00:47:25.040 of very complicated markets energy
+00:47:28.400 markets being the most important and
+00:47:31.200 what the Biden administration did to
+00:47:33.119 their credit was remove the uncertainty
+00:47:36.240 because those things had to be renewed
+00:47:38.240 over and over again and they gave us a
+00:47:41.200 very long window where we could
+00:47:42.960 underwrite investments to your point
+00:47:44.480 Ezra that was smart but it's important
+00:47:47.280 to also remember that in order to get
+00:47:49.200 Biden's budget done what they did was
+00:47:51.599 they had Mansion roll over on permitting
+00:47:54.240 reform and Ezra you know this probably
+00:47:55.760 better than all of us when you look
+00:47:57.040 inside of the chips act as smart as that
+00:48:00.720 initial policy was if you ask why has
+00:48:03.760 nothing actually happened why have no
+00:48:06.000 fabs actually been built other than
+00:48:08.640 grandio statements the answer is that
+00:48:11.040 which you speak to in your book it's
+00:48:12.880 just this complete malaise and inability
+00:48:16.000 to actually get these things permitted
+00:48:17.760 and turned on even when it's right so I
+00:48:19.680 just want to acknowledge that that's
+00:48:20.880 there so Larry to very very importantly
+00:48:23.119 to your question the thing that we have
+00:48:25.040 to acknowledge is that in certain
+00:48:27.160 countries what you have is a very blurry
+00:48:30.000 line between private and public industry
+00:48:32.960 and they have this very tight coupling
+00:48:34.720 and again I hate to go back to China but
+00:48:36.960 it is the best example of this where
+00:48:39.119 what do they have choose one other
+00:48:40.640 country just for the sake of it we can
+00:48:43.520 use Korea we can use Japan we can use
+00:48:46.400 Germany okay there are instances where
+00:48:49.839 the government balance sheets support
+00:48:52.160 private industry they can support them
+00:48:54.319 in three different ways number one is
+00:48:57.200 the tax credits that they can use the
+00:48:59.760 subsidies that they can use to build the
+00:49:01.599 things that they need number two is how
+00:49:05.200 then they can support that in the active
+00:49:07.119 selling and engagement in public spot
+00:49:09.280 markets to shape the demand curve of the
+00:49:12.079 things that are made and then number
+00:49:14.559 three is the taxation on the back end
+00:49:16.960 the terms of repayment and the capital
+00:49:19.119 cycle
+00:49:20.720 those are things that in the United
+00:49:22.400 States we
+00:49:24.040 overwhelmingly turn the
+00:49:26.119 responsibility over to the private
+00:49:28.160 markets to do we are the cleanest the
+00:49:30.960 purest form of capitalism in that sense
+00:49:34.480 but many other countries are shades of
+00:49:37.119 this and again let's not talk about
+00:49:38.960 China which is the So so Larry hold on a
+00:49:41.280 second so Larry so what you have is how
+00:49:43.520 do you defend dumping how do you defend
+00:49:46.559 that how do you defend spot market
+00:49:48.720 manipulation that drives American
+00:49:50.480 companies out of business how do you
+00:49:53.040 fight that and I think here's the
+00:49:55.359 problem if President Trump had announced
+00:49:59.680 a big broadening of anti-dumping law to
+00:50:05.400 confront a variety of instances of what
+00:50:08.640 he what the administration after careful
+00:50:11.200 economic analysis saw as inappropriate
+00:50:15.559 subsidy i might or might not have
+00:50:17.920 thought that they were doing that in the
+00:50:20.319 right way but we wouldn't be having this
+00:50:23.559 argument the front pages would not be
+00:50:26.960 about tariff policy day after day and
+00:50:29.920 the stock market would not be down by $5
+00:50:31.839 trillion
+00:50:33.599 the central thing we are discussing is
+00:50:38.000 not whether there are sensible
+00:50:40.400 modifications to trade policy to respond
+00:50:42.800 to bad practices in other countries or
+00:50:45.440 to promote resilience those are
+00:50:48.160 technical debates that frankly aren't
+00:50:50.240 that interesting to a large number of
+00:50:52.240 people the question is whether declaring
+00:50:56.079 that we need a whole new era of US
+00:50:58.720 economic policy
+00:51:01.559 around universal tariffs against
+00:51:04.720 everything
+00:51:06.480 is so I
+00:51:07.800 think is a rational step forward or
+00:51:12.160 using bilateral trade
+00:51:14.520 surpluses now we're talking about the
+00:51:16.720 Monte Carlo simulation of how to achieve
+00:51:18.720 the outcome and what I am saying is
+00:51:21.040 there is just as much as you and I want
+00:51:23.599 to guess the fundamental and honest
+00:51:26.079 answer is none of us know the people in
+00:51:29.200 the White House what they know they will
+00:51:31.920 share a little bit at a time because the
+00:51:34.160 reality is if you what you wanted was a
+00:51:36.800 white paper or if what you wanted was
+00:51:39.200 paint by numbers I think back to David's
+00:51:41.680 point all that would do is just take any
+00:51:43.520 leverage that they had and give people
+00:51:46.160 the opportunity to shape their response
+00:51:48.800 and I think in traditional game theory
+00:51:52.000 and and again in traditional game theory
+00:51:54.880 I think the right thing to do is when
+00:51:56.240 you're playing poker you play street by
+00:51:57.920 street what's the flop make a set of
+00:52:00.480 actions what's the turn make a set of
+00:52:02.319 actions what's the river make a set of
+00:52:03.920 actions and I think if you're going to
+00:52:05.680 play to win this is what they should do
+00:52:08.400 keep their cards very very close to the
+00:52:10.559 vest realize that you can't necessarily
+00:52:14.079 surgically go and attack the lithium
+00:52:16.400 market first then the rare earth market
+00:52:18.559 second because it all goes back to the
+00:52:20.800 same balance sheet it's the same actor
+00:52:22.960 over and over i think there's a useful
+00:52:24.720 analogy to draw here i think a lot about
+00:52:28.880 an article Mark Danner wrote in the New
+00:52:31.200 York Review of Books many years ago
+00:52:32.319 about the Iraq War and it's an article
+00:52:35.119 that has stuck in my mind forever
+00:52:36.720 because what he says about it is that
+00:52:39.440 one of the the difficulties of the
+00:52:41.599 politics of the Iraq war is there was no
+00:52:44.079 one war there was everybody's private
+00:52:46.400 war that they were projecting on to the
+00:52:48.720 Bush administration you have the liberal
+00:52:50.160 humanitarian vision of why we were going
+00:52:51.920 to war and what that war would look like
+00:52:53.760 you had a realist vision for it you had
+00:52:56.079 a vision that was more about uh weapons
+00:52:58.480 of mass destruction and keeping the
+00:52:59.920 homeland safe from terrorism you had
+00:53:01.280 people believe there was an Iraq
+00:53:02.559 al-Qaeda connection there were really
+00:53:05.040 dozens of these which is how you got as
+00:53:06.800 broad a coalition behind as bad a policy
+00:53:09.520 as that together because everybody said
+00:53:12.720 you know they're being a little bit
+00:53:13.760 vague about what's really going on here
+00:53:15.200 and why we're really doing this but I
+00:53:17.359 bet you if you go into their heart of
+00:53:19.599 hearts what they want is the thing I
+00:53:22.480 want even though the policy doesn't
+00:53:24.000 quite match what policy you would get
+00:53:27.119 from starting from my premises and
+00:53:29.680 that's really what I hear here i hear it
+00:53:32.480 on this show but I hear it in general in
+00:53:34.640 the discussion around this that there
+00:53:36.800 are a lot of different objectives being
+00:53:39.119 projected onto Donald Trump and his
+00:53:40.800 trade war the objectives do not fit the
+00:53:43.359 policies we're seeing the objectives are
+00:53:45.280 not uh stably articulated by Donald
+00:53:47.760 Trump or the people around him nor is
+00:53:49.440 any specific objective being articulated
+00:53:51.839 in a stable way without contradicting
+00:53:53.839 objectives also being articulated at the
+00:53:56.000 same time and look maybe in the end and
+00:53:58.720 this is why I want to push you all on
+00:54:00.079 metrics you get something you like out
+00:54:02.079 of this but you're giving away a lot of
+00:54:05.200 clarity just on the trust that what is
+00:54:07.839 happening is people are keeping a good
+00:54:09.440 hand of cards with a good strategy of
+00:54:12.000 poker hidden from you as opposed to
+00:54:14.640 what's happening is what we seem to be
+00:54:16.240 seeing in public which is Donald Trump
+00:54:18.319 is a chaotic and erratic person they are
+00:54:20.720 making policy in a chaotic and erratic
+00:54:22.800 way that policy is having chaotic and
+00:54:24.880 erratic consequences and then they are
+00:54:27.040 operating and moving on the fly in a
+00:54:29.599 chaotic and erratic fashion sax you
+00:54:31.680 heard Ezra say that they he feels this
+00:54:34.559 administration is being a bit chaotic in
+00:54:36.240 the approach here what's the counter to
+00:54:37.839 that you heard Shamant say "Hey this is
+00:54:39.359 a really thoughtful they're holding
+00:54:40.559 their cards close to the chest." Maybe
+00:54:42.240 you could clarify what your position is
+00:54:44.480 is this too chaotic or is this crazy
+00:54:47.119 what I'm hearing is a bunch of process
+00:54:48.960 objections to Trump's policy and I'm
+00:54:51.280 hearing a bunch of nitpicking what about
+00:54:52.640 Lutu or whatever okay look this is a
+00:54:56.000 very unrealistic view of politics when
+00:54:58.319 we've had a bipartisan consensus in
+00:55:00.480 Washington for decades that unfettered
+00:55:03.119 free trade is a good thing no matter how
+00:55:06.079 big our trade deficits got no matter how
+00:55:07.760 rich and powerful China got no matter
+00:55:09.680 how unfair the trade practices got no
+00:55:12.000 matter how many millions of our jobs and
+00:55:13.680 factories got exported overseas this has
+00:55:16.079 been the bipartisan consensus in
+00:55:18.319 Washington and Larry you're right that
+00:55:20.160 it started before the Clinton
+00:55:21.359 administration and the George W bush
+00:55:23.520 administration definitely accelerated it
+00:55:25.359 but there has absolutely been a
+00:55:26.640 bipartisan consensus in Washington that
+00:55:28.960 this sort of unfettered free trade
+00:55:30.520 policy was good for the country now how
+00:55:34.079 do you change that now look you can
+00:55:36.480 nitpick this and you can make all the
+00:55:38.319 process objections you want but Donald
+00:55:40.319 Trump has changed the conversation i
+00:55:42.079 just want to let you keep saying I I've
+00:55:45.119 offered a process suggestion when I'm
+00:55:46.800 objecting to the absence can I finish
+00:55:49.599 you were pointing to Donald Trump's
+00:55:52.240 views when he was a public figure in the
+00:55:54.319 1980s and 1990s on trade as somehow he
+00:55:57.200 was wrong he was not wrong he was one of
+00:55:59.280 the few people and the few public
+00:56:00.640 figures in America who was right about
+00:56:03.040 this i think most people today would say
+00:56:05.520 he was right about this that throwing
+00:56:08.160 open our markets to these to these
+00:56:10.480 foreign products without thinking about
+00:56:12.400 the consequences was a mistake you guys
+00:56:14.960 have me completely confused really you
+00:56:17.200 do no I'm confused about the incurrence
+00:56:19.440 of your position larry Larry David you
+00:56:22.000 still believe that the Clinton
+00:56:24.040 administration let's call it a
+00:56:25.599 bipartisan consensus of that era was
+00:56:27.599 correct while at the same time you're
+00:56:29.359 arguing that PNTR didn't do anything i
+00:56:31.359 think it is really telling that you are
+00:56:33.040 so much more loathed to defend what we
+00:56:35.599 are seeing than to attack what has been
+00:56:37.119 if you want to it's fine like I guess
+00:56:38.880 you could have It would be interesting
+00:56:40.079 to have you and to go if you'd be
+00:56:42.640 interested to have you and Larry go 12
+00:56:44.160 rounds on the Clinton era you know when
+00:56:46.880 I say to you listen there is not a
+00:56:48.880 stable set of objectives that fit the
+00:56:51.280 policy here you say that's a process i
+00:56:54.240 just would like somebody to defend the
+00:56:56.240 thing they keep actually doing i would
+00:56:58.400 like somebody to explain to me here i
+00:57:01.839 understood Chimath Chimath resilience
+00:57:05.520 central four sectors are we more
+00:57:08.799 resilient in the four sectors what's the
+00:57:11.680 answer in two years from now i got that
+00:57:15.040 i agree all that i cannot make any
+00:57:21.079 linkage between a 10% across the board
+00:57:25.240 tariff a tariff on steel a tariff on
+00:57:29.920 auto on
+00:57:31.880 automobiles and much of what the rest of
+00:57:34.720 the president says and your very valid
+00:57:38.240 objectives i hear
+00:57:40.520 David this free trade has destroyed
+00:57:43.760 America and we're gonna undo that and
+00:57:48.160 viscerated the heart and all this and I
+00:57:50.880 just want to understand how we'll know
+00:57:52.799 okay whether we have fixed okay look
+00:57:54.640 well I I can answer this too go ahead go
+00:57:56.640 ahead David all right look Larry and
+00:57:58.799 Ezra welcome to a political coalition
+00:58:01.280 different people have different
+00:58:02.400 objectives just like different people
+00:58:03.760 had different objectives for the policy
+00:58:05.280 that we had in place 25 years ago okay
+00:58:08.160 there are some people who think that we
+00:58:10.400 should have an across the board 10%
+00:58:11.920 tariff to raise revenue because the
+00:58:14.319 country needs revenue and that that
+00:58:16.079 would be a better way to raise revenue
+00:58:17.359 than to say have income taxes or capital
+00:58:19.200 gains taxes stan Ducken Miller who's not
+00:58:21.599 a fan of tariffs nonetheless said that
+00:58:24.319 he would support a 10% tariff no more
+00:58:26.880 than 10 but up to 10 as a way to raise
+00:58:29.520 revenue okay that's his point of view
+00:58:32.160 there are other people and I would say
+00:58:33.920 I'm more someone who thinks about the
+00:58:35.280 geopolitical consequence of this who
+00:58:37.280 think it was a huge mistake to throw
+00:58:40.000 open our markets to Chinese products
+00:58:42.799 basically feeding their economy to the
+00:58:45.119 point where they could become a pure
+00:58:46.240 competitor of the United States and
+00:58:48.079 threaten the US to threaten the US world
+00:58:50.240 order there are different people hold on
+00:58:52.240 there's different people with different
+00:58:53.280 objectives one more time because you're
+00:58:56.079 you are just not speaking truth
+00:59:00.559 want to know one restriction that the
+00:59:04.240 United States had on Chinese products
+00:59:08.319 that was changed in the year 2000 you've
+00:59:12.000 said seven times throw open our market
+00:59:14.960 to Chinese products i want to know one
+00:59:19.640 example in which the United States
+00:59:22.240 opened its market in
+00:59:25.160 1999 the point just one the point of
+00:59:29.680 Well the name one product where
+00:59:32.799 restrictions were reduced okay David
+00:59:34.319 Namon listen you're mischaracterizing
+00:59:36.400 what PNTR did we can play this like uh
+00:59:38.559 Grock game if you want people can go
+00:59:40.000 ahead and grock this question and
+00:59:41.359 they'll get this answer look the answer
+00:59:43.280 is that before PNTR China was granted
+00:59:46.480 MFN on a year-by-year basis by Congress
+00:59:49.599 correct pntr made it permanent what does
+00:59:52.400 that do it created a permanent new
+00:59:54.319 framework for trade relations between
+00:59:56.079 the United States and China so it it
+00:59:58.880 created permanence and it created a
+01:00:00.400 certain expectation what did that enable
+01:00:02.960 massive investment by US companies in
+01:00:06.720 China so all the bean counters from
+01:00:09.680 McKenzie started talking about
+01:00:11.599 outsourcing and just in time
+01:00:13.200 manufacturing they started moving the
+01:00:15.119 factories over there in a much greater
+01:00:17.200 way you know the Mitt Romney and private
+01:00:19.440 equity hold on for a second we finished
+01:00:21.280 the Mitt Romney and private equity said
+01:00:23.359 this is a great idea let's move all of
+01:00:24.960 our manufacturing could we agree that
+01:00:26.880 whether or not it was the WTR the
+01:00:28.559 bankers on Wall Street got to
+01:00:29.680 financialize and securitize all sorts of
+01:00:32.480 new products okay that was the result of
+01:00:35.760 PNTR the thing we have to decide really
+01:00:38.480 right now as a country is if the thing
+01:00:40.319 that you all are trying to replace us
+01:00:41.920 with is better right if it will work and
+01:00:44.480 so I want to go back to what you said a
+01:00:45.760 minute ago David when you're like
+01:00:46.720 "Welcome to political coalitions." Uh
+01:00:48.960 Larry has been in politics a long time
+01:00:50.480 he was Treasury Secretary i've covered
+01:00:51.839 politics for a long time i'm familiar
+01:00:54.000 with political coalitions in fact a lot
+01:00:55.599 of my book is currently about the
+01:00:57.280 problems in the way the democratic
+01:00:58.839 coalition with too many objectives all
+01:01:01.359 at once can end up destroying the
+01:01:04.240 ability of the policy to actually
+01:01:05.599 achieve a clear goal so this is this is
+01:01:09.359 precisely the nonprocedural objection I
+01:01:12.319 am bringing here this is why I think it
+01:01:14.079 is dangerous to be treating an upheaval
+01:01:17.200 of the entire global financial system
+01:01:19.520 without a clearly defined objective that
+01:01:21.760 is connected to a policy and so the the
+01:01:24.240 question is if the idea is that there
+01:01:27.040 are all these different players here who
+01:01:29.200 have all these different policy
+01:01:30.640 objectives that would connect to all
+01:01:32.240 these different policies and everybody's
+01:01:33.520 getting a little bit of them and Trump
+01:01:35.440 is kind of flipping back and forth
+01:01:36.880 through different versions of them you
+01:01:39.040 could end up despite yes whatever
+01:01:41.119 mistakes are made in the free trade
+01:01:42.559 consensus which I do agree that we had
+01:01:44.720 you could end up with a bad next not
+01:01:47.520 even consensus just a bad next policy a
+01:01:50.799 unclear coalition that is fighting with
+01:01:52.720 itself and is making policy without a
+01:01:54.480 strong process can create not like
+01:01:56.480 nitpicky procedural problems but actual
+01:01:59.680 damage and disasters shimoth let's look
+01:02:02.319 let's try to look forward here this
+01:02:05.040 obviously has been a cataclysmic chaotic
+01:02:09.040 intense whatever descriptor you want to
+01:02:11.280 use of the past week productive is okay
+01:02:14.319 sure and it certainly created massive
+01:02:17.280 swings in the market is this all going
+01:02:19.440 to cause a recession is this too violent
+01:02:23.200 of an approach to markets that is I
+01:02:26.480 think a valid uh criticism that people
+01:02:29.359 have including you know the majority of
+01:02:31.440 business leaders are saying "Hey I think
+01:02:33.280 I have to start layoffs." You had United
+01:02:35.440 Airlines say "We're not going to give
+01:02:36.640 any guidance." This feels to business
+01:02:39.920 leaders Republican business leaders
+01:02:42.000 primarily and market participants as
+01:02:45.040 just far too chaotic and they can't plan
+01:02:48.799 and if they can't plan then they stop
+01:02:50.720 planning which then is going to cause
+01:02:52.720 layoffs it's going to cause bankruptcies
+01:02:54.880 and uh who knows what the second and
+01:02:56.960 third order consequences are going to be
+01:02:58.880 so what's going to happen here over the
+01:03:00.319 next couple of weeks and months so just
+01:03:02.079 on the recession question and then I'd
+01:03:04.000 like to give an answer to Ezra and Larry
+01:03:06.160 i think that and I've said this for
+01:03:07.680 about a year it was clear to me that we
+01:03:10.480 were sneakily in a recession before and
+01:03:14.640 the reason was the vast amounts of money
+01:03:18.400 and deficits that were being pumped into
+01:03:21.280 government services that perverted the
+01:03:24.079 actual GDP picture in America so as Doge
+01:03:27.920 sort of slows down that money flow and
+01:03:32.039 as the consensus in Congress gets to a
+01:03:36.480 better budget I think that you're going
+01:03:39.119 to see that the government was probably
+01:03:41.200 responsible for 100 to 150 basis points
+01:03:43.839 of just waste and if you take that out
+01:03:47.280 you will technically be in a recession
+01:03:49.680 that was independent of these tariffs
+01:03:52.000 and I think that that's where the true
+01:03:53.599 economy Jason was and I think that we're
+01:03:56.319 going to just find that out so that's
+01:03:59.119 that on where we go from here i can give
+01:04:02.160 you an anecdote and I'll give you a
+01:04:03.520 projection the anecdote is this weekend
+01:04:05.280 my wife and I were in bed and a person
+01:04:07.359 called me very successful businessman
+01:04:10.240 who was representing the president of a
+01:04:12.000 country saying "Hey I need some advice
+01:04:14.480 what do we do here?" And we walked
+01:04:16.640 through the three things that he and his
+01:04:19.440 government that they government were
+01:04:20.880 trying to figure out because they wanted
+01:04:22.640 an off-ramp they were like "I'm ready to
+01:04:25.760 cry uncle we're ready to tap out." And
+01:04:29.359 again he was calling me as a private
+01:04:30.720 citizen but I think this conversation
+01:04:32.079 was very instructive number one he's
+01:04:33.599 like "Look we have these really high
+01:04:35.119 tariffs on inbound American products
+01:04:37.359 we're happy to cut these things to
+01:04:38.680 zero." And I said "Well you should do
+01:04:40.799 that." Second while we were exploring
+01:04:43.920 he's like "Yeah you know we have a
+01:04:45.200 enormous capital purchase with Airbus."
+01:04:46.960 I said "Cancel it swap it to Boeing."
+01:04:49.520 He's like "Done." And then the third
+01:04:51.920 which was interesting is he's like "We
+01:04:53.440 need to import an enormous amount of
+01:04:56.599 energy." And I said "Well who do you
+01:04:58.799 give that concession to right now?" And
+01:05:01.599 it was a non-American company and I said
+01:05:03.359 "Well why wouldn't you just RFP that to
+01:05:05.599 an American business and let them
+01:05:07.720 compete?" And he's like "We'd be open to
+01:05:09.839 that as
+01:05:11.000 well." So he said "You know we're
+01:05:13.359 getting prepared we want to find a way
+01:05:14.799 to talk to the Trump administration."
+01:05:16.400 And I'm like "Great however I can be
+01:05:17.839 helpful I'm help I'll be helpful to
+01:05:19.280 you." I got off the phone and I looked
+01:05:20.400 at my wife and I said "If even 30 of
+01:05:23.920 these 75 countries do a deal anywhere
+01:05:26.160 remotely close to this this was an
+01:05:28.640 enormous win." So let me give you my
+01:05:30.799 projection Jason of what the art of the
+01:05:32.640 deal could be here what you do is you
+01:05:35.280 can rewrite Bretonwoods 2.0 what was
+01:05:37.520 Bretton Woods 1.0 it was fixing exchange
+01:05:40.400 rates it was setting up the IMF it was
+01:05:42.160 setting up the World Bank those were the
+01:05:44.319 conditions on the ground post World War
+01:05:45.760 II it made a lot of sense what would we
+01:05:47.520 do if we had to write the Mara Lago
+01:05:49.359 accords right now i think what we would
+01:05:51.920 do is work backwards from the question
+01:05:53.760 that Ezra asked and the answer that I
+01:05:55.799 gave how do we create resiliency in
+01:05:59.280 these critical markets number one a
+01:06:01.440 framework for that number two is how do
+01:06:03.680 we create limits for government
+01:06:06.640 sponsored intervention against capital
+01:06:09.920 for-profit companies many of whom are
+01:06:12.599 American so that we can actually compete
+01:06:14.960 on a level playing field and then number
+01:06:16.480 three very simply if you can do business
+01:06:19.599 in my country why can I not do business
+01:06:21.599 in yours and I'll just give you that
+01:06:22.960 story for one second i was responsible i
+01:06:25.359 was the head of every single entity of
+01:06:28.000 Facebook outside of the United States i
+01:06:29.920 opened every market my team and I
+01:06:33.119 created a framework for dominating i
+01:06:36.319 figured we figured out how to crack
+01:06:37.920 Brazil India Russia you know the one
+01:06:40.720 market that we never could ever make a
+01:06:43.280 single iota of progress say it Jason
+01:06:45.599 with me well China China China Russia no
+01:06:50.079 Iran we won in Russia so my point is in
+01:06:52.880 every single market except one is it
+01:06:54.799 that we were just lucky in 174 markets
+01:06:58.400 and one we were stupid no so I think
+01:07:01.200 that the moral accords this sort of
+01:07:03.039 Brettonwoods 2.0 is the outcome Ezra it
+01:07:05.760 will basically use tariffs as a way to
+01:07:08.960 get these governments to a table and
+01:07:11.039 allow us to negotiate a much fairer
+01:07:14.079 economic quid proquo here's my concern
+01:07:16.720 with with this theory and I want to
+01:07:17.839 leave out but I'll leave the the sort of
+01:07:19.839 question of what the real economy looked
+01:07:21.119 like to Larry this world in which what
+01:07:24.000 is happening is a business leader who
+01:07:25.920 represents a country is calling you and
+01:07:27.200 saying okay what do we need to do to
+01:07:28.400 deal right they're coming to Donald
+01:07:29.839 Trump and they are going to come to
+01:07:30.960 Donald Trump as Larry said earlier
+01:07:32.480 there's no doubt that the US economic
+01:07:35.200 leverage is enormous and virtually every
+01:07:38.440 country faced with our might is going to
+01:07:41.280 try to cut a deal with us but then
+01:07:43.520 there's a call they're not making to you
+01:07:45.599 that they're making to someone else
+01:07:47.280 which
+01:07:48.520 is we have
+01:07:51.880 allowed or we have approached the US as
+01:07:54.720 a functionally benign partner for a very
+01:07:57.359 long time and now they're becoming a
+01:07:59.760 dangerous partner they are very very
+01:08:02.359 strong and they will use that strength
+01:08:05.119 to crush countries smaller than them
+01:08:07.359 when it suits the whims of a personalist
+01:08:10.920 regime run by a person who his feelings
+01:08:15.200 even about people that the US or
+01:08:16.719 countries the US traditionally
+01:08:18.000 considered allies like Canada or much of
+01:08:20.560 Europe uh change and so yes on the one
+01:08:23.679 hand for the next year or two we want to
+01:08:26.238 avoid getting a big tariff slapped on us
+01:08:28.799 and so we got to figure out what is it
+01:08:30.960 that if we offer it to Donald Trump he
+01:08:33.279 will say to himself that was enough uh
+01:08:36.799 of a give that you know I can move on to
+01:08:39.520 someone else i can make them the the
+01:08:41.679 focus of my eye and on the other hand
+01:08:43.759 they're going to begin to build
+01:08:45.359 fortresses and deals and partnerships
+01:08:47.520 and approaches that make sure they are
+01:08:49.600 less exposed to our ability to wield
+01:08:52.560 this power against them in the future
+01:08:54.719 but before I came on the show I had gone
+01:08:56.880 on X and I saw a clip of you going
+01:08:59.600 around where you were saying that one of
+01:09:00.640 the problems with the Biden
+01:09:01.560 administration was that you couldn't get
+01:09:03.520 anybody on the phone and in the Trump
+01:09:05.279 administration you make the call the
+01:09:06.799 deputy chief of staff picks up you say
+01:09:08.560 "Hey I need you to talk to to this
+01:09:10.319 company they I work with them they're
+01:09:11.839 freaking out about the tariffs the
+01:09:13.359 deputy chief of staff tells the company
+01:09:14.960 they they work something out." No no not
+01:09:16.479 that they work something out they listen
+01:09:18.158 they listen this this world in which we
+01:09:22.000 are doing the dealm by individual
+01:09:25.439 relationships by who can get their calls
+01:09:27.120 answered not by rules that feel clear
+01:09:29.520 and stable that's how the Hold on a sec
+01:09:32.319 but that's how the Biden administration
+01:09:33.799 worked that's not what said that's not
+01:09:36.000 what I said well no Ezra you're trying
+01:09:38.238 to make it sound like corruption hold
+01:09:40.759 on it was George Clooney that was making
+01:09:43.198 the call who cares what George Clooney
+01:09:44.880 thinks didn't you just say on uh well I
+01:09:47.279 was very very critical of Biden
+01:09:49.198 I saw that clip Ezra and what Jamas said
+01:09:51.920 what Jamas said is simply that the White
+01:09:54.960 House listens when he calls whereas he
+01:09:57.679 couldn't get his calls returned by the
+01:09:59.760 Obama administration great i think we're
+01:10:02.080 actually not saying something all that
+01:10:04.320 you made it sound like corruption well I
+01:10:06.280 actually think what Trump is working
+01:10:08.800 through is deal patronage based on how
+01:10:12.400 he sees the company i'm sorry the other
+01:10:15.120 country what happened ezra can I just
+01:10:17.760 make sure that this is clear to you this
+01:10:19.199 is a 150year-old American business i
+01:10:22.560 have no interest in that company except
+01:10:24.960 a friendship these are Americans hiring
+01:10:28.159 Americans trying to compete with China
+01:10:30.159 who were very negatively affected and
+01:10:32.000 all I said was why don't you have a
+01:10:34.000 chance to explain what's happening on
+01:10:35.520 the ground my point that I was trying to
+01:10:37.199 make and maybe I didn't make it clear
+01:10:38.480 enough so let me set the record straight
+01:10:40.239 the Trump administration what I have
+01:10:42.239 seen as a businessman is willing to hear
+01:10:44.880 the conditions on the ground as a
+01:10:46.719 businessman when I was building Ezra
+01:10:49.199 just to be clear critical rare earth
+01:10:51.040 supplies for America under the Biden
+01:10:53.480 administration battery can materials to
+01:10:56.480 compete with China under the Biden
+01:10:58.280 administration AI chips to be the best
+01:11:00.880 inference solution under the Biden
+01:11:02.400 administration i couldn't get a call
+01:11:04.600 back that's just the facts not because I
+01:11:08.080 wanted anything just to tell them what
+01:11:10.320 was going on
+01:11:12.159 so fair enough insane okay fair enough i
+01:11:15.760 I am not telling you that the B
+01:11:17.440 administration shouldn't have returned
+01:11:18.400 your calls what I am saying is that the
+01:11:21.840 degree to which Trump first and then
+01:11:24.800 everybody around him as an example of
+01:11:26.560 him because culture comes from the top
+01:11:28.640 is working off this kind of individual
+01:11:30.880 call and deal making worries me because
+01:11:33.280 I believe that you had every one of
+01:11:35.360 these calls you're saying and they went
+01:11:36.800 exactly the way you say they went and
+01:11:39.040 then the calls that you are not getting
+01:11:41.199 and they are two minutes ago Ezra you
+01:11:43.120 were saying that a 10% across the board
+01:11:45.360 tariff was too broad and we need to go
+01:11:48.320 industry by industry and now you're
+01:11:49.920 saying that it's going to be too
+01:11:51.280 particular and he shouldn't do country
+01:11:52.800 by country negotiations the word
+01:11:54.679 dealing people listening to people is
+01:11:57.360 not deal making Ezra it's just listening
+01:11:59.280 to people are you really going to be
+01:12:01.760 tell me that the way Trump himself works
+01:12:04.080 is not individual deal
+01:12:06.840 making people with
+01:12:10.080 Is this really is this really the
+01:12:12.000 argument here i will tell you what I've
+01:12:13.600 seen and David's seen much more what I
+01:12:16.480 have seen from the president is he takes
+01:12:18.520 in hundreds of opinions and starts to
+01:12:21.920 figure out what the ground truth is and
+01:12:24.320 the reason is when you only listen to
+01:12:25.920 one or two every president probably
+01:12:28.239 deals with this you have this
+01:12:30.000 information asymmetry problem because
+01:12:31.760 you are the president of the United
+01:12:33.199 States and so how do you cut through it
+01:12:35.520 you talk to hundreds and hundreds of
+01:12:37.040 people and you triangulate what the
+01:12:38.640 truth is so it's not like he's giving
+01:12:41.040 any favor he's collecting information
+01:12:43.199 that is a good process you want the most
+01:12:45.679 powerful person in the world to get to
+01:12:47.360 the ground truth go ahead Larry
+01:12:50.880 i am all for information gathering i
+01:12:54.880 agree that the Biden administration did
+01:12:58.320 not do a as good a job as it could have
+01:13:00.880 of maintaining relations with the
+01:13:02.719 business community i agree that it's a
+01:13:05.600 good idea for there to be quite
+01:13:07.920 extensive connection
+01:13:10.400 i am also appalled by the halfozen phone
+01:13:14.560 calls I have gotten from prominent
+01:13:17.199 people in business who have said "I'm
+01:13:20.960 used to being shaken down when I try to
+01:13:24.159 do business in some parts of the world."
+01:13:27.120 It's a new experience to be shaken down
+01:13:30.080 by representatives of the president of
+01:13:32.960 the United States what's the shake down
+01:13:35.120 when you have close connections you help
+01:13:38.480 us you contribute this way you no sense
+01:13:41.679 at all makes no sense what the president
+01:13:43.679 has been trying to do is encourage
+01:13:47.159 domestic maybe it is an erroneous
+01:13:50.199 perception to which I have been exposed
+01:13:53.560 repeatedly but it is total nonsense but
+01:13:56.080 it is a pervasive total nonsense you
+01:13:59.280 guys are very confident that your true
+01:14:01.520 and everybody else's aren't it is a
+01:14:03.360 perception that is shared by almost
+01:14:07.360 everyone who has experience in the
+01:14:09.679 conflict of interest area who has looked
+01:14:12.640 at the situation of Trump administration
+01:14:17.239 officials and those working as special
+01:14:19.920 government employees in the Trump
+01:14:22.719 administration what are you saying so I
+01:14:24.080 just went through that whole process
+01:14:25.520 Larry it will be false but I can speak
+01:14:28.960 to this cuz I just went through this
+01:14:30.400 process it took forever it took like
+01:14:32.640 months okay i went through the same
+01:14:35.040 process everyone else goes through the
+01:14:36.560 OGE career staff have to go through all
+01:14:38.800 of your disclosures and they figure out
+01:14:40.960 what the conflicts are and then you have
+01:14:42.719 to devest them okay it's the same
+01:14:44.719 process everyone goes through so you're
+01:14:47.040 all over the place making all sorts of
+01:14:48.640 accusations here so if you have some
+01:14:50.560 proof or you want to accuse someone then
+01:14:52.640 why don't you just do it but otherwise
+01:14:54.400 what you're saying is just not true it's
+01:14:56.159 not backed up by anything great they
+01:14:57.760 shut down Eric Adams that's my That's a
+01:14:59.520 direct accusation that happened in
+01:15:00.880 public they shook down Eric they shook
+01:15:02.560 down Eric Adams because they put him in
+01:15:04.239 his pocket that's a big deal y'all like
+01:15:06.880 that is the way they are doing business
+01:15:08.640 here you guys are all over the map
+01:15:11.440 making wild accusations first it was a
+01:15:15.480 second resations because of their
+01:15:19.320 discomfort with being overruled by your
+01:15:23.040 colleagues in the Trump administration
+01:15:26.239 so the suggestion over the map you have
+01:15:28.480 been held to the same ethical standards
+01:15:30.960 that I was held and that other members
+01:15:33.840 of previous administrations including
+01:15:36.080 the Bush administration were held
+01:15:38.880 unfortunately is not right no that's
+01:15:42.080 that's false all right well there's two
+01:15:44.040 issues you may not be familiar but I had
+01:15:47.120 to devest hold on i had to devest a lot
+01:15:49.280 as I talked about on this show in any
+01:15:51.280 event you guys are all over the map
+01:15:52.719 making wild accusations two seconds ago
+01:15:55.120 the shakeddown was at the level of
+01:15:56.480 companies then all of a sudden it was OG
+01:15:58.800 and ethics then it was something about
+01:16:00.239 Eric Adams integrated business it's
+01:16:03.120 nobody's making I like that you're like
+01:16:04.400 "Who's Eric Adams?" We're not making I
+01:16:06.400 know who Eric Adams is i supported him
+01:16:08.400 on this show forward way that Trump does
+01:16:11.360 business at every level at which he
+01:16:13.120 operates and so it is happening at every
+01:16:15.520 level of his administration you know I
+01:16:17.840 got to say I don't It's not that I It's
+01:16:19.920 not that I don't want to hear you i
+01:16:21.840 don't want to hear it you know how this
+01:16:23.199 started is because Hold on a second Ezra
+01:16:26.400 you misqued something Chamas said on
+01:16:28.640 another podcast where all he said was
+01:16:30.960 that I can get my phone calls returned
+01:16:32.400 by this White House where I couldn't
+01:16:33.920 with Obama or Biden even though I was a
+01:16:36.000 big donor hold on and you guys have
+01:16:38.560 somehow morphed that into some sort of
+01:16:40.719 like broad ranging accusations of
+01:16:43.600 corruption or something like that no
+01:16:45.440 evidence clear about what the accusation
+01:16:48.400 of the way Donald Trump works is ezra
+01:16:51.360 your accusation of me tried to infer
+01:16:53.280 some form of corruption or some form of
+01:16:55.120 dealmaking none of that happened what I
+01:16:56.800 what I again I'll tell you I connected
+01:16:59.280 the White House so they could hear on
+01:17:00.800 the ground what's happening from a
+01:17:02.560 company who was very negatively impacted
+01:17:04.480 by the tariff so that they had the
+01:17:06.480 complexion of that feedback as well okay
+01:17:08.880 do you deny the possibility that your
+01:17:10.560 experience with the Trump administration
+01:17:12.000 might be different than people who they
+01:17:13.280 feel are less allied to them than you
+01:17:14.800 are ezra I'm will I'm willing a
+01:17:16.880 straightforward question what are you
+01:17:18.960 sure that you're a good sample i don't
+01:17:21.440 even know what we're talking about
+01:17:22.560 anymore also I think what we're talking
+01:17:24.400 about right now is that people who
+01:17:26.080 donate to politicians have unique access
+01:17:28.719 to politicians i think we can all agree
+01:17:30.560 that's not true just to be very clear I
+01:17:32.800 give I have given way more to the
+01:17:35.040 Democrats than I've given to Donald
+01:17:36.880 Trump and you were disappointed about
+01:17:38.400 that i didn't say anything about your
+01:17:39.920 donations said about where your ally now
+01:17:42.320 and by the way like what what's crazy is
+01:17:44.159 I was the same intellectual person I was
+01:17:46.239 under Biden that I am under Trump it's
+01:17:48.320 just that it seems like the Trump
+01:17:49.840 administration is like "Well this is a
+01:17:51.280 smart guy with some opinions let me
+01:17:52.640 listen." Biden I And by the way and
+01:17:54.400 Larry you and you know this these were
+01:17:56.400 some very close friends of ours that we
+01:17:58.400 share mutually that would not even
+01:18:00.320 return my calls so it is a little
+01:18:02.400 personal for me as well Ezra just to be
+01:18:04.000 honest with you i'm not going to go
+01:18:05.040 there but the point is that's fair i
+01:18:06.719 have never I have never seen a single
+01:18:10.040 iod of any form of anything other than
+01:18:14.080 just gathering information from the
+01:18:15.600 Trump they've never asked me for
+01:18:17.120 anything they've never tried to direct
+01:18:18.719 me to do anything they just want to know
+01:18:20.480 what's going on when you ask them hey
+01:18:22.640 can you talk to such and such a person i
+01:18:24.159 can assure you that your experience is
+01:18:26.640 not the experience of quite a number of
+01:18:30.320 the nation's major law firms it is not
+01:18:33.199 the experience of quite a number of the
+01:18:35.120 nation's business leaders it is not the
+01:18:37.920 experience of quite a number of um the
+01:18:42.400 nation's uh
+01:18:44.440 universities
+01:18:46.040 that I am neither the first nor the
+01:18:50.120 hundth person referencing efforts at
+01:18:53.640 extortion to use the movie The Godfather
+01:18:57.040 as a metaphor for the for aspects of the
+01:19:00.640 way in which our country is uh being uh
+01:19:05.040 governed what a surprise democratic
+01:19:07.199 universities and Democratic law firms
+01:19:08.800 are making accusations
+01:19:11.040 all right let's move on we think we've
+01:19:13.360 the tariff issue and I think we can all
+01:19:15.440 agree that if you donate money you might
+01:19:17.440 have better access to politicians i want
+01:19:19.440 to talk about the future especially
+01:19:20.800 Jason if you give 10% to the big guy
+01:19:22.560 then you really get access listen we can
+01:19:24.719 we can do these allegations if you you
+01:19:27.760 know yeah there's a long list of people
+01:19:29.920 who've made donations and there's a long
+01:19:31.520 list of favorable things that have
+01:19:33.199 happened to them after across all
+01:19:35.159 administrations and we can debate cause
+01:19:38.320 and correlation all day long here but I
+01:19:40.080 wanted to talk about the future of the
+01:19:42.000 Democratic party while we're here Ezra
+01:19:44.320 you have been on a tour talking about
+01:19:49.560 exactly how incompetent how terrible of
+01:19:52.880 a campaign they ran what is the future
+01:19:55.440 and I'll let Larry get you know his uh
+01:19:57.520 his two cents in here as well is there
+01:19:59.840 any saving this party and if so what
+01:20:02.080 would it look like well well there's a
+01:20:03.840 the problem of the party and the
+01:20:05.199 campaign let me bracket that cuz so my
+01:20:06.960 book Abundance is more about how
+01:20:08.239 Democrats govern at both the state and
+01:20:10.000 and local and federal level and some of
+01:20:12.560 the pathologies of governance there they
+01:20:14.719 make it hard for for liberals to achieve
+01:20:16.560 their goals there are versions of this
+01:20:17.840 on the right but I'm not really writing
+01:20:19.360 about that in in this so my book
+01:20:21.600 Abundance Derek Thompson is about the
+01:20:23.760 tendency Democrats have to subsidize
+01:20:26.400 things where they are choking off the
+01:20:27.920 supply of the thing they want people to
+01:20:30.000 have more of so think about housing in
+01:20:32.000 California to get rental vouchers from
+01:20:33.360 the federal government but we make it
+01:20:34.719 incredibly hard to build homes clean
+01:20:36.880 energy which a lot of the B
+01:20:38.719 administration's policies were about
+01:20:40.320 putting huge subsidies behind the
+01:20:42.159 building of more clean energy but they
+01:20:44.000 didn't really do anything to make the
+01:20:45.920 permitting the sighting the state
+01:20:48.000 capacity to do all of that uh capable of
+01:20:50.960 building that amount of of clean energy
+01:20:53.600 at the pace they foresaw us building it
+01:20:55.920 right that they wanted us to build it
+01:20:58.000 and behind this and and I can sort of go
+01:21:00.000 into a lot of detail here but is a a
+01:21:02.560 diminishment of state capacity that
+01:21:04.719 comes from wrapping the state itself in
+01:21:07.360 red tape and regulation i think we think
+01:21:09.520 and have an intuitive way of thinking
+01:21:11.760 about the idea of deregulation on the
+01:21:14.000 private sector right when the government
+01:21:15.440 is imposing regulations on private
+01:21:17.280 companies and it's making it hard for
+01:21:18.960 those companies to act to do business
+01:21:21.040 etc but this happens first and foremost
+01:21:23.600 on the government itself one of my
+01:21:25.440 favorite examples I've been using lately
+01:21:27.280 there's a new Rand report that looks at
+01:21:29.280 how much it costs to construct a square
+01:21:31.600 foot of housing in California in Texas
+01:21:34.719 and Colorado and it does it on two kinds
+01:21:37.360 of housing market rate and it does it on
+01:21:39.360 affordable housing subsidized by the
+01:21:41.600 public sector and the cost of creating
+01:21:44.239 housing in California market rate is 2x
+01:21:46.640 in California what it is in Texas but
+01:21:49.120 when you get into that publicly
+01:21:50.640 subsidized housing where you have all
+01:21:53.040 these new standards and rules and
+01:21:55.080 regulations being triggered by the
+01:21:57.040 addition of public money it goes up to
+01:21:58.960 about 4.4x and so you have this real
+01:22:02.320 problem I think in a way of governing
+01:22:04.560 that evolved in the 70s the '8s there's
+01:22:07.600 a kind of small government version of
+01:22:09.199 the Democratic party the new left more
+01:22:11.400 individualistic that was worried about
+01:22:13.840 too much exercise of government power
+01:22:16.639 and now that we are in a different world
+01:22:19.040 with different problems we're thinking
+01:22:20.400 about re-industrializing we have a
+01:22:22.000 housing shortage and you have things
+01:22:24.159 like the Biden administration which
+01:22:25.360 really are thinking about how to build a
+01:22:26.880 lot more in America but you don't have
+01:22:28.639 either a policy architecture or I would
+01:22:31.360 say a governing culture that makes that
+01:22:34.320 possible yeah and and so a lot of this
+01:22:36.320 came from Francis Fukayyama I think uh
+01:22:39.199 and vto votocracy vtocracy how do you
+01:22:41.719 pronounce fukyama is a great sort of
+01:22:43.840 related concept of vetocracy which is
+01:22:45.600 that he also got another great concept
+01:22:47.600 since we're bringing up fukyama which is
+01:22:49.440 that neoliberalism which we've sort of
+01:22:51.040 been talking about here with the WT and
+01:22:52.719 other things he says people think about
+01:22:54.639 it as the veneration of the market but
+01:22:56.800 what it is first and foremost is the
+01:22:58.320 degradation of the state and I think
+01:23:00.320 that explains a lot more about the world
+01:23:02.239 we're in than people recognize ezra you
+01:23:03.840 can agree with this francis Fukuyama is
+01:23:05.520 probably one of the most polarizing
+01:23:07.120 modern academics in America as you read
+01:23:10.480 him people end up in they're very pro-
+01:23:12.560 Fukuyama or they think Fukyama because
+01:23:14.880 Yeah i mean look cuz cuz what happened
+01:23:16.480 is I mean just to uplevel this for a
+01:23:18.080 second is that you you had Fukuyama
+01:23:19.920 write the end of history which basically
+01:23:21.760 said that democratic capitalism is the
+01:23:23.520 end- all beall and we're basically down
+01:23:25.280 to one system and the whole world's
+01:23:27.360 going to run on that system and that
+01:23:29.920 philosophy then animated I would say a
+01:23:33.120 neoliberal and neoonservative consensus
+01:23:36.239 in Washington for 25 years and there
+01:23:38.159 were three key pillars of that let's
+01:23:40.159 call it globalist consensus number one
+01:23:42.800 we'd have open borders free flow of
+01:23:45.280 labor in fact the Wall Street Journal
+01:23:47.040 editorial page which you know is
+01:23:49.120 considered to be conservative actually
+01:23:50.880 supported a constitutional amendment
+01:23:52.560 saying that we'd have open borders
+01:23:54.480 number two we'd have open flows of trade
+01:23:56.800 and capital so basically the unfettered
+01:23:59.360 free trade agenda and then number three
+01:24:01.520 the third leg of it was Pax Americana we
+01:24:03.679 had deploy American troops all over the
+01:24:05.679 world to defend this consensus because
+01:24:07.600 they'd be greeted as liberators not
+01:24:09.440 occupiers i think all three pillars have
+01:24:13.199 been refuted and the the person who has
+01:24:17.040 represented the shift in this consensus
+01:24:20.239 to I'd say a new agenda of economic
+01:24:23.239 nationalism and geopolitical nationalism
+01:24:26.159 is Donald Trump okay wow i was going to
+01:24:28.320 guess that when you have listen when you
+01:24:33.239 have violence end of history and the
+01:24:35.760 last man is a much more complicated
+01:24:37.199 question at a very high level let me
+01:24:38.960 finish the point here cuz I'm kind of on
+01:24:40.159 a roll here yeah keep wrap bring it home
+01:24:43.199 when you have a bipartisan
+01:24:45.400 consensus that included both Bush
+01:24:48.320 Republicans and Clinton Democrats around
+01:24:50.960 these three pillars of
+01:24:52.840 globalism and then I'd say that country
+01:24:55.600 turns against that that's not going to
+01:24:57.920 be a smooth process that is going to be
+01:25:00.400 potentially a violent process it's going
+01:25:01.920 to be a disruptive process
+01:25:04.320 and you guys want to raise like all
+01:25:05.600 these nit objections and pro or whatever
+01:25:08.320 donald Trump is bringing that
+01:25:09.840 realignment but the real question the
+01:25:12.320 real question is was that consensus
+01:25:14.960 correct or was it a failure i would
+01:25:16.800 argue as a failure larry let me ask you
+01:25:18.800 a question then when you see something
+01:25:20.639 like Doge happening and people start
+01:25:22.639 taking a bit of a a more unilateral a
+01:25:25.440 quicker a less veto based approach is
+01:25:29.120 that encouraging to you Larry do you
+01:25:31.199 think that's the right way to do it
+01:25:32.639 because we haven't been able to get the
+01:25:34.880 government smaller since Clinton so are
+01:25:37.040 you pro Doge not Doge and do you think
+01:25:39.520 this sort of objection to hey we're
+01:25:41.760 going too fast too violently maybe
+01:25:43.840 that's what we need to do at times and
+01:25:45.360 then I'll go back to you Ezra to answer
+01:25:46.800 the same question i think that Ezra is
+01:25:49.679 broadly right about the pro promiscuous
+01:25:53.360 distribution of the veto power he's
+01:25:55.920 broadly right that we need to be able to
+01:25:58.560 do more things more quickly in the state
+01:26:03.040 if we're to be an effective government i
+01:26:06.000 think we need much more reform i think
+01:26:09.600 Democrats have allowed
+01:26:12.040 themselves excessively to become hostage
+01:26:15.800 to particular groups particular
+01:26:20.000 traditional uh concerns and have lost
+01:26:24.320 touch in important ways with an American
+01:26:28.120 mainstream and I think that in so far as
+01:26:31.040 the election outcomes in recent years
+01:26:33.520 have not been what they wanted that is
+01:26:36.159 an important contribution to how that
+01:26:38.800 has happened and I agree with David that
+01:26:42.400 Donald Trump represents a
+01:26:45.880 transformative and profoundly different
+01:26:49.000 ideology than has been present in
+01:26:51.920 governing America before
+01:26:54.800 i do believe that it is
+01:26:59.560 fundamentally not new under the sun just
+01:27:03.920 new in America that it is the Juan Peron
+01:27:08.679 approach which is very familiar to
+01:27:11.920 students of Latin American uh history in
+01:27:16.280 particular and that the general
+01:27:19.480 experience of that approach is that its
+01:27:23.639 leaders particularly when they have
+01:27:25.920 galvanizing
+01:27:27.560 personalities can be very popular for a
+01:27:31.040 substantial period of time but that they
+01:27:34.320 are very rarely
+01:27:36.320 remembered well by historians of their
+01:27:40.120 countries and so my best judgment is
+01:27:44.719 that this
+01:27:46.600 project
+01:27:48.360 is going to end in disastrous
+01:27:52.840 failure despite having put its finger on
+01:27:56.880 some important
+01:27:58.520 concerns and issues of course there
+01:28:02.080 should be much more aggressive reform of
+01:28:05.360 the government than there is but that
+01:28:08.719 does not
+01:28:11.000 excuse or mean that it is likely to work
+01:28:14.960 out well
+01:28:16.920 for some of the mindless
+01:28:20.600 savagery that the Doge is bringing to
+01:28:24.880 traditional American institutions uh is
+01:28:28.639 going to work out Well and to take just
+01:28:31.760 one example my belief is that the
+01:28:36.239 revenue
+01:28:37.400 loss from the Doge's
+01:28:41.080 destruction
+01:28:43.000 of significant part of the functioning
+01:28:46.000 of our nation's tax collection system is
+01:28:49.440 likely to exceed in terms of
+01:28:52.239 contributing more to the deficit than
+01:28:56.080 any
+01:28:57.719 savings realized what do you mean by
+01:28:59.520 what do you mean by that what is this
+01:29:00.880 they've identified the right thing but
+01:29:02.400 they're executing on it too much go
+01:29:04.000 ahead Shim no no I have two questions
+01:29:05.840 Larry just tactically what do you mean
+01:29:07.360 by the destruction of the revenue
+01:29:09.120 collecting mechanism that's question
+01:29:10.639 number one which was just I just want to
+01:29:12.560 understand what you meant a second
+01:29:14.320 question which is more broadly if Larry
+01:29:16.960 if you were president for a day just
+01:29:19.120 give us the Larry Summers plan like what
+01:29:22.400 is the counterfactual to what's
+01:29:24.159 happening now you can include tariffs
+01:29:26.960 you can include Doge i just want to
+01:29:28.639 understand how you would frame the
+01:29:31.679 solution to what hils us so maybe
+01:29:34.560 tactically just talk about the the
+01:29:36.159 collections part because you referenced
+01:29:37.920 it and then just more strategically what
+01:29:40.560 the Larry Summers 2.0 plan is
+01:29:43.360 we are firing on
+01:29:46.280 mass people whose job it is to audit
+01:29:50.000 people like you and the result of that
+01:29:54.639 is that we are losing revenue
+01:29:57.880 directly we are losing revenue further
+01:30:00.880 because people once audited go straight
+01:30:03.840 in subsequent years and we are losing
+01:30:07.040 revenue because more and more people are
+01:30:08.960 playing the audit lottery engaging in
+01:30:11.679 problematic practices in the expectation
+01:30:15.520 can I burst your bubble on this that
+01:30:17.040 they will not that they will not be
+01:30:19.520 caught let me tell you my experience i
+01:30:21.679 get audited every year automatically and
+01:30:24.639 the reason you get audited every single
+01:30:26.320 year is typically the way that you
+01:30:27.920 acquire your wealth creates complexity
+01:30:31.520 700 800
+01:30:33.639 900page tax filings now you don't do
+01:30:36.960 that yourself what happens is you
+01:30:38.480 typically pay a large big four
+01:30:40.000 accounting firm millions of dollars to
+01:30:41.600 do it deote PWC Anderson
+01:30:46.040 etc every year that I've been audited
+01:30:48.800 the biggest delta has been about a
+01:30:51.280 thousand bucks in this case I actually
+01:30:53.840 was owed a,000 by the US government last
+01:30:56.239 year which was what you spend it on
+01:30:57.920 incredible i'll spend it everywhere so
+01:31:00.159 Larry just so you know I'm well aware of
+01:31:02.880 everything you just said and I have no
+01:31:04.480 doubt about your personal integrity fact
+01:31:08.639 you think it is less than a quarter of
+01:31:10.880 people with incomes over $10 million are
+01:31:13.840 audited so it's just it's just not true
+01:31:17.280 let me ask you that everybody not true
+01:31:20.000 that everybody is uh that everybody is
+01:31:22.800 audited i get the sense Larry you're you
+01:31:25.040 like Doge but you don't like the
+01:31:26.400 execution got it ezra you talk about
+01:31:29.360 your book we got to move faster we got
+01:31:30.960 to do things faster we got to take more
+01:31:32.719 risk so are you pro doge or not and if
+01:31:35.360 you look at the Democratic if you look
+01:31:37.600 at this administration I'm going to call
+01:31:39.120 it Trump 2.0 for clarity these are I
+01:31:42.560 would say two out of three people around
+01:31:44.159 Trump whether it's Chamont Joe
+01:31:46.840 Rogan Bessant Howard even uh Trump
+01:31:51.840 himself are Clinton Democrats so it's
+01:31:54.480 basically the Clinton you were going to
+01:31:56.000 say yourself what i don't matter ezra
+01:31:59.760 are you happy about Doge your book seems
+01:32:02.159 to be a plan to do like things
+01:32:06.800 i think building state capacity is two
+01:32:08.880 dimensions one is what the state can do
+01:32:11.679 and the second is the rules under which
+01:32:13.199 it doesn't doge seems to me to be
+01:32:16.000 fundamentally destructive of state
+01:32:17.600 capacity first and this goes again to my
+01:32:20.800 endless frustration that I feel like
+01:32:22.239 goals are not clearly laid out in the
+01:32:23.600 Trump administration what are the
+01:32:25.520 measures we are looking at and how will
+01:32:26.880 they achieve them is it just trying to
+01:32:28.280 cution they've been very But that's not
+01:32:30.800 efficiency right i could save a trillion
+01:32:32.800 dollars no I could save a trillion
+01:32:35.040 dollars in ways that will make the it
+01:32:37.199 let's put it this way what Larry was
+01:32:38.560 just saying right if you cut everybody
+01:32:40.880 at the IRS right just cut every single
+01:32:43.600 one of them on the Doge measure of how
+01:32:46.239 much did you save in headcount that will
+01:32:48.400 look like it counted up towards your
+01:32:50.159 save a trillion dollars goal but in
+01:32:52.159 terms of what Larry is saying which is
+01:32:53.679 the long-term efficiency of US tax
+01:32:55.679 collections you'd have just made the IRS
+01:32:57.840 much much much less efficient no no we
+01:32:59.840 get that but they've also cut all these
+01:33:02.719 software and consulting
+01:33:04.679 nonsense stuff i am not going to tell
+01:33:06.880 you that there are zero Doge cuts that
+01:33:09.520 made sense but I am going to say that
+01:33:11.199 what I see them doing overall is highly
+01:33:13.440 destructive state capacity or similarly
+01:33:15.280 a lot of things happening around USAD
+01:33:16.880 and say PEPAR funding um is PEPAR
+01:33:19.840 efficient i mean yes you save money by
+01:33:22.000 not giving HIV retrovirals to children
+01:33:25.040 in Africa but I think it is good that
+01:33:27.280 you do that right so that's not the kind
+01:33:28.560 of efficiency I'm looking for i am
+01:33:30.920 interested in state capacity that is
+01:33:34.000 connected to achieving specific goals
+01:33:36.639 i've talked to a bunch of the people
+01:33:37.600 around Doge and again here you get a lot
+01:33:39.600 of different ideas of what the goals are
+01:33:41.280 some people say well what we're trying
+01:33:42.719 to do is save money but if what you
+01:33:44.480 wanted to do is save money you could say
+01:33:46.719 go to Congress and do a very big bill
+01:33:49.040 there was a lot of interest in Congress
+01:33:50.719 people like Roana who wanted to work
+01:33:52.880 with Doge to identify big spending cuts
+01:33:55.600 that both sides could agree on defense
+01:33:57.199 being a big being a big piece of this
+01:33:59.120 and then they decided not to do it so
+01:34:00.800 Doge to me uh is a it would be great if
+01:34:04.480 somebody tried it but I see this as much
+01:34:06.639 more of a destruction of state capacity
+01:34:08.960 and a hacken slash operation larry
+01:34:11.040 Summers we're going to thank you for
+01:34:12.320 coming i know you've got to uh drop off
+01:34:14.560 right now thank you wait what about
+01:34:16.480 Larry Summers 2.0
+01:34:18.880 would you like to do your Larry Summers
+01:34:20.719 you're Yeah before you leave I want to
+01:34:22.320 know what the counterfactual is yeah
+01:34:24.880 what's your plan Larry
+01:34:26.440 counterfactual is focus on necessary
+01:34:30.719 strategic investments in
+01:34:34.120 infrastructure in making America the
+01:34:37.199 leading country unambiguously in the
+01:34:39.920 world in technology particularly
+01:34:42.880 disseminating in large scale artificial
+01:34:46.120 intelligence for collective uh benefit
+01:34:51.440 building a larger network of alliances
+01:34:56.480 so that we are in a position to counter
+01:34:59.880 China both with hard power in the form
+01:35:03.040 of increased military expenditures and
+01:35:06.159 with moral strength and the world as a
+01:35:10.800 whole uh as a whole behind us as a
+01:35:16.000 central organizing theme of uh foreign
+01:35:20.560 policy
+01:35:22.199 and
+01:35:24.120 reinvent our education system at uh
+01:35:28.800 every level to pick up on Ezra's notion
+01:35:32.239 of being about results and doing all of
+01:35:35.920 that while you're doing the abundance
+01:35:38.760 agenda as uh well of freeing stuff up so
+01:35:44.639 that we're in a position uh for
+01:35:47.880 governments to get things
+01:35:50.880 done i believe the country is best
+01:35:53.800 governed from the center not best
+01:35:58.520 governed from a
+01:36:02.679 radical fringe and I believe moving to a
+01:36:07.679 transactional model of
+01:36:10.679 leadership is the approach of Latin
+01:36:15.040 American strong men and history does not
+01:36:19.199 find it to be a
+01:36:21.800 successful model and so I would venerate
+01:36:27.040 rather than denigrate the rule of law as
+01:36:30.639 part of governing the country all right
+01:36:32.560 there you have it folks larry Summers
+01:36:34.400 appreciate you coming on the pod thank
+01:36:36.239 you Larry spicy spicy episode here sax
+01:36:40.080 you wanted a chance to respond on the
+01:36:42.719 Doge issue as as we wrap wow pretty
+01:36:46.800 productive episode yeah let me um let me
+01:36:49.440 partially agree with Ezra here i mean I
+01:36:51.360 think that uh he's trying to introduce
+01:36:53.280 this idea of an abundance agenda to the
+01:36:54.960 Democrat party i think that's a good
+01:36:56.480 thing you know I I know you've talked
+01:36:58.159 about permitting reform and not tying up
+01:37:01.920 projects and so many hoops and so much
+01:37:04.400 environmental regulation and you know
+01:37:06.800 even DEI and all this kind of stuff so I
+01:37:09.760 think that is all well and good i mean
+01:37:11.840 we should we should do those things the
+01:37:13.840 thing that I take issue with is that
+01:37:17.360 you're on the one hand saying that
+01:37:20.400 there's way too much process around just
+01:37:23.119 getting things done right when you're
+01:37:25.440 talking about public works but the
+01:37:27.520 objection you're making to Elon is that
+01:37:30.320 he's not following enough process you
+01:37:32.239 know it's not enough
+01:37:33.719 nicities larry called it mindless
+01:37:36.520 savagery this is the problem is how do
+01:37:39.199 you expect anything to ever get done the
+01:37:41.199 reason why your public works projects
+01:37:42.960 don't happen is because there's too many
+01:37:44.719 special interests who get organized and
+01:37:46.320 they stop it okay what Elon is trying to
+01:37:48.880 do we have a $2 trillion annual deficit
+01:37:52.320 he's trying to figure out how to cut it
+01:37:54.639 every single program that gets cut the
+01:37:57.520 interests who receive that money and we
+01:37:59.679 found out that it's hopelessly corrupt
+01:38:01.920 you know Stacy Abrams gets uh $2 billion
+01:38:04.239 for her nonprofit and you have all these
+01:38:06.400 NOS's who are basically cashing in
+01:38:08.400 they're all going to do everything in
+01:38:09.840 their power to stop those cuts from
+01:38:12.560 happening and they're the ones who are
+01:38:14.560 jinning up this hysteria you know
+01:38:16.880 burning down car dealerships and so
+01:38:18.800 forth and so on so this is the problem
+01:38:21.520 that I see is that you don't really have
+01:38:24.800 a kind word to say for the people who
+01:38:26.320 are actually getting things done who
+01:38:28.560 actually are reforming things elon is
+01:38:31.040 one who's actually making difference can
+01:38:33.600 you can you find any good in this i mean
+01:38:36.400 you you sound like you're cherrypicking
+01:38:38.159 you when when I brought it up and I
+01:38:39.679 questioned you like "Do you support
+01:38:40.800 Doge?" Your first thing is to say like
+01:38:42.080 "Well here's my favorite pet projects i
+01:38:44.159 want to keep those." But yes right like
+01:38:46.960 this is I think really important and
+01:38:48.880 weirdly it's the through line of almost
+01:38:50.400 everything I've said on the show today
+01:38:53.040 knowing what you are trying to achieve
+01:38:55.760 is the first part of achieving it so if
+01:38:58.239 Doge is cutting things that I think do
+01:39:00.320 good in the world I'm not going to say
+01:39:01.920 "Hey look they're making the government
+01:39:03.280 more efficient we no longer have a you
+01:39:05.119 know a strong uh foreign aid program or
+01:39:07.679 whatever it might be they've destroyed
+01:39:08.800 the Department of Education without
+01:39:10.000 knowing what they're cutting there." I
+01:39:11.679 don't think Doge is doing a good job
+01:39:13.280 because I don't think they have in a in
+01:39:15.280 a thoughtful way connected means and
+01:39:17.920 ends and weirdly my critique often of
+01:39:20.159 Democrats is also that they have not
+01:39:22.480 been outcomes focused they've been
+01:39:24.080 process focused so David's point here is
+01:39:26.880 actually not been the critique I've made
+01:39:28.400 here i would make procedural criticisms
+01:39:30.000 of Doge but there's a world in which my
+01:39:33.119 take on Doge is look I agree with what
+01:39:36.000 they are trying to do but I wish they
+01:39:37.679 would follow the law but that's not my
+01:39:40.239 take on Doge you have to pick Kla Harris
+01:39:42.480 continuing the spending that was going
+01:39:44.239 on or Elon and Doge cutting which would
+01:39:46.800 you choose i would absolutely I would
+01:39:48.400 absolutely prefer the Kla Harris
+01:39:49.920 administration to the Trump
+01:39:51.199 administration would I like to see
+01:39:52.880 Democrats be significantly more
+01:39:54.080 reformist yes I've written a book about
+01:39:56.080 it i'm trying to persuade them of of
+01:39:57.520 this argument but your book is about
+01:39:59.840 getting rid of this red tape and you
+01:40:01.280 just said you want to keep the people
+01:40:03.040 who put
+01:40:03.960 us hold on you just you you say you want
+01:40:07.480 change this is radical change i agree
+01:40:11.280 but you just said you would rather have
+01:40:13.360 had the person and the administration
+01:40:15.280 that put 9 trillion on top of this this
+01:40:18.719 is why you'll never get that change ezra
+01:40:20.400 you guys all invited me here you'll
+01:40:21.760 never get the abundance agenda that you
+01:40:23.440 want because it's people like Elon or
+01:40:26.960 Trump who get things done this is the
+01:40:29.280 way that politics work you have to have
+01:40:31.199 a paradigm shift to get what you want i
+01:40:32.880 think getting dumb things done is not
+01:40:35.040 good change right i I I I actually don't
+01:40:37.840 understand how this point is so hard to
+01:40:40.080 gro if you get a lot of change and the
+01:40:42.800 change is bad I'm going to think that is
+01:40:44.960 bad not good i would hope that is true
+01:40:47.920 for all of you that if Kla Harris or
+01:40:50.400 some other Democrat came in and began
+01:40:52.639 wrecking things that you wouldn't say
+01:40:54.480 well we needed a bunch of change like
+01:40:55.920 let's break everything in sight i want
+01:40:58.000 to see things done well there should be
+01:41:00.400 good permitting reform so let me give
+01:41:02.000 you let me give you an example of the
+01:41:03.199 kind of thing that I am looking for we
+01:41:04.719 talked about chips a bunch on this show
+01:41:06.800 i like the chips act i did a big piece
+01:41:09.360 that coined the term everything bagel
+01:41:10.639 liberalism about the way in which the
+01:41:12.719 ideas inside that act when they began
+01:41:14.800 building out the grant program layered
+01:41:16.960 on too many standards and and programs
+01:41:18.880 and so on but one thing they then did
+01:41:21.679 was they passed a bill or Biden signed a
+01:41:24.159 bill by Ted Cruz and Mark Kelly uh
+01:41:26.719 taking chips out of the normal uh
+01:41:29.920 environmental review because they said
+01:41:31.920 look if this is a matter of national
+01:41:33.679 security and we're trying to build these
+01:41:34.960 semiconductor fab so quickly we cannot
+01:41:37.520 have this layered in years of
+01:41:39.600 environmental review which now take on
+01:41:41.040 average 3 and 1 half to four and a half
+01:41:42.400 years so because I care a lot about
+01:41:44.480 clean energy one of my arguments is that
+01:41:47.119 we should have a speedrun for clean
+01:41:48.960 energy it should not go through the
+01:41:50.239 normal levels of review what is
+01:41:52.000 happening in California highspeed rail
+01:41:53.360 where it had 12 years of environmental
+01:41:55.040 review was not in my view a good idea at
+01:41:57.679 the same time that doesn't force me to
+01:41:59.280 say well I think we should build a bunch
+01:42:00.560 of coal plants without environmental
+01:42:01.920 review because I can make distinctions
+01:42:04.080 between things I want to see happen in
+01:42:05.600 the world and things I don't i think
+01:42:07.119 you're totally right with that let me
+01:42:08.960 give you the more practical day-to-day
+01:42:10.639 example because those are these
+01:42:12.159 albatross projects that are largely a
+01:42:15.199 byproduct of ineptitude and corruption
+01:42:18.320 but let me tell you a more tactical
+01:42:20.000 example so that you can understand why
+01:42:23.440 what Elon and Trump are doing is so
+01:42:26.639 necessary so as I told you in 2020 on
+01:42:30.239 the back end of COVID I started a
+01:42:32.560 business to build battery cathode active
+01:42:35.280 material in the United States okay so
+01:42:37.920 that's a business we need so that when
+01:42:40.159 you want to electrify everything you
+01:42:41.920 want to electrify there are batteries
+01:42:43.199 that we can make that's not reliant on
+01:42:44.880 the Chinese supply chain it made sense
+01:42:48.080 the guy that I started it with worked
+01:42:50.320 for Elon the other guy I started it with
+01:42:52.239 was a professor at Stanford and the
+01:42:53.679 third guy I started it with was the head
+01:42:55.360 of battery engineering at Toyota a more
+01:42:58.000 complete group of people I think you
+01:43:00.159 couldn't put together so we start to
+01:43:02.480 build we get a deal with General Motors
+01:43:04.159 so far so good but eventually you hit a
+01:43:07.840 point where in order to really
+01:43:09.360 commercialize you need some form of
+01:43:11.360 government acknowledgement that you're
+01:43:12.960 good and the way that you do that is you
+01:43:14.719 apply to the DOE and the DOE has a very
+01:43:17.520 legitimate grant program that tries to
+01:43:20.080 accelerate these key things especially
+01:43:21.920 things that are critical we went through
+01:43:23.840 that program Ezra we paid a couple
+01:43:26.000 million dollars in consulting fees to
+01:43:27.840 the people that we were told to pay it
+01:43:29.280 to and we were rejected okay fine kept
+01:43:33.119 going i kept funding the business and
+01:43:35.360 then next year last year we applied
+01:43:38.199 again 125 companies applied 25 were
+01:43:42.760 shortlisted we all went through
+01:43:44.639 incredible diligence we won incredible
+01:43:48.840 validation at the end of that entire
+01:43:50.960 process so really two years from when I
+01:43:52.760 started and millions of dollars we got a
+01:43:55.199 hund00 million federal grant from the
+01:43:56.960 DOE and $50 million from Michigan to
+01:43:59.840 build a plant in Michigan to help
+01:44:03.440 redmesticate battery cam in the United
+01:44:07.480 States it turned out that in that same
+01:44:10.080 period while we were going through that
+01:44:12.760 rigomearroll Stacy Abrams got $2 billion
+01:44:15.920 after 30 days and I just asked the
+01:44:19.400 question what is broken inside of the
+01:44:21.920 government that that's possible that us
+01:44:24.719 it's hopelessly corrupt that's exactly
+01:44:26.719 right a company of 50 people 50 people
+01:44:30.639 where none of this money goes into our
+01:44:32.400 pockets we take that money and we then
+01:44:34.400 have to raise more money i have to put
+01:44:36.400 in more money we try to hire people we
+01:44:38.960 try to build a battery factory that can
+01:44:41.440 basically give us resilience against the
+01:44:43.679 Chinese which I think is great they're
+01:44:45.840 an incredibly forward you know strong
+01:44:47.840 and viable
+01:44:49.320 competitor in 30 days she got 20 times
+01:44:52.639 more than we did how do you explain it
+01:44:54.800 so here's what I'll say on here's what
+01:44:56.800 I'll say on the two things and how do
+01:44:57.920 you fix it i have not myself looked
+01:44:59.760 deeply into the Stacy Abrams story but
+01:45:01.280 I'm very skeptical of the accounts I
+01:45:02.880 keep hearing about it i suspect that if
+01:45:04.400 she had made $2 billion in 30 days she
+01:45:06.320 wouldn't be now hosting a podcast on
+01:45:08.159 crooked media she'd be on an island
+01:45:10.239 somewhere so I can't comment on that
+01:45:11.840 piece of crooked media yeah what I Yeah
+01:45:13.920 the America thing it's a joke from
+01:45:17.119 Donald Trump actually i don't know the
+01:45:20.080 broader thing here though right which is
+01:45:22.320 you're getting at you're frankly what I
+01:45:24.480 worry about is that what you had in that
+01:45:26.239 DOE process was fairly quick for the
+01:45:28.159 government one of the things that I am
+01:45:30.239 targeting in the book is a way that even
+01:45:32.800 when members of the administration when
+01:45:36.719 governors want things to happen they are
+01:45:39.440 not willing to upend the process to pass
+01:45:42.480 the new bills to reconstruct the
+01:45:44.320 architecture of the federal or the state
+01:45:46.000 government to get it to happen jerry
+01:45:48.239 Brown and Gavin Newsome wanted highspeed
+01:45:50.400 rail can't you acknowledge Can't you
+01:45:52.080 acknowledge it's insane that somebody
+01:45:53.760 can get $2 billion after 30 days i I I
+01:45:57.679 am not going to acknowledge a story I
+01:45:59.199 have not looked into myself because I'm
+01:46:00.639 not sure I trust the account of it i
+01:46:02.880 don't think it's I don't think it's
+01:46:03.880 crazy i don't think it's crazy to get
+01:46:05.760 the money after 30 days but it depends
+01:46:07.199 on whether or not the process was good
+01:46:08.719 hold on i want I want to stop before you
+01:46:10.159 guys move around to a bunch of like
+01:46:11.400 random people the thing that I want to
+01:46:14.320 stay on with abundance for a minute here
+01:46:16.400 is that the thing that I think would be
+01:46:17.920 useful to do is actually build
+01:46:20.360 legislation to make these processes work
+01:46:22.800 more quickly with more discretion from
+01:46:25.199 decision makers and then oversight after
+01:46:27.199 the fact rather than heavy process
+01:46:29.280 before the fact i was talking to
+01:46:30.560 somebody highly involved in the royal
+01:46:31.840 broadband programs under O Biden and one
+01:46:33.920 of the things they were saying to me was
+01:46:35.199 that there is this entire uh edifice as
+01:46:38.480 he put it of policy that is here to make
+01:46:41.360 sure I do nothing wrong what would be
+01:46:43.600 better and I think this is right is to
+01:46:46.000 allow me to act more and then look
+01:46:47.920 afterwards to see if I did something
+01:46:49.440 wrong and then hold me accountable for
+01:46:50.800 it i think too much of our regulation is
+01:46:52.960 precautionary as opposed to being able
+01:46:54.880 to to let people move quickly and make
+01:46:57.600 decisions in the real world and then go
+01:46:59.199 back and see how they worked out all
+01:47:00.800 right i I think that's a a great point
+01:47:02.480 and I agree with you on that and I think
+01:47:05.440 there are a lot of people out there who
+01:47:07.119 would say that government's too too
+01:47:08.639 bureaucratic there's too much red tape
+01:47:10.159 in terms of getting things done any kind
+01:47:11.679 of project like the rural broadband
+01:47:13.600 takes 15 steps three of them were DEI
+01:47:16.159 that's crazy the environmental reviews
+01:47:18.400 and the lawsuits that bog these projects
+01:47:21.119 down for years make them
+01:47:23.800 unfinancable there are people who agree
+01:47:25.920 with you on that you know what they're
+01:47:27.199 called republicans republicans agree
+01:47:29.840 with this but you know who doesn't agree
+01:47:32.080 with you aoc and Elizabeth Warren and
+01:47:35.119 Bernie Sanders so maybe you're in the
+01:47:37.679 wrong party because I don't think you're
+01:47:39.040 going to convince Democrats of this well
+01:47:41.199 we'll see well I wish you well in that i
+01:47:44.320 hope you do i appreciate that yeah no I
+01:47:46.239 do i I think if you can convince
+01:47:47.600 Democrats of this I think it'd be a
+01:47:48.880 great thing but look this is my issue
+01:47:51.280 with some of what you and and Larry are
+01:47:53.360 saying is that you want Elon and Trump
+01:47:56.960 to abide by all of these procedural
+01:47:59.760 nicities you want them to play by
+01:48:01.960 saying Marath of Queenberry rules you
+01:48:05.360 keep saying this is my view but it's not
+01:48:06.800 my view you know who get things done and
+01:48:09.440 this is what we say in Silicon Valley
+01:48:10.719 you know who get things done disruptive
+01:48:12.560 people founders founder mentalities
+01:48:14.400 they're the ones who get things done
+01:48:16.080 your response Ezra as we wrap here i
+01:48:18.639 know you have to go getting dumb things
+01:48:21.040 done quickly is not a good idea and that
+01:48:25.280 is why Starlink is a much better idea
+01:48:27.119 than rural broadband neither are
+01:48:28.880 batteries batteries are not dumb things
+01:48:30.639 you're asking me about what Trump and
+01:48:31.679 and Musk are doing right now we started
+01:48:33.679 here on the tariffs what what you're
+01:48:36.159 watching with Trump is using expanded
+01:48:38.400 tariff authorities to do things that
+01:48:40.480 have a bad process behind them and will
+01:48:42.400 have a bad set of outcomes so look I've
+01:48:44.400 asked you many many times here i don't
+01:48:46.639 really feel like I got the set of
+01:48:48.000 metrics I was looking for but we will
+01:48:49.600 maybe talk again in 2 or 3 years and we
+01:48:51.440 can decide together was this genius work
+01:48:54.719 by the disruptors or was this a really
+01:48:57.760 really dumb approach to economic policy
+01:48:59.760 what was the issue with the metrics that
+01:49:01.280 I gave you Ezra you don't think they're
+01:49:03.840 I I I don't think I don't think they're
+01:49:05.520 You want the unit of measurement
+01:49:06.719 kilogram i don't think they're remotely
+01:49:08.800 complete i think you're processing us
+01:49:11.199 you're doing to us exactly what the
+01:49:12.800 government bureaucrats did to rural
+01:49:14.400 broadband what's your metric how long is
+01:49:17.280 it going to take you to deploy this we
+01:49:18.480 have to go through a checklist yeah
+01:49:20.320 exactly come on these are debate tactics
+01:49:22.960 here's all you need to know Ezra it's a
+01:49:24.480 hundred bucks to get Starlink it's
+01:49:26.320 15,000 to do fiber we're trying to
+01:49:28.320 debate principles and you're trying to
+01:49:30.320 bog it down in procedural arguments hold
+01:49:32.719 on this is amazing to me do you really
+01:49:35.600 think saying to you in 2 years what are
+01:49:39.440 three or four metrics that would give
+01:49:42.159 you what you gave me doesn't fit the pol
+01:49:44.480 I mean look we don't need to do this
+01:49:45.679 whole thing again but what you gave me
+01:49:48.320 doesn't fit the policy it's just
+01:49:49.679 re-industrialization hold on we said
+01:49:51.280 that we want to re-industrialize America
+01:49:53.440 in critical industries especially and
+01:49:55.840 reduce our dependence on foreign supply
+01:49:57.840 chains that are based in potential
+01:49:59.920 adversary countries that's concrete
+01:50:01.360 enough as well those are basic a
+01:50:03.199 sufficient objective
+01:50:04.480 Because the other thing that I the part
+01:50:06.239 of you the part of it that I did not
+01:50:07.760 hear things seems to be measured was
+01:50:09.679 okay where is the economy right there's
+01:50:12.159 got to be some cost you don't want to
+01:50:13.679 pay so what metric would you want I'd
+01:50:15.520 like to see like okay GDP growth has
+01:50:17.440 been X I would like positive GDP growth
+01:50:20.560 and we want resiliency for those four
+01:50:22.159 critical industries amongst others okay
+01:50:24.560 and and it be nice for the trade
+01:50:25.840 deficits to come down and you know
+01:50:28.000 especially with certain countries get
+01:50:29.920 back to work then we're all going to get
+01:50:31.199 back to work we got the four critical
+01:50:32.639 industries we got the GDP increase and
+01:50:35.440 uh yeah trade deficits yeah it's it's an
+01:50:37.679 open debate all right Ezra Klein's new
+01:50:40.159 book Abundance is out in fine bookstores
+01:50:43.199 and Amazon and all kinds of other places
+01:50:45.040 you can get it and you can hear him on
+01:50:48.000 podcasts incessantly when are you going
+01:50:50.239 to stop this podcast for Ezra oh my god
+01:50:52.000 I know man it's growth industry one of
+01:50:54.719 the last absolutely all right we'll talk
+01:50:56.719 to you soon Ezra bye y'all thanks for
+01:50:58.639 having me thanks Ezra all right thanks
+01:51:00.239 Ezra how do you think the debate went i
+01:51:01.920 think is a good debate to have and we
+01:51:03.679 made progress here the paradox of all of
+01:51:06.880 this is what they're describing in some
+01:51:10.480 ways is what Trump and Elon are doing
+01:51:13.040 yes but it's a it's a bit too hot so if
+01:51:15.920 I were to give a criticism or room for
+01:51:18.960 improvement to the current
+01:51:20.360 administration to maybe pull some of
+01:51:22.719 these people over it's basically slowing
+01:51:25.920 down and explaining what's going on a
+01:51:27.840 bit better i give the administration
+01:51:30.400 like I give Doge an A++ it's obvious
+01:51:32.960 like they're doing the right thing i
+01:51:34.480 give the communication like a B like
+01:51:36.080 just increase the communication and you
+01:51:37.840 can see they're doing that antonio went
+01:51:39.760 out and talked a bit about Doge they did
+01:51:41.440 a a round table and they're updating the
+01:51:43.199 website faster the more you do that the
+01:51:45.520 less the opposition's mind is going to
+01:51:48.320 wander the same thing with the tariffs
+01:51:49.840 if the terrorists if if Bent was out
+01:51:52.719 there front and center every day talking
+01:51:55.119 about methodically what their plan was
+01:51:57.520 instead of the shock and awe I think
+01:51:59.040 people would be able to process it
+01:52:00.320 quickly let me just add one person's
+01:52:02.960 opinion okay I like that obviously you
+01:52:04.639 can always say that communication should
+01:52:06.239 be better but but here's the reality of
+01:52:07.920 it take Doge for example you have crazy
+01:52:11.360 leftists firebombing Tesla dealerships
+01:52:14.960 painting swastikas on Tesla cars
+01:52:18.920 accosting Tesla drivers okay creating
+01:52:23.280 violence and chaos and trying to depress
+01:52:25.760 Tesla's sales okay and who's to blame
+01:52:29.840 for that and then what people say is
+01:52:31.440 well somehow Elon's the disruptive
+01:52:33.040 figure here you have a crazy leftwing
+01:52:35.920 that's reacting in crazy ways to
+01:52:38.000 sensible things that Doge is doing and
+01:52:40.320 then what people do is they
+01:52:42.080 reinterpolate this chaos that's being
+01:52:44.000 created by the left they somehow put the
+01:52:45.599 blame for that on Elon i think your uh
+01:52:48.480 explanation there is even more reason to
+01:52:50.880 be proactively communicating decisions
+01:52:53.440 so and that doesn't forgive anybody
+01:52:55.679 drawing SWAT stickers on Teslas
+01:52:57.840 obviously they should go to jail and if
+01:52:59.679 anybody's coordinating it that should be
+01:53:01.280 like a RICO case and we should find out
+01:53:03.280 who it is just if we're going to bring
+01:53:05.040 these two parties together which I think
+01:53:06.320 we came close to here of like finding
+01:53:07.840 some common ground I think Chimath you
+01:53:09.440 outlining your four bullets and then at
+01:53:11.520 the end Ezra saying well what what's the
+01:53:13.119 impact on GDP and then you adding to
+01:53:14.880 that sax well what's the you know input
+01:53:16.719 on the trade difference for the first
+01:53:18.400 time you know these two sides I think we
+01:53:20.560 outlined what should happen what should
+01:53:22.719 the measure be in two years are have we
+01:53:25.199 on shored those important industries is
+01:53:27.199 GDP P robust and is the trade deficit
+01:53:30.400 deficit more balanced this is the same
+01:53:32.159 debate we always had over immigration
+01:53:34.480 let's pick a number and work towards a
+01:53:36.159 number right and and that's where the
+01:53:38.000 debate in our country breaks down in my
+01:53:40.560 mind is that we don't pick numbers we
+01:53:42.880 can agree that we need a ton of
+01:53:45.000 innovation segue Jason go hey uh Chimath
+01:53:48.960 I saw that you were at the breakthrough
+01:53:51.119 prize ceremony over the weekend sorry I
+01:53:53.040 couldn't make it Yuri i uh I had family
+01:53:54.800 stuff but Freeberg was there as well and
+01:53:57.360 uh as everybody knows this is the
+01:54:00.080 breakthrough prize is like kind of the
+01:54:01.520 Oscars for science they had hundreds of
+01:54:03.280 guests there and uh about a third of
+01:54:05.360 them were scientists a third were tech
+01:54:07.520 founders and you had a bunch of
+01:54:09.040 Hollywood folks there hosted by James
+01:54:11.920 Cordon and you had Jeff Bezos Yuri
+01:54:14.239 Milner as I mentioned Zuck Vin Diesel
+01:54:17.119 Sergey and Gwennneth uh and Mr beast
+01:54:21.679 lots of excitement there and I know
+01:54:23.520 David you were at a secret conference
+01:54:24.960 that uh also I was almost invited to
+01:54:28.239 that um you met Gwennneth Paltro friend
+01:54:31.199 of the pop jason my Nick you can show
+01:54:33.840 some photos here oh we do have photos
+01:54:35.679 okay I know why don't you show them my
+01:54:37.440 wife sent me a letter to read on the air
+01:54:41.280 so let me just open this up here is this
+01:54:43.040 an open letter what's the letter to oh
+01:54:45.920 my okay dear Gwennneth Paltro oh jeez
+01:54:50.480 just a open a love letter to Gwennneth
+01:54:53.119 okay I'm just going to read this here
+01:54:55.119 last night when I met you I learned in
+01:54:58.639 that moment that pherommones are not a
+01:55:01.280 myth they are real and apparently
+01:55:03.440 trademarked by you you have the kind of
+01:55:05.800 femininity that could destabilize the
+01:55:08.320 stock market i left the encounter
+01:55:10.320 slightly dazed unsure if it was your
+01:55:12.560 presence or an as of yet unlisted goop
+01:55:15.920 candle okay wait let's just stop here
+01:55:17.520 let me just mansplain what she's trying
+01:55:18.960 to say here guys wait are you saying
+01:55:20.800 she's got a girl gwenneithro crashed the
+01:55:23.040 stock market gwennneth Paltro is hot as
+01:55:25.280 balls okay that's the Troy are you
+01:55:27.280 saying she crashed the mark she has so
+01:55:29.280 much aura and rez david you have to I
+01:55:32.239 mean I don't know if we have the picture
+01:55:33.280 where David met her at the JPM
+01:55:36.080 conference but she is so kind she's got
+01:55:39.360 high EQ but I I I got to say so cool i
+01:55:42.159 have to say like I've met a lot of stars
+01:55:43.840 that's like a star star
+01:55:46.080 that's a star star where you're just
+01:55:47.679 like "Holy shit." You're just kind of
+01:55:49.119 like a little bit in awe
+01:55:51.520 she's Oh she's a star she's a star look
+01:55:54.560 at that there she is fifth bestie
+01:55:56.159 Gwennneth Paltro GO nat was stunned nat
+01:55:59.119 was stunned i was stunned we were all
+01:56:00.880 stunned so wait are you saying that Nat
+01:56:04.000 has a girl crush i think so a girl crush
+01:56:07.280 has been declared here for the first
+01:56:09.280 time on Allin we have an official girl
+01:56:11.679 crush what I think is just remarkable
+01:56:13.920 Jason though is that another conference
+01:56:15.599 lost your invitation in the mail i mean
+01:56:17.520 it just keeps happening you got to talk
+01:56:19.119 to the post office about all these
+01:56:20.880 invites
+01:56:24.080 i my White House invite this uh your
+01:56:27.760 mailman he must hate you or something i
+01:56:30.080 don't know i got to get invited to
+01:56:31.599 something i think you're the party i
+01:56:33.360 guess I'll see everybody in F1 you're a
+01:56:34.960 great You're a great family man so at
+01:56:36.480 least you're But you're always busy with
+01:56:38.000 your family so I think people Well I try
+01:56:39.679 to prioritize the fam i got young girls
+01:56:41.599 just what am I supposed to do you know
+01:56:42.880 oh my gosh big shout out big shout out
+01:56:44.800 to Yuri and Julia Milner I think uh yes
+01:56:47.199 incredible and what they're doing to
+01:56:48.639 inspire people to get into science is
+01:56:50.800 just so you know you know they the
+01:56:52.719 awards are enormous it's like $3 million
+01:56:55.280 awards which I think is just kind of
+01:56:57.920 like it's an amazing reflection of how
+01:56:59.599 important this stuff is and every so for
+01:57:01.599 the last two years also had a little
+01:57:03.840 tear had to shed a little tear because
+01:57:06.480 they do these things where like you know
+01:57:08.159 you you bring some of these folks that
+01:57:09.840 have been impacted positively there was
+01:57:11.760 a girl who had her jeans edited she was
+01:57:14.960 literally on on her deathbed and this
+01:57:17.360 guy David Lou who won the Breakthrough
+01:57:18.719 Prize did a very targeted gene edit
+01:57:21.760 she's alive and thriving and she gets to
+01:57:24.880 present the award to him and you're just
+01:57:26.320 like "Oh my god it's you know Sax when
+01:57:28.320 he said he was shedding a tear or almost
+01:57:30.560 shed a tear." I thought he was going to
+01:57:31.760 say he saw his reflection in his tuxedo
+01:57:34.159 and just got a little choked up about it
+01:57:36.560 because of how good he looked roth does
+01:57:38.239 look good in that photo put it back up
+01:57:39.760 put it back up let's see what are you
+01:57:42.000 wearing the silhouette the silhouette on
+01:57:44.000 your tuxedo is just uh outstanding that
+01:57:46.960 so Nat So Nat's wearing Armani P and I'm
+01:57:50.239 wearing Laura Piana which is like a
+01:57:52.239 double breasted they make a double
+01:57:53.599 breasted wow i didn't know they made
+01:57:55.360 that cashmere cashmere tuxedo i I cannot
+01:57:58.159 comment on the material choice because
+01:58:00.080 it was just that is absolutely wow
+01:58:02.560 that's a gorgeous garment well actually
+01:58:04.800 you know Freedberg was going to be on
+01:58:06.320 the program today but then he found out
+01:58:07.920 how many endangered species were
+01:58:10.639 murdered did you Did you see that nick
+01:58:13.040 do you have the picture of us with Zoe
+01:58:14.400 Sana oh there's Austin Friedberg oh
+01:58:16.560 Freeberg looks good oh there's Zoe Sana
+01:58:19.040 the Mr beast and her husband who's the
+01:58:21.360 guy with the man bun marco Paraggo great
+01:58:23.440 guy this is Zoe Sana's husband a cooler
+01:58:27.119 funnier fun dude you're not going to
+01:58:29.199 That guy should be at every party really
+01:58:32.719 bun huh he definitely looks like he's
+01:58:34.400 carrying look at Look at Zoe Sana's uh
+01:58:36.800 tattoo in her on her chest i don't know
+01:58:38.080 if that's I want to see if that clo You
+01:58:39.760 know that closed guy on X who's always
+01:58:42.000 critiquing Republicans oh he's awesome i
+01:58:44.239 love I wonder yeah Derrick or whatever I
+01:58:46.639 want to I want to know if he how he
+01:58:48.639 responds well that's terrible Mr beast
+01:58:50.560 fails but I want to know how he responds
+01:58:52.639 to your tuxedo Jamath and finally gives
+01:58:54.800 you credit because I think he he only
+01:58:57.520 compliments Democrats is sort of the
+01:58:59.199 problem oh is he really not uh yeah he's
+01:59:02.880 always picking on Republicans jimmy
+01:59:04.800 looking Did you guys see the picture of
+01:59:06.159 Julia's dress i just want to say one
+01:59:07.599 thing about Julius did you see Julia's
+01:59:09.119 dress i I haven't let's take a look here
+01:59:10.880 this is an insane story so this is Julia
+01:59:12.719 Milner so the cool thing about this guys
+01:59:14.800 is this is this is a very incredible and
+01:59:18.239 famous painting by Raphael called the
+01:59:20.239 school of Athens yes this is like a a
+01:59:23.199 visual manifesto of human knowledge and
+01:59:25.040 so there's all these very important
+01:59:27.040 people Aristotle Plato Socrates
+01:59:30.000 Pythagoreia Pythagoras etc anyways she
+01:59:33.199 got the license I think from like the
+01:59:35.119 Vatican and then she worked with Dolce
+01:59:37.119 and Gabbana to make it into a dress for
+01:59:38.880 the occasion just to celebrate learning
+01:59:41.040 but there she is with with our boy Jimmy
+01:59:43.360 Donaldson so anyways it was a great
+01:59:45.679 event thank you Yuri and Julia for
+01:59:47.760 including us all right guys i gota wrap
+01:59:49.520 all right David i miss you thanks for
+01:59:51.040 the invite
+01:59:53.040 all right bye i will handel Jason's
+01:59:56.599 invitation for 20 seconds i'm pretty
+02:00:00.480 sure
+02:00:02.320 i mean I I have a phone number you could
+02:00:04.400 text me the invite i could You could
+02:00:06.400 send me a calendar i have a Gcal i've
+02:00:08.639 got a Google calendar you could invite
+02:00:10.320 have a
+02:00:11.400 good so funny that that event that Sax
+02:00:14.960 was at one of our mutuals was like "Hey
+02:00:17.440 guys this incredible event's going on
+02:00:19.280 this famous person's hosting it these
+02:00:20.800 celebrities are coming jay Cal Freeberg
+02:00:23.599 everybody you're all invited." And then
+02:00:25.520 like two weeks before they went I was
+02:00:26.639 like "Um are we going to this thing?"
+02:00:28.239 Cuz I'm just like my calendar and
+02:00:29.599 everything they're like "Ah
+02:00:32.520 yeah yeah the event's happening." And
+02:00:34.880 I'm like "Fo you Jason did you send the
+02:00:37.679 event?" And they're like they're like
+02:00:39.599 I'm not sure you're my ride or die
+02:00:41.599 you're my ride or die texting me the
+02:00:43.199 invite but you didn't email it okay sure
+02:00:45.520 i will never go to an event that rejects
+02:00:47.280 you ever like a ride or die baby for our
+02:00:51.360 chairman dictator another exceptional
+02:00:53.760 episode of the all-in podcast we'll see
+02:00:55.920 you all next week byebye
+02:00:59.920 we'll let your winners
+02:01:01.560 ride rainman David
+02:01:07.040 and it said we open sourced it to the
+02:01:08.880 fans and they've just gone crazy with it
+02:01:11.119 love you
+02:01:20.000 besties
+02:01:21.960 are my dog taking notice your driveways
+02:01:27.679 oh man my appetiter will meet the ugly
+02:01:30.400 we should all just get a room and just
+02:01:31.760 have one big huge orgy cuz they're all
+02:01:33.520 just useless it's like this like sexual
+02:01:35.360 tension that we just need to release
+02:01:36.800 somehow
+02:01:41.440 your
+02:01:42.679 feet we need to get merch i'm going all
+02:01:52.199 in i'm going all in

@@ -1,0 +1,2883 @@
+# DeepSeek Panic, US vs China, OpenAI $40B?, and Doge Delivers with Travis Kalanick and David Sacks
+# https://www.youtube.com/watch/8RkgkOqWs0s
+
+00:00:00.120 all right everybody welcome back to the
+00:00:01.560 Allin podcast we've got an incredible
+00:00:04.600 crew today don't forget to go to our
+00:00:06.399 YouTube blah blah blah
+00:00:08.160 subscribe and make sure you check out
+00:00:10.840 freeberg surprise drop with his hero Ray
+00:00:15.000 Dalia live on all platforms today how
+00:00:17.359 did that come about for a b little
+00:00:19.080 surprise drop just great was talking
+00:00:21.680 with Ray about his new book which he
+00:00:24.840 just published on how countries go broke
+00:00:27.199 obviously which country going broke now
+00:00:32.200 America I think he talks a lot about the
+00:00:34.120 historical context of what's G on with
+00:00:36.160 the death Cycles in different
+00:00:38.399 countries and basically at the end of
+00:00:41.600 the book he has a pretty uh I think
+00:00:43.760 important
+00:00:45.239 recommendation to try and get the US to
+00:00:48.079 roughly 3% of GDP as our net deficit net
+00:00:52.079 of all expense including interest
+00:00:53.680 expense so that's the recommendation to
+00:00:55.640 the administration I think it's pretty
+00:00:56.960 timely with the change in administration
+00:00:59.640 anyway great topics to talk through and
+00:01:02.199 really important book awesome well done
+00:01:05.640 and we are super delighted to have in
+00:01:08.680 The Red Throne Travis Ken he is the
+00:01:11.600 co-founder and CEO of cloud kitchens he
+00:01:14.360 also uh worked in the cab business for a
+00:01:16.400 little bit co-founder and former CEO of
+00:01:18.560 uber and uh yeah we had a great
+00:01:21.200 interview at the all- in Summit last
+00:01:22.720 year and he's back up from his media
+00:01:25.200 Hiatus he's been in the lab working on
+00:01:26.880 cloud kitchens how you doing brother I'm
+00:01:28.439 doing really well I I got a say just
+00:01:30.439 like at the summit Jason I'm I'm it's an
+00:01:33.479 honor to be in the presence of such a
+00:01:37.000 prominent Uber investor absolutely
+00:01:39.680 absolutely I mean finally somebody has
+00:01:43.320 recognized my contribution the greatness
+00:01:46.439 of JAL Absolutely I'll mention it three
+00:01:48.799 or four times we'll be all good I'll
+00:01:50.520 give you the props you don't have to do
+00:01:51.560 it for yourself anymore thank you
+00:01:53.040 appreciate it
+00:01:54.759 appreciate let your winners
+00:01:57.439 ride Rainman David
+00:02:02.759 and instead we open source it to the
+00:02:04.520 fans and they've just gone crazy with it
+00:02:06.640 love
+00:02:10.080 Queen give everybody a little overview
+00:02:12.360 of cloud kitchens and the business and
+00:02:15.360 how it's going because people are
+00:02:17.280 obviously
+00:02:18.480 addicted to ordering food at home and uh
+00:02:22.360 it's it's quite a trend yeah I mean the
+00:02:23.920 the high level for it the way to think
+00:02:25.360 about is it's it's about the future of
+00:02:27.360 food what does the future of food look
+00:02:29.599 like you go well in a hundred years
+00:02:32.040 we'll start way out there in a 100 years
+00:02:34.720 you're going to have very high quality
+00:02:37.319 food very low
+00:02:39.680 cost that's incredibly convenient and
+00:02:42.640 they going to be machines that make it
+00:02:43.959 they going to be machines that get it to
+00:02:45.280 you and it's going to be exactly to your
+00:02:47.159 dietary preferences your food
+00:02:50.159 preferences Etc and it just comes to you
+00:02:52.440 and it's so inexpensive that it
+00:02:54.879 approaches or has surpassed the cost of
+00:02:56.680 going to the grocery store that's more
+00:02:58.519 of a like a today analog
+00:03:00.840 so you go 100 Years of course that's the
+00:03:03.280 thing nobody's going to be making food
+00:03:05.879 what about 20 what about 10 and so the
+00:03:10.360 company is real estate software and
+00:03:14.080 Robotics that's all about the future
+00:03:16.440 food and if you can get the quality
+00:03:19.360 there and you can get that cost down to
+00:03:22.080 start approaching the cost of going to
+00:03:24.239 the grocery store you do to the kitchen
+00:03:26.440 what Uber did to the
+00:03:27.920 car and that's the thing
+00:03:31.120 a grind it's like lot you know bits and
+00:03:33.159 atams in the Uber
+00:03:34.519 world this is
+00:03:37.040 like five times more atoms per bit this
+00:03:40.760 is like heavyduty industrial stuff
+00:03:44.159 probably more along the lines of like
+00:03:45.840 you know where Elon goes and some of his
+00:03:48.080 companies like they're super interesting
+00:03:50.120 Tech but you got to grind out those
+00:03:51.760 atoms do you see people actually cooking
+00:03:54.280 in the future or does it become a
+00:03:56.159 centralized service and is it optimized
+00:03:57.920 to People's Health and what do you think
+00:04:00.120 the implications to the food supply are
+00:04:01.879 if your vision holds how do you think
+00:04:03.680 about all those things look uh people
+00:04:06.799 will cook in the future as a hobby I
+00:04:09.159 sort I make a joke at the office I'm
+00:04:11.040 like I like horses I love horses but I
+00:04:13.519 don't ride a horse to work right and
+00:04:15.879 it's going to be a little bit like that
+00:04:17.600 whereas you can cook it's It's A Soulful
+00:04:20.279 thing to do it's just very
+00:04:22.919 human but you know it's late you know
+00:04:26.360 Mom gets home late from the office needs
+00:04:29.160 to get the kids you know a nutritious
+00:04:31.720 meal she doesn't have to cook it now and
+00:04:33.800 she doesn't she won't have to cook it
+00:04:36.400 and she won't have to go to McDonald's
+00:04:38.720 either it will be high quality and
+00:04:41.680 convenient and low cost all at the same
+00:04:43.759 time and yes dietary preference
+00:04:45.960 everything because it'll be hyper
+00:04:47.520 personalized like the way the internet
+00:04:49.400 is in
+00:04:50.560 content plus plus plus in terms of your
+00:04:54.560 specific preferences for what you
+00:04:57.320 want You' got these computers rocking oh
+00:05:00.320 these robots rocking I think in Philly
+00:05:02.320 somewhere uh in the lab where they're
+00:05:04.919 making bows yeah I mean we're out of the
+00:05:06.680 lab at this point we have our machine so
+00:05:09.440 we have a machine called a bowl Builder
+00:05:11.960 that basically makes different Cuisine
+00:05:13.759 types with bows so like think of like
+00:05:15.960 like sweet greens like what they yeah
+00:05:18.000 we're not working with these Brands
+00:05:19.319 specifically but I'll I'll just sort of
+00:05:21.400 it's a good analogy like think of
+00:05:23.759 Chipotle or Cava or sweet green or you
+00:05:27.440 get the idea
+00:05:29.759 we created test brands that were like
+00:05:31.880 those
+00:05:32.960 things and built the machine at the same
+00:05:36.280 time as we were building an actual
+00:05:37.800 restaurant and we built that restaurant
+00:05:39.919 to prove that the machine
+00:05:42.680 works then we have our customers now
+00:05:47.520 touring checking out we're rolling out
+00:05:49.360 with five customers in April that are
+00:05:52.199 using the machine and the way it will
+00:05:53.800 the way it's going to go down is they
+00:05:56.600 will come into and we of course we have
+00:05:59.120 the real estate so we have kitchens you
+00:06:00.720 know tens of thousands of kitchens
+00:06:01.960 around the world they will come into one
+00:06:04.520 of our kitchens in a facility it's a
+00:06:06.120 delivery only
+00:06:07.319 restaurant they'll prep the food in the
+00:06:09.319 morning and then they will leave and the
+00:06:12.080 Machine will if you will order online
+00:06:14.360 door dashu breats Etc they'll order
+00:06:16.800 online the way they do build your own
+00:06:19.199 Bowl exactly as you want
+00:06:22.440 and the bull gets all the ingredients
+00:06:25.560 dispensed hot or cold sauce Etc gets
+00:06:30.479 sled the bowl goes into a bag the
+00:06:33.759 utensils go into the bag the bag is
+00:06:35.240 sealed and then it comes out on a
+00:06:36.759 conveyor
+00:06:37.759 belt and machine gets the bag it goes to
+00:06:41.520 the front of the facility gets put into
+00:06:43.840 a locker that Locker then is sitting
+00:06:46.080 there door Dash re driver comes waves
+00:06:48.400 their waves their phone with an app in
+00:06:51.000 front of a camera and it pops open the
+00:06:52.560 locker that has the food that you're
+00:06:53.560 supposed to get that's so cool so like
+00:06:55.720 if you're if you're a restaurant tour
+00:06:57.280 you're the grind of the on man Meal
+00:07:00.680 which is the restaurant world goes away
+00:07:03.639 you you basically prep and that's
+00:07:05.759 asynchronous from when people order food
+00:07:08.599 the machine does the final assembly or
+00:07:12.039 what's known as plating essentially like
+00:07:14.479 do you think there's a service in the
+00:07:15.960 future where my
+00:07:18.800 physiology I can share that with you
+00:07:21.240 with Cloud
+00:07:22.800 kitchens and you guys just can always be
+00:07:25.800 optimizing my food based on what I know
+00:07:29.280 is good or bad for me so first what we
+00:07:32.440 do is we serve the restaurants so what
+00:07:35.639 happen so chamat you'll be sharing your
+00:07:37.360 dietary preferences with uberit or door
+00:07:40.759 Dash or sweet green or
+00:07:43.720 somebody we like our like our customer
+00:07:47.000 promise at our company we serve those
+00:07:48.639 who serve others or put in another way
+00:07:51.360 is infrastructure for better food so we
+00:07:54.000 are the either the AWS or the Nvidia or
+00:07:57.639 whatever you want to call it but for
+00:07:58.840 food if that makes sense we're behind
+00:08:00.960 the scenes we're the infrastructure and
+00:08:03.240 so you'll give your preferences right it
+00:08:05.080 should be a brand like then sweet greens
+00:08:06.759 or whomever Chipotle that says hey guys
+00:08:08.720 share with me like a yes an encrypted
+00:08:11.720 hash of your dietary restrictions needs
+00:08:15.800 whatever your lipid panel and I and I'll
+00:08:18.159 customize this thing and then you enable
+00:08:19.720 that on the back it's pretty close jth
+00:08:21.800 right you can do authenticate your Apple
+00:08:23.680 Health just authenticate Apple Health
+00:08:25.639 when these bowls come off the line and
+00:08:27.599 see how I talk it's like an assembly
+00:08:28.919 line bows come off the line on the label
+00:08:33.080 on the bow is how manys of every
+00:08:35.760 ingredient is in it plus a picture of
+00:08:38.640 what it was before we put the lid in
+00:08:41.039 that can be sent to the person while the
+00:08:43.039 Bull's on its way via a courier right
+00:08:45.480 what do you think Travis about this
+00:08:46.839 whole Maha movement and just the food
+00:08:48.519 supply itself so then what how does that
+00:08:50.680 change do restaurants Embrace more Farm
+00:08:53.640 to Table stuff I think look I think what
+00:08:55.640 like what we've SE with Supply chains in
+00:08:57.560 a bunch of different Industries it's
+00:08:59.040 just going to get super wired up so
+00:09:02.640 right now we're at the point of
+00:09:03.839 manufacturing but what happens so you go
+00:09:06.440 okay we're doing assembly then you go
+00:09:07.880 okay what about prep then you go further
+00:09:09.839 upstream and you're like what about
+00:09:11.000 supply chain like Cisco US Foods and
+00:09:13.480 then you go further up and you're like
+00:09:14.800 well how does how does the mechanization
+00:09:16.760 occur on farms and in agriculture and
+00:09:19.560 then how does that all get wired up to
+00:09:21.440 serve the customer and sort of what
+00:09:24.760 they're looking for so like you really
+00:09:26.920 can know exactly what kind of wheat was
+00:09:30.040 put into that
+00:09:32.480 food whether it was organic for real or
+00:09:35.320 not like what was the actual field it
+00:09:37.079 came from things like this you could
+00:09:40.000 imagine like really getting tied about
+00:09:42.079 supply chain as it relates to dietary
+00:09:44.120 stuff and as it relates to like Maha
+00:09:45.880 like hell to the yes I mean I ordered a
+00:09:50.200 couple different I went to the I went to
+00:09:52.519 RFK Junior's website and they have like
+00:09:55.480 the he has merch he has Maha merch I
+00:09:58.480 have I have the green Maha merch hat I
+00:10:00.760 should have worn it today I'm all about
+00:10:02.320 it get the
+00:10:03.519 onesie yeah that's amazing the onesie
+00:10:06.560 was crazy your bowl Builder Friedberg
+00:10:08.640 you tried to do this right your and we
+00:10:12.160 had a bowl Builder 10 years ago or
+00:10:14.839 2015 yeah
+00:10:16.560 2016 Diego saw it he actually visited it
+00:10:19.320 when we built it
+00:10:21.120 and we designed the system around a
+00:10:24.279 canister mechanism so all the food prep
+00:10:26.399 was done in a similar sort of like com
+00:10:29.480 AR model and then it was loaded in bulk
+00:10:32.040 and then put into little canisters and
+00:10:34.200 there were 30 slots in the canister
+00:10:36.639 dispenser and then the canisters would
+00:10:38.760 move down the device open up and and you
+00:10:40.720 could assemble bowls with rice and beans
+00:10:43.200 and all sort stuff the whole thing was
+00:10:44.320 automated and we were in the process of
+00:10:46.480 building out our first automated store
+00:10:49.680 when I actually took a medical leave of
+00:10:51.839 absence from it and ultimately the
+00:10:54.120 company did not get it into production
+00:10:56.519 but it we had great working demos and it
+00:10:58.560 was a very
+00:11:00.639 yeah I mean it was just definitely a
+00:11:01.720 no-brainer that this love this you love
+00:11:03.800 this yeah and at the time we were we
+00:11:05.560 actually had I'll tell you guys this we
+00:11:07.880 actually had a term sheet with
+00:11:10.320 Chipotle this was nine years ago to
+00:11:12.639 actually put this into Chipotle stores
+00:11:14.680 and then we were in the early
+00:11:15.720 conversations with sweet green at the
+00:11:17.360 time as well and obviously Jonathan and
+00:11:18.800 team have gone on to develop their own
+00:11:20.560 system but you know basically you can
+00:11:22.880 reduce so much of like qsr down to this
+00:11:25.560 bull based system and automated as
+00:11:28.279 Travis is doing so it's just a
+00:11:29.560 no-brainer and it's it's certainly
+00:11:31.360 necessary in a time when there's either
+00:11:33.760 labor shortage or labor price inflation
+00:11:36.240 that's causing a real issue with the
+00:11:37.560 ability and yeah this is the original
+00:11:39.160 automats in in New York yeah in in the
+00:11:42.279 early 20th century I love this but yeah
+00:11:44.600 they had a commissary behind that wall
+00:11:46.240 and they made like plates of food you
+00:11:47.680 put in there you put a quarter in you
+00:11:48.839 turn the knob and you get your meal out
+00:11:50.560 it's the classic that's the classic
+00:11:52.120 artificial artificial intelligence right
+00:11:53.959 this is like the Mechanical Turk thing I
+00:11:56.079 mean look here's the thing here's the a
+00:11:57.839 little Nuance that's super interesting
+00:12:00.360 about Automation in qsr restaurants is
+00:12:04.839 that they have an existing brick and
+00:12:06.839 mortar that's built a certain way that
+00:12:08.800 layout is meant for humans and to for
+00:12:11.160 those humans to work in certain
+00:12:12.760 processes an exact and very specific way
+00:12:15.720 every square inch of that kitchen and
+00:12:17.440 that space is is
+00:12:20.000 dialed when you go and put a machine
+00:12:22.279 like this in it changes the whole thing
+00:12:25.040 and so just to get going you've got to
+00:12:27.320 like do you've got to like if you're to
+00:12:29.399 replace the front line in Chipotle you
+00:12:31.000 got to you got to take out that front
+00:12:32.560 line you got to demo it yeah you got to
+00:12:34.720 put in a new
+00:12:36.079 machine that's the challenge that they
+00:12:38.079 all had and so now it's like a huge
+00:12:39.720 amount of capex my storees down for two
+00:12:41.639 to three months and the economics start
+00:12:44.959 to not work and by the way I still have
+00:12:46.959 to have humans in that brick and mortar
+00:12:48.920 and so you know look we have a different
+00:12:50.560 take we're in that delivery only model
+00:12:53.839 so these are it's true infrastructure
+00:12:57.000 for making food behind the scenes for
+00:12:59.880 delivery so you don't have these issues
+00:13:01.680 and of course our setup our
+00:13:03.920 infrastructure these kitchens are
+00:13:05.560 designed for these kinds of machines to
+00:13:08.199 be in them and vice versa we've designed
+00:13:09.680 the machine to be in them when we did
+00:13:11.959 this early at ITA it was like food
+00:13:14.639 delivery was very early we built these e
+00:13:17.240 restaurants that were smaller frint we
+00:13:18.680 had an 800t restaurant that was doing 3
+00:13:20.600 million a year in revenue and it had a
+00:13:23.519 handful of people working in it but we
+00:13:24.920 were putting about 800 people an hour
+00:13:26.600 during the lunch rush through that
+00:13:27.760 restaurant ordering custom B this was by
+00:13:30.040 one market right so one market exactly
+00:13:32.720 and so by the way did you guys notice
+00:13:34.959 that jcal was plugging his product there
+00:13:36.880 in the background even though it has
+00:13:38.399 absolutely nothing to do with what
+00:13:39.560 Travis was saying oh welcome back to the
+00:13:42.560 show nothing's
+00:13:44.639 changed sax is here no one else even
+00:13:46.959 noticed that I just heard this voice
+00:13:48.839 from above it was the Zar of AI and
+00:13:51.639 crypto I was like Wow send it that's all
+00:13:54.320 sit back and listen the Zar is back ZX
+00:13:57.320 any anecdotes you want to share about
+00:13:59.320 life in DC how how exciting it's been in
+00:14:02.399 the administration the first week it's
+00:14:04.880 been amazing I mean it's hard to believe
+00:14:07.120 it's only been a week right so you in
+00:14:08.639 the white house or that building next to
+00:14:10.000 it do you have an office building you
+00:14:11.839 mean the treasury building I know
+00:14:14.160 somebody was talking about there was a
+00:14:15.199 building next to it or what something I
+00:14:16.720 don't know I have an office in the uh
+00:14:18.639 old executive office building otherwise
+00:14:20.519 known as the Eisenhower Building and
+00:14:22.680 then I have a pass where I can just walk
+00:14:24.680 over to the westwing if I want to walk
+00:14:26.480 over to it there's kind of a whole White
+00:14:28.480 House complex
+00:14:29.560 behind the Gates that with the West
+00:14:31.240 Wings part of it and the Eisenhower
+00:14:32.600 Building and there a couple other
+00:14:34.880 buildings in that complex it's really
+00:14:37.320 cool it is really neat to to show up for
+00:14:40.600 work at the White House to say that's
+00:14:42.639 awesome it's like being in a movie or
+00:14:44.639 something or a TV show it is really cool
+00:14:47.199 you know it's awesome any interesting
+00:14:49.720 meetings you can talk about and I mean I
+00:14:51.560 know we are here to today to talk about
+00:14:53.399 deep seek but any interesting meetings
+00:14:55.320 or anecdotes from just the Vibes and
+00:14:57.759 walking around what's the coffee l is
+00:14:59.440 there like a commissary you run into
+00:15:01.560 anybody
+00:15:02.519 interesting there is a commissary
+00:15:04.519 actually in the White House called the
+00:15:06.160 Navy mess and I think they're just
+00:15:09.480 opening up for for business now that is
+00:15:12.360 one of the cooler things you could do is
+00:15:13.600 you can take people to to lunch at the
+00:15:15.440 Navy mess oh look forward to it J Cal
+00:15:19.399 just invited himself look forward to it
+00:15:21.560 I look forward to taking jamath and
+00:15:22.839 freeberg
+00:15:25.240 there I'll wear my Maga hat all right
+00:15:27.839 well let's get started you're here
+00:15:29.639 because you uh we have a very specific
+00:15:32.319 he's here because the world is ending
+00:15:33.880 Jason the the Western world is ending
+00:15:35.959 okay the Western world is ending and
+00:15:37.319 David Sachs is going to save it but we
+00:15:39.160 had a little bit of a freak out the last
+00:15:40.959 week regarding this deep seek if you
+00:15:43.319 don't know that's a Chinese AI startup
+00:15:45.720 they released a new language model it's
+00:15:47.199 called R1 and it's on par basically with
+00:15:50.440 some of the best models in production in
+00:15:53.440 the west like open AI 01 model but they
+00:15:56.519 claim and listen you can trust CLA
+00:15:59.199 coming out of
+00:16:00.279 China you know for what it's worth uh
+00:16:02.480 they claim to have done this all for $6
+00:16:03.800 million on only 2,000 gpus for
+00:16:06.639 comparison open AI spent reportedly 8
+00:16:10.079 100 million to train GPT 4 which you're
+00:16:12.040 all using now and uh Sam claims they're
+00:16:14.880 going to spend a billion dollars
+00:16:16.120 training GPT 5 and so that's about 7% of
+00:16:19.639 the cost of GPT
+00:16:22.440 4 obviously there are export
+00:16:24.480 restrictions on Nvidia h100s to China so
+00:16:28.480 there's a big big debate as to if they
+00:16:30.880 actually have H1s or not and uh Monday
+00:16:34.519 was a blood bath in the stock market
+00:16:36.560 Nvidia had the worst day in the history
+00:16:38.000 of the stock market in terms of total
+00:16:40.040 dollar amount of market cap lost it was
+00:16:42.160 down 177% which is $600 billion tsmc was
+00:16:46.199 down arm was down Brom was down so I
+00:16:48.600 guess everybody's asking the question
+00:16:50.079 how did they do this did they do it and
+00:16:52.319 then there's a bunch of debate on
+00:16:55.360 whether they stole which is kind of Rich
+00:16:57.639 coming from open AI which got caught
+00:16:59.600 red-handed stealing everybody else's
+00:17:01.120 content and now they're crying foul that
+00:17:03.440 the Chinese stole or
+00:17:05.520 trained did what's called distillation
+00:17:08.720 of their model in order to build theirs
+00:17:11.640 Sachs obviously you are the Zar of AI
+00:17:16.039 I'm curious what your take on all this
+00:17:18.679 is and thanks for coming well I think
+00:17:21.319 one of the really cool things about this
+00:17:22.679 job is just that when something like
+00:17:24.679 this happens I get to kind of talk to
+00:17:27.160 everyone and everyone to talk and i' I
+00:17:30.080 feel like I've talked to maybe not
+00:17:32.080 everyone in like all the top people in
+00:17:34.240 AI but it feels like most of them and
+00:17:37.000 there's definitely a lot of takes all
+00:17:38.200 over the map on deep seek but I feel
+00:17:40.039 like I've started to put together a
+00:17:41.880 synthesis based on hearing from the top
+00:17:44.600 people in the field it was a bit of a
+00:17:46.400 freakout I mean it's rare that a model
+00:17:48.640 release is going to be a global news
+00:17:50.240 story or cause a trillion dollars of
+00:17:52.480 market cap decline in in one day and so
+00:17:54.799 it is interesting to think about like
+00:17:56.200 why was this such a potent news story
+00:17:59.120 and I think it's because there's two
+00:18:02.080 things about that company that that are
+00:18:03.640 different one is that obviously it's a
+00:18:05.280 Chinese company rather than an American
+00:18:06.679 company and so you have the whole China
+00:18:08.159 versus
+00:18:09.360 US competition and then the other is
+00:18:13.000 it's an open- Source company or at least
+00:18:15.080 it open source the the R1 model and so
+00:18:17.960 you've kind of got the whole open source
+00:18:19.320 versus closed Source debate and if you
+00:18:22.400 take either one of those things out it
+00:18:23.799 probably wouldn't have been such a a big
+00:18:25.440 story but I think the synthesis of these
+00:18:27.200 things got a lot of people's attention a
+00:18:29.360 huge part of Tik tok's audience for
+00:18:31.120 example is international some of them
+00:18:34.799 like the idea that that the US may not
+00:18:36.799 win the AI race that the US is kind of
+00:18:39.080 getting a comeuppance here and I think
+00:18:41.039 that fueled some of the early attention
+00:18:43.280 on Tik Tok similarly there's a lot of
+00:18:45.159 people who are rooting for open source
+00:18:46.640 or they have animosity towards open
+00:18:50.600 Ai and so they were kind of rooting for
+00:18:53.360 this idea that oh there's this open
+00:18:54.760 source model that's going to give away
+00:18:56.760 what open AI has done at 12 cost so I
+00:18:59.840 think all of these things provided fuel
+00:19:01.880 for the story now I think the question
+00:19:04.280 is okay what should we make of this I
+00:19:06.000 mean I think there are things that are
+00:19:07.799 true about the story and then things
+00:19:09.120 that are not true or should be
+00:19:12.000 debunked I think that let's call it true
+00:19:14.400 thing here is
+00:19:16.000 that if you had said to people a few
+00:19:19.280 weeks ago that the second company to
+00:19:23.440 release a reasoning model along the
+00:19:26.400 lines of 01 would be a Chinese company
+00:19:29.440 I think people would have been surprised
+00:19:30.960 by that so I think there was a surprise
+00:19:32.679 and just to kind of back up for people
+00:19:34.520 you know there's there's two major kinds
+00:19:36.039 of AI models now there's kind of the
+00:19:37.679 base llm model like Chach D40 or the
+00:19:41.280 Deep seek equivalent was V3 which they
+00:19:43.159 launched a month ago and that's
+00:19:44.880 basically like a smart PhD you ask a
+00:19:47.520 question gives you an answer then
+00:19:49.159 there's the new reasoning models which
+00:19:51.159 are based on reinforcement learning sort
+00:19:53.919 of a separate process as opposed to
+00:19:56.559 pre-training and 01 was the first Model
+00:19:59.559 released along those lines and you can
+00:20:02.760 think of a reasoning model as like a
+00:20:05.200 smart PhD who doesn't give you a snap
+00:20:07.080 answer but actually goes off and does
+00:20:08.520 the work you can give it a much more
+00:20:10.159 complicated question and it'll break
+00:20:12.480 that complicated problem into a subset
+00:20:15.080 of smaller problems and then it'll go
+00:20:18.080 step by step to solve the problem and
+00:20:20.760 that's that's called Chain of Thought
+00:20:22.440 right and so the new generation of
+00:20:25.039 agents that are coming are based on this
+00:20:26.960 type of idea of of Chain of Thought that
+00:20:29.159 that an AI model can sequentially
+00:20:31.000 perform tasks figure out much more
+00:20:32.799 complicated problems so open AI was the
+00:20:36.159 first to release this type of reasoning
+00:20:38.080 model Google has a similar model they're
+00:20:39.960 working on called Gemini 2.0 flash
+00:20:42.120 thinking they've released kind of an
+00:20:43.320 early prototype of this called Deep
+00:20:45.400 research
+00:20:47.000 1.5 anthropic has something but I don't
+00:20:49.440 think they've released it yet so other
+00:20:51.880 companies have similar models to 01
+00:20:56.080 either in the works or in some sort of
+00:20:57.640 private beta but deep seek was really
+00:21:00.400 the next one after open AI to release
+00:21:03.000 you know the full public version of it
+00:21:06.039 and moreover they open sourced it and so
+00:21:08.000 this created a pretty big splash and I
+00:21:10.679 think it was legitimately surprising to
+00:21:12.919 people that the next big company to put
+00:21:16.360 out a reasoning model like this would be
+00:21:18.720 a a Chinese company and moreover that
+00:21:21.120 they would open source it give it away
+00:21:22.480 for free and I think the API access is
+00:21:24.799 something like 12th the the cost so all
+00:21:28.120 of these really did drive the the news
+00:21:30.640 cycle and I think for good reason
+00:21:32.840 because I think that if you had asked
+00:21:34.120 most people in the industry a few weeks
+00:21:36.600 ago how far behind is China on AI models
+00:21:40.799 they would say six to 12 months and now
+00:21:44.240 I think they might say something more
+00:21:45.600 like three to six months right because
+00:21:47.679 01 was released about four months ago
+00:21:50.760 and R1 is comparable to that so I think
+00:21:53.640 it's definitely moved up people's time
+00:21:55.679 frames for how close China is on on AI
+00:22:00.880 now let's take the um we should take the
+00:22:04.000 claim that they only did this for $6
+00:22:05.799 million on this one I'm with Palmer
+00:22:09.559 lucky and Brad gersner and others and I
+00:22:12.159 think this has been pretty much
+00:22:13.120 corroborated by everyone I've talked to
+00:22:14.799 that that that number should be
+00:22:17.960 debunked so first of all it's very hard
+00:22:20.480 to
+00:22:21.320 validate a claim about how much money
+00:22:23.919 went into the training of this model
+00:22:26.840 it's not something that we can imper
+00:22:28.720 Ally discover but even if you accept it
+00:22:30.880 at face value that $6 million was for
+00:22:33.880 the final training run so when the media
+00:22:36.960 is hyping up these stories saying that
+00:22:39.480 this Chinese company did it for six
+00:22:40.799 million and and these dumb American
+00:22:42.279 companies did it for a billion it's not
+00:22:44.760 an Apples to Apples comparison right I
+00:22:46.679 mean if you were to make the Apples to
+00:22:47.960 Apples comparison you would need to
+00:22:50.279 compare the final training run cost by
+00:22:53.520 Deep seek to that of open AI or
+00:22:55.840 anthropic and what the founder of
+00:22:59.159 anthropics said and what I think Brad
+00:23:01.120 has said being an investor in open Ai
+00:23:03.400 and having talked to them is that the
+00:23:05.960 final training run cost was more in the
+00:23:09.279 tens of millions of dollars about nine
+00:23:12.320 or 10 months ago and so you know it's
+00:23:14.679 not six million versus a billion okay
+00:23:17.120 it's the billion doll number might
+00:23:19.080 include all the hardware they've bought
+00:23:20.840 the years of putting into it a holistic
+00:23:22.880 number as opposed to the training number
+00:23:24.960 yeah it's running it it's not fair to
+00:23:27.039 compare let's call it a nuts number a
+00:23:29.679 fully loaded number by American AI
+00:23:32.120 companies to the final training run by
+00:23:34.720 the Chinese company but real quick sax
+00:23:37.880 you've got you've got an open source
+00:23:40.400 model and they've the the white paper
+00:23:42.640 they put out there is very specific
+00:23:45.480 about what they did to make it and uh
+00:23:48.559 sort of the results they got out of it I
+00:23:51.320 don't think they give the training data
+00:23:52.679 but you could start to stress test what
+00:23:56.240 they've already put out there and see if
+00:23:57.679 you can do it cheap
+00:23:59.039 essentially like I said I think it is
+00:24:00.720 hard to validate the number I think that
+00:24:02.960 if let's just assume that we give them
+00:24:04.240 credit for the 6 million number my point
+00:24:05.919 is less that they couldn't have done it
+00:24:08.080 but just that we need to be comparing
+00:24:11.000 likes to likes yeah so if for example
+00:24:13.880 you're going to look at the fully loaded
+00:24:15.960 cost of what it took deep seek to get to
+00:24:18.320 this point then you would need to look
+00:24:21.000 at what has been the R&D cost to date of
+00:24:25.039 all the models and all the experiments
+00:24:27.039 and all the training runs they've done
+00:24:29.039 right and the compute cluster that they
+00:24:31.200 surely have so Dylan Patel who's leading
+00:24:35.000 semiconductor analyst has estimated that
+00:24:37.720 deep seek has about 50,000 Hoppers and
+00:24:40.720 specifically he said they have about
+00:24:42.159 10,000 h100s they have 10,000 H 800s and
+00:24:47.080 30,000
+00:24:48.559 h20s now the cost s sorry is they deep
+00:24:51.840 seek or it's deep seek plus the hedge
+00:24:53.720 fund deep seek plus the hedge fund but
+00:24:55.520 it's the same founder right and by the
+00:24:57.640 way that doesn't mean they did anything
+00:24:58.799 illegal right because the h100s were
+00:25:02.200 banned under export controls in 2022
+00:25:05.200 than they did the h800 in 2023 but this
+00:25:08.000 founder was very farsighted he was very
+00:25:09.919 ahead of the curve and he was through
+00:25:11.559 his hedge fund he was using AI to
+00:25:13.399 basically do algorithmic trading so he
+00:25:17.120 bought these chips a while ago in any
+00:25:19.159 event you add up the the cost of a
+00:25:22.640 compute cluster with 50,000 plus Hoppers
+00:25:25.480 and it's going to be over a billion
+00:25:26.799 dollars so this idea a that you've got
+00:25:29.080 this Scrappy company that did it for
+00:25:30.320 only 6 million just not true they have a
+00:25:33.440 substantial compute
+00:25:35.480 cluster that they use to to train their
+00:25:40.039 models and frankly that doesn't count
+00:25:42.679 any chips that they might have beyond
+00:25:45.320 the 50,000 you know that they might have
+00:25:47.880 obtained in violation of export
+00:25:51.320 restrictions that obviously they're not
+00:25:53.080 going to admit to and we just don't know
+00:25:55.600 we don't really know the full extent of
+00:25:57.760 of what they
+00:25:58.840 have so I just think it's like worth
+00:26:01.360 pointing that out that I think that part
+00:26:03.039 of the story got overhyped it's hard to
+00:26:05.600 know what's fact and what's fiction
+00:26:07.120 everybody who's on the outside guessing
+00:26:11.159 has their own incentive right like so if
+00:26:13.720 you're a semi-conductor analyst that
+00:26:15.600 effectively is massively bullish Nvidia
+00:26:19.559 you want it to be true that it wasn't
+00:26:22.399 possible to train on $6 million
+00:26:25.399 obviously if you're the person that
+00:26:26.559 makes an alternative that's that disrupt
+00:26:28.720 you want it to be true that it was
+00:26:30.600 trained on $6 million all of that I
+00:26:33.279 think is all speculation the thing that
+00:26:35.799 struck me
+00:26:37.320 was how different their approach was and
+00:26:41.120 TK just mentioned this but if you dig
+00:26:43.240 into not just the original white paper
+00:26:45.840 of deep seek but they've also published
+00:26:47.919 some subsequent papers that have refined
+00:26:49.799 some of the
+00:26:51.080 details I do think that this is a case
+00:26:53.399 and Sak you can tell me if you disagree
+00:26:54.880 but this is a case where necessity was
+00:26:56.640 the mother of invention so I'll give you
+00:26:59.200 two examples where I just read these
+00:27:00.760 things and I was like man these guys are
+00:27:02.480 like really clever the first is as you
+00:27:05.520 said let's let's put in a pin on whether
+00:27:07.919 they distilled 01 which we can talk
+00:27:09.960 about in a second but at the end of the
+00:27:12.960 day these guys were like well how am I
+00:27:14.320 going to do this reinforcement learning
+00:27:15.880 thing they invented a totally different
+00:27:17.840 algorithm there was the the Orthodoxy
+00:27:20.440 right this thing called po that
+00:27:22.200 everybody used and they were like no
+00:27:24.520 we're going to use something else called
+00:27:26.320 I think it's called grpo or something it
+00:27:28.679 uses a lot less computer memory and it's
+00:27:31.480 highly
+00:27:32.760 performant so maybe they were con strain
+00:27:35.559 sacks practically speaking by some
+00:27:37.360 amount of compute that caused them to
+00:27:39.880 find this which you may not have found
+00:27:41.840 if you had just a total surplus of
+00:27:44.039 compute availability and then the second
+00:27:45.840 thing that was crazy is everybody is
+00:27:48.039 used to building models and compiling
+00:27:50.039 through Cuda which is nvidia's
+00:27:52.399 proprietary language which I've said for
+00:27:55.240 a couple times is their biggest moat but
+00:27:57.679 it's also
+00:27:58.679 the biggest threat factor for lockin and
+00:28:01.240 these guys worked totally around Cuda
+00:28:03.159 and they did something called PTX which
+00:28:05.120 goes right to the bare metal and it's
+00:28:07.000 controllable and it's effectively like
+00:28:09.360 writing assembly now the only reason I'm
+00:28:11.480 bringing these up is we meaning the West
+00:28:14.039 with all the money that we've had didn't
+00:28:17.039 come up with these
+00:28:18.440 ideas and I think part of why we didn't
+00:28:20.960 come up is not that we're not smart
+00:28:22.519 enough to do it but we weren't forced to
+00:28:25.159 because the constraints didn't exist and
+00:28:27.200 so I just wonder
+00:28:29.000 how we make sure we learn this principle
+00:28:31.080 meaning when the AI company wakes up and
+00:28:33.840 rolls out of bed and some VC gives them
+00:28:36.279 $200
+00:28:37.480 million maybe that's not the right
+00:28:40.159 answer for a series A or a seed and
+00:28:42.039 maybe the right answer is 2 million so
+00:28:44.279 that they do these deep seek like
+00:28:47.399 Innovations constraint makes for great
+00:28:49.480 art what do you think uh freedberg when
+00:28:51.360 you're looking at this well I think it
+00:28:54.279 also enables a new class of investment
+00:28:56.960 opportunity
+00:28:58.720 given the low cost and the speed it
+00:29:02.000 really highlights that maybe the
+00:29:03.559 opportunity to create value doesn't
+00:29:05.320 really sit at that level in the value
+00:29:07.039 chain but further Upstream apology made
+00:29:09.320 a comment on Twitter today that was
+00:29:10.799 pretty funny or I think ref this about
+00:29:13.640 the ra he's like turns out the rapper
+00:29:15.240 may be the the mo the the mo which is
+00:29:19.120 true at the end of the day if model
+00:29:21.279 performance continues to improve get
+00:29:23.399 cheaper and it's so competitive that it
+00:29:25.320 commoditized much faster than anyone
+00:29:27.399 even
+00:29:28.760 thought then the value is going to be
+00:29:31.279 created somewhere else in the value
+00:29:32.760 chain maybe it's not the rapper maybe
+00:29:35.320 it's the user and maybe by the way
+00:29:37.200 here's an important point maybe it's
+00:29:38.440 further in the economy you know when
+00:29:40.799 electricity production took off in the
+00:29:42.640 United States it's not like the
+00:29:43.760 companies are making a lot of money that
+00:29:45.120 are making all the electricity it's the
+00:29:46.600 rest of the economy that Acres a lot of
+00:29:48.159 the value well you're about to see a big
+00:29:49.880 test of this because if open AI raises
+00:29:52.120 40 billion at 340 billion that just hit
+00:29:55.640 the wire the underwriting IC at 340
+00:29:59.399 billion exactly what you just said
+00:30:00.880 freeberg it is the rapper meaning chat
+00:30:02.760 GPT is the next killer app it's getting
+00:30:05.600 to a billion plus ma hundreds of
+00:30:08.200 millions of da it's competing for
+00:30:09.919 Consumer usage that's that's the model
+00:30:12.000 that's the model is like consumer usage
+00:30:14.000 which puts them on a on a collision
+00:30:16.760 course with meta it's the only company
+00:30:19.559 that could really impact that because
+00:30:21.600 the only company right now that has
+00:30:24.360 billions of eyeballs of daus per day and
+00:30:27.440 who and by the way Zuck said this in his
+00:30:28.840 earnings release he's like there's only
+00:30:30.399 going to be one company that brings AI
+00:30:33.919 to a billion plus people and it will be
+00:30:35.880 us some version of that quote in his
+00:30:38.200 earnings released yesterday and
+00:30:39.960 Microsoft showed weakness in the in
+00:30:41.679 their cloud and then Microsoft's down
+00:30:43.760 six% today and you know I think it's a a
+00:30:47.679 window for open AI to say we're going to
+00:30:50.559 go up against meta this is it we're
+00:30:52.120 going to be the players what you
+00:30:53.679 everyone's kind of ignoring Google at
+00:30:55.240 what do you guys think is happening
+00:30:56.480 right now between open Ai and Microsoft
+00:30:58.480 cuz if it's true that this distillation
+00:31:00.519 thing actually happened well there's
+00:31:02.440 only one place where you could have
+00:31:03.639 distilled the o1 model it's on aure so
+00:31:06.600 what the hell is going on over there
+00:31:08.240 well and there R1 is supported on
+00:31:10.720 explain distillation real quick yeah so
+00:31:13.519 when you have a big large parameter
+00:31:15.760 model the way that you get to a smaller
+00:31:18.760 more usable model along the lines of
+00:31:20.960 what saaks mentioned is through this
+00:31:22.679 process called distillation where the
+00:31:24.679 big model feeds the little model so the
+00:31:26.720 little model is asking questions of the
+00:31:28.440 big model and you take the answers and
+00:31:30.720 you refine and by the way you can see
+00:31:33.279 this Nick I sent you a clip you guys can
+00:31:35.039 see this I mean it's there's clearly
+00:31:36.399 distillation happening Nick can you show
+00:31:38.799 the clip of the of the deep seek run
+00:31:41.559 where it shows the China answer and then
+00:31:43.320 deletes it what was Winston's job in
+00:31:45.200 1984 right and it sort of starts to go
+00:31:47.480 through this whole
+00:31:49.279 summary and then the person says are
+00:31:51.440 there any actual states that currently
+00:31:53.080 do
+00:31:53.960 that hold on here it goes it says North
+00:31:57.240 Korea wait goes China and then wait
+00:31:58.919 watch this boom so the reason why this
+00:32:02.320 is happening is like you're seeing this
+00:32:03.639 Chain of Thought you're seeing the
+00:32:04.760 several layers and then it's catching it
+00:32:06.840 after the fact so we know that this is
+00:32:08.840 distilled from some other
+00:32:10.600 model and my only point there it's a
+00:32:12.960 little tongue and cheek is right now
+00:32:15.240 when you go and use open AI you're using
+00:32:18.720 it sitting in an Azure instance
+00:32:20.559 somewhere right so this is Microsoft's
+00:32:22.279 Cloud infrastructure that runs it so it
+00:32:23.760 begs the
+00:32:25.320 question it's not that it's 's fault
+00:32:28.120 open ai's fault that this distillation
+00:32:29.919 happened and I'm not trying to assign
+00:32:31.120 blame but typically if this were to
+00:32:33.679 happen you'd look to your cloud provider
+00:32:35.200 and say how are you letting this happen
+00:32:37.679 and I don't think anybody's had a good
+00:32:39.200 answer for that well and the cloud
+00:32:41.279 provider is hosting R1 now so they're
+00:32:44.279 literally
+00:32:45.799 undercutting chat GPT and open AI at the
+00:32:48.440 same time just to clean that up they're
+00:32:49.960 they're hosting their own copy of it
+00:32:52.120 right because r1's been open when you
+00:32:54.000 say they who are you who are you
+00:32:55.200 referring to saxs Microsoft yeah
+00:32:57.039 Microsoft is hosting their version of R1
+00:32:59.919 which means they are actively subverting
+00:33:02.679 their partner open Ai and pushing people
+00:33:06.039 to a cheaper model well whatever I mean
+00:33:08.279 look Amazon's going to host their own
+00:33:09.840 version of R1 grock has a version of
+00:33:13.320 R1 just red out it's open source now
+00:33:16.360 have who has R1 on his laptop you know
+00:33:18.799 yeah exactly yeah but if it was if it
+00:33:20.480 was stolen as um and the IP was stolen
+00:33:22.880 as Sam is claiming that would be like
+00:33:25.279 You' think he'd be able to call up S and
+00:33:26.960 say hey can you not put the stolen IP on
+00:33:29.360 your server and promote it to everybody
+00:33:30.880 at a lower cost it just shows Microsoft
+00:33:33.080 has no loyalty to open AI yeah and they
+00:33:35.399 have but you think they would have
+00:33:36.679 loyalty they have loyalty what it would
+00:33:38.399 take to distill
+00:33:40.159 01 like brute
+00:33:42.880 force it wouldn't be like oh geez I
+00:33:46.799 can't believe it was distilled it would
+00:33:48.159 be like such a massive number of calls
+00:33:50.760 against an API or against something
+00:33:54.360 something that you it wouldn't be
+00:33:56.679 unnoticed and oh they did actually came
+00:33:59.120 out and said they blocked some
+00:34:00.240 suspicious activity recently yeah no but
+00:34:02.080 they're always doing that they're always
+00:34:04.000 that's that's constant you're always
+00:34:05.760 doing that that's like you know the old
+00:34:08.079 school you know go go ahead s let me let
+00:34:10.800 me address the distillation point so I I
+00:34:12.639 mentioned this a few days ago on on Fox
+00:34:15.040 news that I thought it was likely or
+00:34:17.560 possible that desolation had occurred
+00:34:20.320 and there was some evidence for this and
+00:34:21.520 it became like a news story and I I
+00:34:23.199 didn't even realize that saying that
+00:34:25.560 would be news because it's kind of an
+00:34:27.079 Open Secret Silicon Valley everyone I
+00:34:28.719 talked to they're doing some level of
+00:34:31.079 distillation because you need to test
+00:34:32.918 your model against theirs anyways yeah
+00:34:34.719 and every single person I've talked to
+00:34:37.359 basically has agreed that there was some
+00:34:39.560 distillation here from open
+00:34:42.839 AI now that doesn't mean it was the only
+00:34:45.239 thing going on here I mean to be sure
+00:34:46.879 the Deep seek team is very smart and
+00:34:49.679 there were some Innovations but also
+00:34:51.679 there was some distillation and really
+00:34:54.239 this wasn't even a fresh news story I
+00:34:57.760 think from the point of view of Silicon
+00:34:58.760 Valley because a month ago we had a
+00:35:01.440 press cycle in Silicon Valley when deep
+00:35:04.800 seeks V3 model came out that deep seek
+00:35:08.480 V3 was self-identifying as chat GPT when
+00:35:11.200 you would ask it who are you like what
+00:35:13.359 model are you five out of eight
+00:35:16.000 times V3 would tell you that it was
+00:35:18.240 Chachi
+00:35:19.440 T4 and there's lots of videos and
+00:35:21.800 examples of this online that have been
+00:35:23.720 posted right the point is that we knew a
+00:35:25.680 month ago that V3 had been framed on a
+00:35:28.160 substantial amount of chat GPT output
+00:35:30.880 obviously because V3 was
+00:35:32.400 self-identifying as chat GPT and there's
+00:35:34.839 two ways that that could have happened
+00:35:36.520 so the let's call it innocent
+00:35:39.000 explanation is that deep seek had
+00:35:41.320 crawled the web and found lots of
+00:35:43.920 published output from chat GPT and then
+00:35:46.800 trained on that and that wouldn't be a
+00:35:48.839 violation of open AI terms of service or
+00:35:51.480 their IP or the other explanation would
+00:35:54.680 be that they used the API from open Ai
+00:35:58.680 and basically you know went to town yeah
+00:36:01.359 went to town and there's no way I think
+00:36:04.520 based on what we know to prove that one
+00:36:06.960 way or another but I know what most
+00:36:08.480 people think happened and at the end of
+00:36:11.040 the day open AI can probably figure it
+00:36:12.880 out and they they've indicated that they
+00:36:14.480 think there was
+00:36:16.280 some improper distillation here in the
+00:36:19.520 financial times it says opening eye says
+00:36:21.680 it has found evidence that Chinese
+00:36:23.200 artificial intelligence startup DC used
+00:36:25.000 the US company's proprietary models to
+00:36:26.480 train its own open source compan right
+00:36:28.119 that's what I'm referring to so they say
+00:36:29.640 they've been very clear about this by
+00:36:31.119 the way you have to be sympathetic I
+00:36:32.599 think to open AI in this because if
+00:36:34.560 you're building a startup you're trying
+00:36:36.800 to raise money we've all gone through
+00:36:38.520 this cycle guys where it's like there's
+00:36:40.480 momentum we celebrate internally the
+00:36:42.599 momentum that's what gets you the energy
+00:36:45.720 to push your team even further and
+00:36:47.680 harder and then all of a sudden it turns
+00:36:49.920 out that some portion of that like it
+00:36:52.280 Travis said it well like you're there's
+00:36:53.839 probably a chart inside of open ai's
+00:36:55.640 offices where you're showing how many
+00:36:57.680 times these apis are getting hit right
+00:36:59.240 you know how many times these end points
+00:37:00.440 are getting hit it all looks positive
+00:37:02.920 and then you realize that some portion
+00:37:04.560 of it was actually bad and trying to
+00:37:06.920 undercut your
+00:37:08.280 value it's a hard pill to swallow and
+00:37:10.760 then you have to course correct very
+00:37:12.480 quickly you have to lock down this is
+00:37:14.119 one area where security exactly we have
+00:37:16.520 not talked about this like you have to
+00:37:18.160 lock these models down now you have to
+00:37:20.880 lock the endpoints down look in the
+00:37:23.400 Biden Administration if this had
+00:37:24.960 happened the first conversation would
+00:37:26.960 have been we need need to kyc the people
+00:37:28.640 that use these models and it's like what
+00:37:30.480 are you talking about we don't kyc the
+00:37:32.200 cloud if you're trying to use like an
+00:37:34.160 ec2 endpoint or an S3 bucket you don't
+00:37:36.720 have to all of a sudden prove who you
+00:37:38.440 are you just use a credit card and go
+00:37:39.920 that's the whole point of why
+00:37:41.000 proliferation can happen so quickly but
+00:37:43.839 if we take the wrong takeaways from this
+00:37:46.800 period there's going to be a bunch of
+00:37:48.760 people that'll clamor to like lock these
+00:37:50.480 folks down and make Innovation go much
+00:37:52.119 slower I don't I think that that would
+00:37:53.400 be bad here's the other side and totally
+00:37:55.040 agree Chim but here's the other side you
+00:37:57.560 go through the white paper you see what
+00:38:00.200 it is they did what they innovated on
+00:38:03.280 yeah the science behind it the
+00:38:05.720 thoroughness and you're like these guys
+00:38:07.560 are badass it doesn't it does not feel
+00:38:11.640 or sound like somebody who took
+00:38:13.040 something just when you get through it
+00:38:15.839 it could be that it could be that open
+00:38:17.720 AI wrote the white paper for them just
+00:38:19.480 putting it out there but it's real
+00:38:22.480 Innovative I agree with that real
+00:38:24.079 Innovation strong Tech you're like this
+00:38:26.839 is legit I agree with that but in that
+00:38:29.240 paper they're very hazy about where the
+00:38:32.880 data is coming from and they're they're
+00:38:35.240 fairly transparent about everything else
+00:38:37.000 they did but they're not really clear
+00:38:38.640 about the data and specifically they say
+00:38:41.760 that to get from V3 which is the base
+00:38:45.200 model to R1 which the reasoning model
+00:38:48.040 they had about 800,000 samples of
+00:38:51.760 reasoning they were quite unclear about
+00:38:55.040 where those reasoning samples came from
+00:38:57.520 from by the way it is remarkable that
+00:38:59.480 you can get from a base model to an R1
+00:39:01.640 with just 800,000 samples but this is a
+00:39:03.720 problem like we meaning like the Western
+00:39:05.880 AI Community we've been trudging around
+00:39:08.720 on this path where we've been very we
+00:39:11.520 had a very Orthodox approach the only
+00:39:14.200 way you can do reinforcement learning is
+00:39:16.200 through po okay but is that true and it
+00:39:19.280 turns out that if you're like a really
+00:39:20.920 smart team that has no other choice you
+00:39:24.200 move away and you invent your way out of
+00:39:26.359 it and so we have to get that example
+00:39:28.839 too I think it's technically brilliant
+00:39:30.680 some of the things they've done but they
+00:39:32.839 also use constraint as a very much a
+00:39:35.440 feature not a bug and the the Western AI
+00:39:37.760 economy has been the opposite so far I
+00:39:40.520 think the best part of this is the fact
+00:39:42.119 that Sam mman was supposed to be doing
+00:39:43.920 open source he made it a Clos Source
+00:39:45.599 company he stole everybody's data every
+00:39:48.359 got caught red-handed he's being sued by
+00:39:50.119 the New York Times for all that and now
+00:39:52.040 the Chinese have come and open sourced
+00:39:54.560 all the stuff he stole and he's got a
+00:39:56.400 real competitor on the original Mission
+00:39:58.760 of what opening ey was supposed to do so
+00:40:00.640 I have zero sympathy for him or the team
+00:40:02.599 over there I'm glad that this is all
+00:40:04.000 going open source it should have been
+00:40:05.560 open source and it's better for Humanity
+00:40:07.160 and the fact that the Chinese did it to
+00:40:08.760 Sam wman has come up and for him
+00:40:10.319 stealing everybody else's content that's
+00:40:12.760 my okay there you have it but I don't
+00:40:15.880 have strong opinions on it it's
+00:40:17.640 hilarious does nobody see the irony in
+00:40:20.160 this he was supposed to be doing open
+00:40:23.240 source because Jal I will say the models
+00:40:25.720 are closed you're right yeah there was
+00:40:28.160 there's the lawsuit with Scarlet
+00:40:29.760 Johansson for stealing her voice even
+00:40:31.520 when she said no there's a real question
+00:40:34.240 and and people have asked New York Times
+00:40:35.720 and then there's now the question about
+00:40:36.920 YouTube data being used to train the
+00:40:38.520 video models so there's a lot of being
+00:40:40.960 on their on their heels a little bit so
+00:40:43.200 I definitely I definitely see your point
+00:40:44.960 stealing I think yeah I think the the
+00:40:48.000 really all the pressure right now I
+00:40:49.960 think is on meta because I think meta
+00:40:52.720 has to show up with the next iteration
+00:40:54.760 of llama that beats and exceeds
+00:40:58.359 Gemini that exceeds R1 and I think that
+00:41:03.359 that is going to be crucial for us to
+00:41:05.440 have a counterweight to whatever China's
+00:41:07.520 going to put out after this and but I
+00:41:09.079 mean jamat it's open source like does it
+00:41:11.400 not so this so this is my point Embrace
+00:41:13.680 and extend Embrace and extend meta has
+00:41:16.079 to embrace and extend everything that
+00:41:18.160 these guys have shown meaning like meta
+00:41:20.760 is buying tens of thousands of Nvidia
+00:41:23.400 gpus great but what did this show this
+00:41:26.560 shows that actually Cuda high level
+00:41:29.400 languages in general I think we've all
+00:41:31.119 known that they suck okay and so we've
+00:41:33.960 all been going through it thinking that
+00:41:35.720 it's like the right thing to do deep
+00:41:38.119 seek throws it out the window they use
+00:41:40.000 something called PTX what does meta do
+00:41:41.960 is critical now to understand they need
+00:41:43.680 to embrace this stuff and this is where
+00:41:46.000 I think again apologies to the Invidia
+00:41:48.720 bles but it's going to create a more
+00:41:51.839 heterogeneous environment and the reason
+00:41:54.280 is because there's too much money and
+00:41:56.240 risk on the line to go through a single
+00:41:58.359 point of failure a chip a highle
+00:42:01.040 framework to get to that chip that's
+00:42:03.000 nuts so I think like that kind of like
+00:42:05.760 Emperor has no close moment is upon us
+00:42:08.319 well let me ask you another question
+00:42:09.839 let's assume that we start the world of
+00:42:11.599 AI today so there's no Legacy of the
+00:42:13.839 last three years and you wake up today
+00:42:16.599 and there's this open- Source model
+00:42:18.280 that's 670 billion parameters you can
+00:42:20.559 run it on your desktop computer it's
+00:42:22.680 completely available everything's
+00:42:24.079 completely transparent and I ask you the
+00:42:26.599 question forget about all the big
+00:42:28.200 companies that are involved in
+00:42:29.400 everyone's strategy historically what's
+00:42:32.359 the model today to build value here
+00:42:34.760 where do you
+00:42:35.839 build equity value as a business if
+00:42:38.920 you're going to start a company if
+00:42:40.160 you're going to invest as a as an
+00:42:41.440 investor where do you go the first is
+00:42:43.359 you have to build a shim and I think the
+00:42:45.240 reason why a shim is really critical is
+00:42:47.200 that there's so much entropy at the
+00:42:49.079 model level what this should show you is
+00:42:51.119 you can't pick any model and the problem
+00:42:53.680 is that the people that manipulate these
+00:42:55.319 models the machine learning engine and
+00:42:57.559 whatnot they become too oriented to
+00:42:59.720 understanding how to get output of high
+00:43:01.520 quality using one thing meaning it
+00:43:04.440 shouldn't have been the case that we
+00:43:05.839 have Engineers that can only use sonin
+00:43:08.520 right that's the anthropic model right
+00:43:10.599 it shouldn't be the case that people can
+00:43:12.119 only use open AI or people can only use
+00:43:14.599 llama right now that is kind of what we
+00:43:16.640 have you don't have the flexibility to
+00:43:18.520 hot swap as models change so if you're
+00:43:21.200 starting a company today the first
+00:43:23.920 technical problem I would want to solve
+00:43:25.839 for is that because tomorrow if it's R2
+00:43:29.359 or alibaba's model or llama I would want
+00:43:32.200 to be able to rip it out and put it back
+00:43:34.040 in and have everything work and right
+00:43:36.079 now we can't do that the answer to your
+00:43:38.079 question fre is the answer your question
+00:43:40.839 hold on the answer to your question is
+00:43:42.480 the application layer because this is
+00:43:44.440 all going to become storage it's like
+00:43:45.920 YouTube being built on top of storage or
+00:43:47.839 Uber being built on top of GPS all these
+00:43:50.440 Innovations are being commoditized and
+00:43:52.160 this one is happening faster than all
+00:43:53.640 the rest do you want to be in the
+00:43:54.720 storage business or you want to be in
+00:43:55.880 the YouTube business do you want to be
+00:43:57.480 in the Uber business or do you want to
+00:43:58.839 be in the GPS chip business I mean
+00:44:00.920 they're both decent businesses but Gavin
+00:44:02.960 Baker came on this podcast and said this
+00:44:04.319 the fastest deprecating asset in the
+00:44:05.920 world was a large language model he's
+00:44:07.599 been proven right they're not worth
+00:44:09.280 anything they're all going to be open
+00:44:10.640 sourced they're all going to be
+00:44:11.520 commoditized and that's for the best of
+00:44:12.880 humanity and now we're going to be on
+00:44:14.119 the application Level the hardware level
+00:44:16.200 with robots and I think that's where the
+00:44:17.720 opportunity is Travis what do you do
+00:44:19.640 what company do you start today if you
+00:44:21.079 start a company today given where the
+00:44:23.720 world is at given the open- source
+00:44:25.760 models like what do you do oh I'm
+00:44:27.960 getting so excited um look I I think the
+00:44:31.599 first the first degree out is it's what
+00:44:35.680 you got is there a rapper company okay
+00:44:38.760 so of course maybe those companies
+00:44:41.119 already exist and then is there a tools
+00:44:43.920 company right so in a funny way even
+00:44:46.480 though Facebook could be the rapper they
+00:44:48.200 have a tools
+00:44:50.720 business that these you know that the
+00:44:54.319 that deep seek is basically challenging
+00:44:56.119 going full open source and like putting
+00:44:58.119 something out there that's really good
+00:44:59.640 and what has to happen is fa meta has to
+00:45:02.520 decide like we are going to embrace and
+00:45:05.200 extend this we're going to make sure
+00:45:06.480 that all the developers come to us that
+00:45:08.480 all the cool applications get built here
+00:45:10.920 so I think it's like there's a tools
+00:45:12.640 business and then there's the rapper
+00:45:14.559 business um and then you know look when
+00:45:18.079 AI here's the one thing on the Nvidia
+00:45:19.880 thing that I would counter with a little
+00:45:21.319 bit of what's been said here is like
+00:45:23.359 when AI gets cheap you know what's going
+00:45:24.800 to happen guys there's going to be a lot
+00:45:26.599 more I right I don't think I think the
+00:45:30.040 price elasticity on this one is actually
+00:45:32.280 positive so as the price goes down
+00:45:34.559 that's right the revenue usage
+00:45:36.079 everything's going to go up we through
+00:45:37.599 the RO this is a history of tech forever
+00:45:40.680 since like Bill Gates said I don't know
+00:45:42.240 what to do with more than 64 kilobytes
+00:45:44.200 of memory like you know the question is
+00:45:47.240 did we cheap oil cheap oil in the United
+00:45:49.960 States drove the Industrial Revolution
+00:45:52.000 right and like when we started
+00:45:53.280 discovering oil suddenly we were able to
+00:45:55.359 build factories and make stuff that we
+00:45:57.040 never imagin possible and so then you're
+00:45:58.920 like okay AI is like you know it's going
+00:46:02.559 to get cheap it's going to be oil but
+00:46:04.640 it's also going to be specialized for
+00:46:06.839 different tasks like you're going to
+00:46:08.800 start getting into nuances of like what
+00:46:11.240 is the invest the investor AI look like
+00:46:14.480 what does the autonomous car AI look
+00:46:16.880 like what does the uh Google search I'm
+00:46:19.760 trying to figure
+00:46:21.119 some like yeah so you could go vertical
+00:46:24.800 and Silo siloed air quotes understand
+00:46:27.240 what I'm saying abolutely yeah so
+00:46:28.520 there's a a thing called Jin's Paradox
+00:46:30.960 which kind of speaks to this concept SAA
+00:46:32.960 actually tweeted about it which is the
+00:46:35.920 it's an economic concept where as the
+00:46:38.520 the cost of a particular use goes down
+00:46:41.880 the aggregate demand for all consumption
+00:46:44.680 of that thing goes up so the basic idea
+00:46:47.319 is that as the price of AI gets cheaper
+00:46:49.319 and cheaper we're going to want to use
+00:46:51.160 more and more of it so you might
+00:46:52.680 actually get more spending on it in the
+00:46:55.359 aggregate that's right because more and
+00:46:56.559 more applications will become cost feas
+00:47:00.520 economically feasible exactly that is I
+00:47:02.880 think a powerful argument for why
+00:47:04.880 companies are going to want to continue
+00:47:06.200 to innovate on Frontier models you guys
+00:47:09.760 are taking a very strong point of view
+00:47:12.800 that open source is definitely going to
+00:47:14.280 win that the leading model companies are
+00:47:15.960 all going to get commoditized and
+00:47:18.119 therefore there'll be no return on
+00:47:19.400 Capital and basically continue to
+00:47:20.480 innovate on on the frontier I'm I'm not
+00:47:22.359 sure that's
+00:47:23.640 true you for one thing the the R1 model
+00:47:27.359 is is basic comp to 01
+00:47:30.839 which which open AI released four months
+00:47:33.240 ago and was training on internally call
+00:47:35.680 it N9 or 10 months ago so open AI is on
+00:47:39.680 03 now its Frontier is ahead of where R1
+00:47:43.599 is anthropic and Google I think have
+00:47:46.520 things in the work and even meta that
+00:47:49.559 may be ahead of where R1 is so I think
+00:47:53.400 R1 or deep seeks done a good job being a
+00:47:55.559 fast follower here is it's not clear
+00:47:57.359 that this is the frontier and those
+00:48:00.160 Frontier Model companies now having seen
+00:48:03.359 what might have happened with
+00:48:04.240 distillation have a pretty strong
+00:48:06.160 incentive to make sure that doesn't
+00:48:07.599 happen again and they're going to be
+00:48:09.720 taking countermeasures I mean there's a
+00:48:11.800 question of like how much you can do to
+00:48:13.520 stop it but I think it's a little
+00:48:15.480 premature to conclude that there's no
+00:48:17.000 reward for being at the frontier anybody
+00:48:20.160 uh have any other questions for Sachs
+00:48:22.599 before we drop him off to go back to
+00:48:24.520 serving the American people before we
+00:48:26.359 drop him off one final point on on the
+00:48:28.960 whole open source verus closed Source
+00:48:30.319 look I I'm not going to take sides in
+00:48:32.520 that but I I think that it's a mistake
+00:48:35.559 to just view what happened here as oh
+00:48:39.280 it's this like Plucky upstart that's
+00:48:41.720 like doing the community huge service
+00:48:43.440 out of the goodness of its heart you
+00:48:45.520 know it's basically open sourcing all oh
+00:48:47.359 they stole it they stole it it's a
+00:48:49.920 Chinese come on you still have this huge
+00:48:52.680 geopolitical aspect to it right and deep
+00:48:55.440 seek is a Chinese company they trying to
+00:48:57.119 catch up and so if you're if you're
+00:48:59.000 behind and you're trying to catch up
+00:49:00.480 then open source is a strategy that
+00:49:02.000 actually really makes sense for you and
+00:49:05.440 you know they're trying to basically
+00:49:06.400 undercut the leading American companies
+00:49:09.040 and I I don't think they did it with $6
+00:49:11.079 million I mean they have massive
+00:49:13.559 resources behind them so I think some of
+00:49:16.559 the the pro deep seek Vibes I think are
+00:49:20.640 they're a little bit naive you know in
+00:49:22.240 Silicon Valley it's like that's only the
+00:49:24.079 uh people who worked for Sam previously
+00:49:25.640 and quit who feel that way
+00:49:29.280 I think there's a lot of like support
+00:49:30.480 for deep
+00:49:32.000 sea Valley because again people think
+00:49:35.119 that they're doing this huge service for
+00:49:36.520 the community and I think it's a little
+00:49:37.760 bit more self-interested that than that
+00:49:39.599 it could be both right I mean there
+00:49:41.079 there is a theory that they're trying to
+00:49:42.720 undercut and neuter the lead and at the
+00:49:45.760 same time there's a b bunch of people
+00:49:47.280 who believe in open source and nobody
+00:49:48.640 should control this and certainly not
+00:49:49.799 Sam wman should be the person who
+00:49:51.000 controls it so two things could be true
+00:49:52.839 at the same time David thank you so much
+00:49:55.119 for coming on we appreciate it and uh
+00:49:57.119 thank you for all coming on your podcast
+00:49:59.359 David we appr David I know that this is
+00:50:02.280 and now we're going to talk about a
+00:50:03.200 bunch of other crazy stuff gentleman
+00:50:05.400 David yes thank you all right thanks to
+00:50:07.559 David Sachs for coming in and uh you
+00:50:10.160 know I guess let's open up the aperture
+00:50:12.760 here and talk a little bit about
+00:50:15.119 relations with China we're obviously in
+00:50:17.160 a bit of a cold war with them we have
+00:50:20.040 tariffs we have
+00:50:22.280 Taiwan and then we have uh the sort of
+00:50:25.200 trade war going on here with uh exports
+00:50:27.720 of h100s where do we want to start
+00:50:30.200 gentlemen and you know Travis you've got
+00:50:32.359 some uh deep you're one of probably five
+00:50:35.160 American entrepreneurs who ran an at
+00:50:37.359 scale business with Uber and the DD
+00:50:39.839 relationship in China so you have a
+00:50:41.079 unique position of understanding
+00:50:43.520 business in this along with maybe Tim
+00:50:45.440 Cook and Elon are the only other two
+00:50:47.040 people who've really had an at scale
+00:50:48.319 business there maybe Disney they have
+00:50:50.000 Disneyland there
+00:50:51.280 yeah what's your take on the
+00:50:52.960 relationship and what's going here GE
+00:50:55.280 China how's China going to operate
+00:50:57.079 differently than the US Travis from your
+00:50:59.040 experience your point of view tell us a
+00:51:00.640 little bit about the culture and
+00:51:01.760 business ethics in China particularly as
+00:51:04.240 it relates to AI okay so okay so look we
+00:51:08.760 I had this thing this is I'm going back
+00:51:10.760 almost 10 years here Uber day we're
+00:51:13.440 running Uber
+00:51:14.960 China
+00:51:17.079 and I mean I cannot there's no way I
+00:51:20.880 could express the frenetic intensity of
+00:51:25.400 copying the that they would do on
+00:51:28.559 everything that we would roll out in
+00:51:30.880 China and it was so
+00:51:34.960 epically intense that I basically had a
+00:51:39.160 a
+00:51:40.160 massive amount of respect for their
+00:51:43.280 ability to copy what we did I I just
+00:51:46.119 couldn't believe it we would do real
+00:51:48.680 hard work make it we dial it and it
+00:51:51.319 would be epic and it would be awesome
+00:51:52.839 we'd roll it out and then like two weeks
+00:51:54.960 later boom
+00:51:57.119 they've got it a week later boom they've
+00:51:59.720 got it and of course I use that to drive
+00:52:02.720 our team and there's so many great
+00:52:04.680 stories I mean we had we had like
+00:52:08.880 400 Chinese
+00:52:11.000 Nationals in Silicon Valley at our
+00:52:13.359 offices in San Francisco we had a whole
+00:52:15.240 floor for the China growth team and it
+00:52:17.640 was primarily Chinese Nationals we had
+00:52:21.280 Billboards on the 101 in Silicon Valley
+00:52:24.839 in Chinese
+00:52:27.040 Uber Billboards to join our team in
+00:52:29.960 Chinese to to serve the Homeland right
+00:52:34.400 um it was like an allout War it was
+00:52:36.480 really epic it was epic and by the way
+00:52:38.440 when you went to that floor in our
+00:52:40.400 office you were in China like they red
+00:52:43.920 China style like the desks were
+00:52:46.000 literally smaller like the density of
+00:52:49.280 the space was it was China
+00:52:52.640 okay so but what happens is when you get
+00:52:55.440 really really good at coping and that
+00:52:58.280 time gets Tighter and Tighter and
+00:52:59.960 Tighter and Tighter and Tighter you
+00:53:01.520 eventually run out of things to
+00:53:03.760 copy and then it flips to creativity to
+00:53:07.480 creativity and Innovation now at the
+00:53:10.400 beginning you you know it's sort of all
+00:53:12.720 over the place like the kind of
+00:53:14.280 innovation when it was new was like what
+00:53:17.240 you know you're like really but as they
+00:53:19.720 exercise that muscle it gets better and
+00:53:22.680 better and better so if you want to know
+00:53:24.079 about the future of food like online
+00:53:26.480 food delivery you don't go to New York
+00:53:29.280 City you go to
+00:53:31.440 Shanghai right what's an example like of
+00:53:34.079 like something really Innovative their
+00:53:35.559 doesn't doesn't mwan do drone delivery
+00:53:37.440 and stuff like here's an example if you
+00:53:40.440 went to offices like let's say shanhai
+00:53:43.720 um Beijing any of the major cities hongo
+00:53:46.960 Etc the office buildings have hundreds
+00:53:49.760 of lockers around their
+00:53:52.839 perimeter so that everything that you
+00:53:56.000 get whether be food or anything else but
+00:53:57.720 especially food it's just the the
+00:54:00.640 couriers drop them off in these Lockers
+00:54:02.880 in the at the office buildings and then
+00:54:06.520 there are a whole other set of people
+00:54:09.040 that are sort of like inter office
+00:54:11.920 Runners Runners that then bring it to
+00:54:13.960 your
+00:54:15.040 office as an example like and when you
+00:54:17.119 see it you're like and it's epically
+00:54:19.319 efficient and it's you know they're
+00:54:21.119 taking advantage of their economics on
+00:54:23.200 labor and things like this it wouldn't
+00:54:25.319 exactly work that way here but a lot of
+00:54:28.720 the Innovation you will see coming out
+00:54:31.240 on Uber Eats or door
+00:54:33.200 Dash like the stuff that's coming out
+00:54:36.119 now is stuff that existed three years
+00:54:38.400 ago four years ago in China maybe longer
+00:54:41.359 so like eventually you cross that
+00:54:43.480 threshold of coping and you you're
+00:54:45.440 innovating and then you're leading and I
+00:54:48.559 think we see that in a in in a whole
+00:54:50.200 bunch of different places yeah here's a
+00:54:52.319 look at these smart lockers that you can
+00:54:54.000 see you're just available for sale when
+00:54:56.520 when you go online but yeah these things
+00:54:57.920 are crazy and you've experimented with
+00:54:59.960 those as well didn't you have like a
+00:55:01.079 commissary Concept in DTLA well look we
+00:55:04.559 okay so we got a couple things so we
+00:55:06.559 have in every one of our facilities and
+00:55:08.000 we've got you know hundreds of
+00:55:10.839 them we'll have lockers there so the The
+00:55:13.520 Courier then waves their phone in front
+00:55:15.200 of a camera the right Locker pops open
+00:55:17.319 they get the food from there and they go
+00:55:19.240 The Courier pickup is asynchronous from
+00:55:22.319 production of food you never you don't
+00:55:24.400 have lines anymore there's no more lines
+00:55:26.119 which then speeds up delivery shortens
+00:55:28.720 the amount of time shortens is reduces
+00:55:30.839 how much money you spend on
+00:55:34.280 couriers and we've got a whole other
+00:55:37.400 thing this doesn't work in it probably
+00:55:39.720 wouldn't work in China because well for
+00:55:42.200 a lot of reasons but let me explain what
+00:55:43.480 it is it's called picnic where if you
+00:55:46.480 are in an office building you order food
+00:55:50.760 you go to a website you order whatever
+00:55:53.039 it is from a 100 different restaurants
+00:55:54.400 those restaurants happen to be in my
+00:55:55.720 facilities
+00:55:57.119 and there'll be one Courier that goes to
+00:55:59.559 one of our facilities and picks up 50
+00:56:01.599 orders at a time brings it to an office
+00:56:03.839 puts it there's a shelf on every floor
+00:56:05.920 you get notified when your food arrives
+00:56:08.400 and it arrives the same T time every day
+00:56:10.960 and you just go to the Shelf get it on
+00:56:12.480 your floor and dip it right back into
+00:56:14.520 your meeting saving people time at the
+00:56:17.799 office giving them selection on food
+00:56:20.000 especially in food deserts but even
+00:56:21.880 going like there's a sweet green right
+00:56:23.599 down there in my current in my office
+00:56:25.440 right now I could save 20 minutes by
+00:56:28.079 just using our own service versus doing
+00:56:30.559 that and you get at the same price
+00:56:31.799 because the Courier economics The
+00:56:33.640 Courier is bring is delivering 50 orders
+00:56:35.799 at a time so Courier costs go basically
+00:56:38.319 to zero what do we think of the um of
+00:56:41.079 the export controls here should we chth
+00:56:43.599 be maybe Banning more h100s or other
+00:56:46.839 chip sets going there or is that futile
+00:56:49.160 I don't know the answer to that and I
+00:56:50.720 think that's I think saxs
+00:56:52.680 and president Trump will make a good
+00:56:55.240 decision but here here's the Curious
+00:56:57.520 Case of the export controls Nick I sent
+00:57:01.520 you a couple of tweets if you want to
+00:57:03.640 just bring this up so the first thing
+00:57:05.839 that people are claiming is that deep
+00:57:07.520 seek is getting access to a bunch of
+00:57:10.559 Nvidia gpus using Singapore as a back
+00:57:14.520 door so essentially you create a
+00:57:16.240 Singaporean shell company you place an
+00:57:19.200 order with Nvidia Nvidia fulfills that
+00:57:21.839 into Singapore and then the chips go
+00:57:24.119 someplace uhoh and so there's a bunch of
+00:57:27.559 examples where people are saying that
+00:57:29.520 you're talking about up to a quarter of
+00:57:31.799 all Nvidia
+00:57:34.079 Revenue goes into
+00:57:36.680 Singapore and the speculation right now
+00:57:39.160 is that 100% of those then go into China
+00:57:42.920 which is an enormous claim because
+00:57:44.640 that's a huge amount of of nvidia's
+00:57:47.079 Revenue now the interesting thing is if
+00:57:49.240 you actually try to understand well
+00:57:51.720 maybe that's not true and maybe it's
+00:57:53.359 sitting inside of Singapore this is
+00:57:55.799 where that kind of unravels so just to
+00:57:58.680 be clear like Singapore is about 250 or
+00:58:01.799 260 square miles like it's like a small
+00:58:04.720 small place also the Tik Tok
+00:58:06.559 headquarters
+00:58:08.240 and I tried to find out how many data
+00:58:10.520 centers are in Singapore and it's about
+00:58:12.000 a 100 and so you would think that okay
+00:58:14.760 well what does that mean 100 could mean
+00:58:16.839 anything but then you look at the energy
+00:58:19.160 and they publish that and all of those
+00:58:21.280 100 data centers consume about 876 megaw
+00:58:25.599 so these are are small data centers
+00:58:28.359 right and the entire industry is like a
+00:58:30.920 one and a half2 billion doll Revenue
+00:58:33.160 business so I do think that saaks and
+00:58:36.160 the administration are going to have to
+00:58:37.599 dig into this and figure out what their
+00:58:39.799 opinion should be but there is
+00:58:42.960 clearly a ton of of these chips going
+00:58:45.640 into
+00:58:46.799 Singapore I don't think anybody knows
+00:58:48.920 where they end up and the question is
+00:58:51.359 what does America think about that and
+00:58:53.160 why did we Implement these export
+00:58:55.079 controls in the first place and if
+00:58:56.319 there's a simple back door how do you
+00:58:58.079 want to react if the US finds a path I
+00:59:00.680 mean let's talk about like what happened
+00:59:02.720 with sanctions in Russia and other prior
+00:59:05.280 kind of sanctioning efforts around the
+00:59:07.720 world but as you kind of close the the
+00:59:10.839 floodgates and close access the
+00:59:14.559 buyer or the receiver of those goods or
+00:59:17.400 that Capital are going to look elsewhere
+00:59:19.880 they're going to look to create a market
+00:59:21.400 somewhere else and so if we do cut off
+00:59:24.359 access to Nvidia ch we do cut off access
+00:59:27.480 to US exports are we not kind of
+00:59:30.720 recognizing that the second order effect
+00:59:32.480 of that is that China will take IP that
+00:59:35.200 they've stolen copies that they've made
+00:59:36.920 to Travis's point and develop and build
+00:59:39.880 out their own Fabs and they'll find ways
+00:59:41.760 to copy the asml technology and you know
+00:59:44.599 at the end of the day there's a lot to
+00:59:45.960 put together and I know it's deeply
+00:59:47.319 technically complex but if ever there
+00:59:49.440 were a group of people in the history of
+00:59:51.400 human civilization to pull it off it's
+00:59:53.319 probably the modern Chinese to be able B
+00:59:56.160 to say let's go build our own it's worse
+00:59:58.240 than that our own infrastructure this is
+00:59:59.799 a great point but it's worse than that
+01:00:02.319 the models today are capable of
+01:00:03.920 Designing chips for you that don't rely
+01:00:06.400 on the most complicated technologies
+01:00:08.960 that asml creates I mean look one of the
+01:00:12.480 luckiest things that happened to Gro was
+01:00:14.640 we designed our chip at 14 nanometer
+01:00:17.720 which is effectively in the spectrum of
+01:00:19.359 Technology like VHS and beta so we chose
+01:00:22.920 a simple simple technology stack to
+01:00:25.440 build to
+01:00:27.200 the latest cuttingedge chips at like 2
+01:00:29.319 nanometer that use these complicated
+01:00:31.039 asml machines it's not clear that the
+01:00:33.520 yield is actually that good so why would
+01:00:36.280 you spend all that money and if China is
+01:00:38.280 forced to engineer its way around it
+01:00:40.680 yeah freeberg the answer to your
+01:00:41.720 question is they'll use these models to
+01:00:44.119 design chips that can be manufactured in
+01:00:46.559 simple ways and they'll make simple
+01:00:49.480 stuff so this I'm just not sure it
+01:00:51.799 solves the problem is my point well it
+01:00:53.559 doesn't and this is why I think like it
+01:00:55.359 doesn't solve the real problem which is
+01:00:57.720 how do we incentivize people in America
+01:01:00.000 to really out engineer and out innovate
+01:01:02.119 competition or AI I sure's in an era of
+01:01:05.039 extraordinary abundance and that
+01:01:06.880 abundance ultimately reduces the the
+01:01:09.400 drive for conflict and things are better
+01:01:11.200 off or the other version as well is that
+01:01:13.799 China could just bear the cost as a
+01:01:16.480 central authority of building an
+01:01:19.400 incredibly great model right and they
+01:01:22.240 will spend all the money and then they
+01:01:24.039 will tell the Chinese companies you can
+01:01:26.319 distill from this model for free because
+01:01:29.160 we have a golden vote and a seat on your
+01:01:30.760 board anyways which is effectively de
+01:01:32.400 facto what happens if you get big enough
+01:01:33.799 in China so there's that possibility as
+01:01:36.000 well where one Central Authority Bears
+01:01:38.599 the capex of creating something that
+01:01:40.200 then everybody else can can draft off of
+01:01:43.480 and let's talk a little bit about open
+01:01:45.160 AI uh they're in Washington asking for
+01:01:47.559 money now is that the uh is that the
+01:01:49.400 concept now is that the our government
+01:01:51.520 should back the rumor today was they're
+01:01:53.440 raising 40 billion at a 340 billion doll
+01:01:56.920 preone with MSA potentially being the
+01:01:59.319 lead I would love Travis's read on this
+01:02:01.960 because Travis has taken large money
+01:02:03.720 from from Masa in the past and has been
+01:02:05.799 through this but how does he think about
+01:02:08.160 make this decision obviously we all know
+01:02:09.760 and I mentioned you guys the meeting I
+01:02:11.079 had with him last summer where he
+01:02:12.559 basically kicked me out of the room
+01:02:14.240 because my company's not generative AI
+01:02:16.599 like someone said you should go meet
+01:02:17.720 with Masa so I'm like sure I'll sit down
+01:02:18.920 with him and start talking and he just
+01:02:20.240 like looked at me and he's like uh this
+01:02:22.559 is not generative AI I only do
+01:02:24.760 generative AI I think you're company
+01:02:26.200 will be very successful you will be very
+01:02:27.680 successful goodbye and he was walked out
+01:02:29.559 and that was like the end of everything
+01:02:31.160 so great yeah that's all he's doing now
+01:02:33.480 so this is the big BET right so okay so
+01:02:36.319 I need to I need to bust a myth I did
+01:02:38.400 not take money from Masa so he begged me
+01:02:41.799 to take money for years and we did not
+01:02:44.599 take it because he is
+01:02:47.480 a he's uh what's the word I'm looking
+01:02:50.119 for he's a he's a promiscuous investor
+01:02:53.240 so once he once he invests in you you
+01:02:57.160 should probably count on him in using
+01:02:59.359 your information and investing in all of
+01:03:00.960 your competitors at least that's
+01:03:02.480 historically what he's done so I didn't
+01:03:04.319 go there but then he just kept investing
+01:03:06.760 in all my competitors and they kept
+01:03:08.680 subsidizing these markets and then I'm
+01:03:10.920 like maybe I should have just saturated
+01:03:13.000 soaked up the money that was there so
+01:03:15.319 the one of the things you should think
+01:03:16.440 about like when you look at like oh is
+01:03:18.720 open AI taking a lot of money from aasa
+01:03:21.039 type situation is it's a little bit of
+01:03:23.960 like a double-edged sword is if you
+01:03:25.920 don't take that money it goes somewhere
+01:03:27.279 else but if you do take that money just
+01:03:29.760 know that whatever intelligence they get
+01:03:32.279 when they go through the process of
+01:03:33.520 giving you the money and maybe hanging
+01:03:35.400 around the board or who knows what is
+01:03:37.640 going to be used to do other things and
+01:03:40.000 that is the nature of the Masa machine
+01:03:42.559 so you're damned if you do damned if
+01:03:44.039 you're don't but you got to pick and if
+01:03:45.920 the money's going and it's flowing and
+01:03:48.319 and access to Capital is a strategic
+01:03:50.720 competitive weapon or Advantage you must
+01:03:53.359 you must play ball now we were able to
+01:03:56.279 we we we did stuff with the Saudis
+01:03:58.920 before even Vision fund existed they
+01:04:01.200 stroked a three and half billion dollar
+01:04:02.720 check when that was like the biggest
+01:04:04.000 thing that ever
+01:04:05.640 happened so we were okay with not having
+01:04:08.319 the M of money but that M of money then
+01:04:10.160 went to all of our
+01:04:11.680 competitors door Dash and so in this
+01:04:14.119 open AI context Travis I mean like just
+01:04:16.640 knowing what you know about AI is this
+01:04:18.240 going to be a competitive Advantage for
+01:04:20.599 Sam to raise 40 billion where does it go
+01:04:24.559 when he's up against
+01:04:26.440 we don't know what in China Microsoft
+01:04:29.559 alphabet and meta well look I think this
+01:04:32.359 goes to some of the things that shath is
+01:04:34.039 saying which is like if if constraint is
+01:04:38.440 the mother of invention or or whatever
+01:04:40.680 that that euphemism is the the the
+01:04:42.680 aphorism is if if that's the case you
+01:04:45.200 get into a real weird spot when you get
+01:04:48.760 over capitalized over capitalized in the
+01:04:52.960 in the Uber model like the war was
+01:04:56.160 subsidizing rides for market share
+01:04:58.720 essentially being the rapper for
+01:05:00.200 transportation and using the parlons we
+01:05:01.960 were using earlier to in the in in this
+01:05:04.839 discussion so it was necessary you're
+01:05:07.640 screwed if you don't the the question is
+01:05:11.039 do you get to this place of over
+01:05:12.880 capitalized too big you know too
+01:05:15.559 bureaucratic too loose too weak too soft
+01:05:20.279 and with when you have an open source
+01:05:22.039 model that's very smart and it's a
+01:05:24.359 thousand flowers blooming lots of
+01:05:26.359 innovation happening
+01:05:28.240 everywhere could be an overwhelming
+01:05:30.680 force uh now I think there's going to be
+01:05:32.960 different sectors treat it different
+01:05:34.359 ways where like going full stack in
+01:05:36.640 certain industry sectors is going to
+01:05:38.160 matter and then in other places having
+01:05:40.279 like a very sort of chaotic everybody
+01:05:42.160 does a little slice is going to be okay
+01:05:44.480 in other places and I think we could
+01:05:47.240 probably spend days or hundreds of
+01:05:50.400 dozens of hours just talking about the
+01:05:52.720 nuances there you know well it seems
+01:05:54.839 like there's some degree of relationship
+01:05:57.119 between the Stargate announcement with
+01:05:59.079 Masa and Sam standing up there with
+01:06:01.440 Larry and then Sacha showing up in the
+01:06:03.319 conversation as well and this raise and
+01:06:06.599 the idea that more Hardware more
+01:06:08.960 infrastructure faster creates emote and
+01:06:13.000 I guess that's the real thing you have
+01:06:14.640 to believe which becomes harder to
+01:06:17.200 believe in the context of what happened
+01:06:18.880 in the last week I personally think that
+01:06:21.520 these models are and I've said this for
+01:06:24.480 a while it doesn't make sense to one
+01:06:27.599 large do everything model this mixture
+01:06:30.240 oferts architecture ultimately you can
+01:06:32.920 kind think about taking a large model
+01:06:34.880 making two copies of it and then trying
+01:06:36.520 to shrink each model down to whatever
+01:06:39.440 the necessary so that you run two models
+01:06:41.760 in less frequently meaning that that
+01:06:43.799 combination of two models uses less
+01:06:46.319 power and takes less time and then you
+01:06:49.160 do the same thing again and you shrink
+01:06:50.520 it down to four and then 12 and
+01:06:52.480 eventually you have lots of smaller
+01:06:54.400 models some of which in some cases are
+01:06:56.839 experts at one thing like doing
+01:06:58.200 mathematics or reading or writing but
+01:07:00.400 the reality is we don't know how whether
+01:07:02.520 humans have kind of thought about the
+01:07:03.760 world the right way that the AI May
+01:07:05.400 resolve to having smaller expert models
+01:07:07.640 that we don't really understand why
+01:07:08.880 that's the expert on something but you
+01:07:10.680 have a network of very small kind of
+01:07:12.279 things that work together and that
+01:07:13.720 ultimately leads to a like
+01:07:15.079 commoditization not just in kind of
+01:07:17.279 model cost and in development and
+01:07:19.400 runtime but also in like what's needed
+01:07:23.079 like do you really create much of an
+01:07:24.359 advantage by having all these dat c key
+01:07:27.319 this is the key point I think freeberg
+01:07:28.640 is you're not going to get an advantage
+01:07:30.000 by having more h100s at a certain point
+01:07:32.640 and the actual Advantage is going to be
+01:07:34.400 in the IP and owning content and the
+01:07:36.480 really smart thing to do would be for
+01:07:38.319 somebody to go buy Reddit Kora the New
+01:07:40.920 York Times The Washington Post and
+01:07:42.839 Disney and take all that IP and then not
+01:07:45.279 allow other people to use it sue the
+01:07:46.920 hell out of them every time they try I
+01:07:48.559 take Washington Post off that list but
+01:07:50.240 yes but I'll say New York Times comes
+01:07:53.000 off the list too well whatever I mean
+01:07:55.039 all those
+01:07:56.119 are definitely going to be what would be
+01:07:59.480 great about those is you could then like
+01:08:01.039 a patent troll then tell anybody else
+01:08:03.480 who's absorbed New York Times stories
+01:08:05.400 historically or Disney and you could
+01:08:07.680 just sue the hell out of them and then
+01:08:09.240 you've got the best most proprietary one
+01:08:12.480 you're describing you're describing text
+01:08:14.640 so you're describing text content which
+01:08:16.279 is a fraction of where this is important
+01:08:18.880 so video I think you can recognize that
+01:08:21.158 Google's YouTube Content Library is
+01:08:23.520 probably 100 to 200 times larger than
+01:08:25.960 the rest of the internet
+01:08:27.600 combined to do it well actually Jas
+01:08:31.399 you're such an old school copyright guy
+01:08:33.319 you're such an old school Med guy by way
+01:08:35.560 sorry I believe in artists and their
+01:08:37.238 right to content yeah we've had a series
+01:08:39.080 of conversations that I I feel very
+01:08:41.000 confident to tell you that they do have
+01:08:42.960 the right in in a good chunk of that
+01:08:44.520 content not in a lot of the copyrighted
+01:08:46.120 content that the big media companies
+01:08:47.279 have given them but a lot of user
+01:08:48.719 generated content they do have the right
+01:08:50.640 and they are using it and they're
+01:08:52.000 legally doing it and then there's the
+01:08:54.319 separate kind of body of content which I
+01:08:56.040 think comes for example from Tesla Tesla
+01:08:58.238 has an extraordinary advantage that they
+01:08:59.880 were really pressed to put cameras on
+01:09:01.479 everything years ago and that gives them
+01:09:03.719 this ability to build models that do
+01:09:05.238 self-driving so I think that there's a
+01:09:07.399 lot more data advantage that arises in
+01:09:10.120 certain industry segments than others
+01:09:11.799 and that's where the moat will lie and
+01:09:13.719 that moat will allow you to actually
+01:09:15.000 build better products that get you a
+01:09:16.319 more persistent advantage in gathering
+01:09:17.759 more data that's ultimately where I
+01:09:19.759 think this resolves to it may not
+01:09:21.120 necessarily be about who's got the
+01:09:22.679 biggest data center Network yeah I mean
+01:09:25.158 here the thing guys at some point the
+01:09:27.679 amount of data becomes the long pole in
+01:09:30.560 the tent at some point the quality of
+01:09:33.799 the algorithms becomes a long pole in
+01:09:35.439 the tent and more compute is not going
+01:09:37.600 to change that we I don't think we're
+01:09:40.000 there yet that's the one thing that
+01:09:42.679 counters the cheap AI means more AI is
+01:09:46.600 is there enough data and or algorithms
+01:09:50.040 to make the more AI to make it work and
+01:09:53.080 I do agree with the the siloing it and
+01:09:55.560 getting expert and getting better in
+01:09:57.320 these ways um but I think this is an
+01:09:59.679 interesting sort of trade-off between
+01:10:01.239 some of these these variables I got just
+01:10:03.199 got offered 2500 bucks to put Angel my
+01:10:05.520 book into because Harper Collins did a a
+01:10:08.199 deal with uh Microsoft and so I'm
+01:10:11.040 thinking 500 per year I think it's for
+01:10:13.480 three years is the license and they just
+01:10:15.280 did this blanket license for every book
+01:10:17.120 they didn't look at your sales they
+01:10:18.360 didn't look at how desirable it was it
+01:10:20.120 was just like a blanket deal everybody
+01:10:21.520 gets 2500 bucks per book for 3 years and
+01:10:24.560 I think I'm going to just do it just to
+01:10:26.159 support proper licensing so that people
+01:10:28.920 can start going down uh this path but
+01:10:30.679 let's get into Doge it's been a uh I
+01:10:32.800 think we're in 10 days into this
+01:10:34.679 Administration and um Trump formally
+01:10:38.600 established Doge the department of
+01:10:40.719 government efficiency in an executive
+01:10:43.080 order apparently elon's been spending a
+01:10:45.000 lot of time at the offices bunch of wins
+01:10:49.000 doge is claiming on the interwebs to be
+01:10:52.239 saving American taxpayers around a
+01:10:54.080 billion dollars a day $3 for every
+01:10:56.320 American every day about $1,000 a year
+01:10:58.520 in savings for each US citizen and they
+01:11:00.600 claim they can triple this and so for a
+01:11:02.679 family five that would be about what
+01:11:03.840 $155,000 a year maybe $60,000 during
+01:11:06.480 Trump's uh second term we got $36
+01:11:09.280 trillion in debt have fun with some
+01:11:10.800 numbers there if you
+01:11:12.239 like but the key announcement was a very
+01:11:16.760 similar to the Twitter execution the
+01:11:19.719 ability for people to resign done in a
+01:11:22.560 very kind way eight months of severance
+01:11:24.880 is is being offered to federal workers
+01:11:28.480 they expect 5 to 10% of federal workers
+01:11:30.320 to take this buyout
+01:11:32.400 and it's
+01:11:34.560 um I mean this could be something like a
+01:11:37.560 hundred billion dollar in savings eight
+01:11:39.600 months of severance um is not actually a
+01:11:42.760 legal concept that you can do so these
+01:11:44.600 are some sort of
+01:11:46.239 buyouts and there's obviously some hand
+01:11:48.800 ringing about it but I think they're off
+01:11:50.440 to a good start they've also been
+01:11:51.960 canceling leases as we talked about you
+01:11:53.960 know pre-election
+01:11:55.840 there is so much space not being used
+01:12:00.280 that uh the federal government is
+01:12:01.880 terminating a ton of stuff they own and
+01:12:04.440 going to sell it and consolidating folks
+01:12:06.639 and at the same
+01:12:09.080 time all of this is happening everybody
+01:12:13.800 has to return to office who wants to go
+01:12:17.920 first here with uh you know the sort of
+01:12:20.440 first 10 days of
+01:12:21.840 Doge I see some eggplant emojis in the
+01:12:24.440 group chat first 10 days how do group
+01:12:27.520 chat what's that about I'm adding you
+01:12:29.639 right now how are you not in the group
+01:12:30.760 chat I'm adding you right now I'm
+01:12:32.920 literally every time one of these hits
+01:12:34.639 the group chat it's just hilarious
+01:12:37.159 eggplants people are like oh my God
+01:12:40.000 we're not burning
+01:12:42.440 tax and and the eggplant always comes
+01:12:44.880 from free bird first I'm outing him as
+01:12:47.159 an egg I'm I'm a I'm a big Doge eggplant
+01:12:50.400 guy oh so much
+01:12:52.440 eggplant oh so freeberg tell us about
+01:12:55.639 how much eggplant you love this there's
+01:12:57.880 nothing that I would say is particularly
+01:12:59.639 surprising in the first week a lot of
+01:13:01.360 this was kind of talked about leading up
+01:13:03.480 to the
+01:13:04.679 inauguration VI and Elon published their
+01:13:07.480 piece in the Wall Street Journal a
+01:13:08.840 couple weeks ago they talked about the
+01:13:11.080 mechanisms of action that they could
+01:13:13.520 utilize to kind of Drive reduction in
+01:13:16.320 cost one of which was come back to the
+01:13:18.159 office another one of which is you know
+01:13:21.400 giving people a buyout offer and by the
+01:13:23.679 way the buyout offer is not new Bill
+01:13:26.159 Clinton did the same thing during his
+01:13:27.960 presidency yeah if you guys remember
+01:13:29.880 when he tried to balance the budget get
+01:13:31.520 to a surplus which he did successfully
+01:13:33.960 and his intention was to actually reduce
+01:13:35.760 us Death To Zero by the year 2013 and he
+01:13:38.639 had a very specific economic and fiscal
+01:13:40.520 plan for doing that which he put into
+01:13:42.080 place incredible era I think we're
+01:13:44.960 seeing them take the actions that they
+01:13:46.800 said they would do they said they would
+01:13:48.560 demand to employees federal employees
+01:13:50.840 come back to the office and they assumed
+01:13:52.960 some degree of attrition from that and
+01:13:54.480 now the bi offer and we'll see how far
+01:13:57.280 things go with the courts with respect
+01:13:59.639 to their ability to stop a legislative
+01:14:02.560 or statutorily mandated spending there's
+01:14:05.440 a big question mark here on how much
+01:14:07.760 Authority the executive branch has in
+01:14:10.560 stopping spending and how much they're
+01:14:13.920 not allowed to stop because it's
+01:14:15.880 demanded by law it's demanded by
+01:14:17.360 Congress and Acts or laws that have
+01:14:18.960 passed and so that's going to be the big
+01:14:21.320 test here over the next couple of months
+01:14:23.040 a lot of lawsuits will fly but courts
+01:14:25.440 will ultimately adjudicate and we'll see
+01:14:28.000 how far the Doge intention can take
+01:14:30.480 things and then there's a separate set
+01:14:32.280 of efforts around legislative action
+01:14:34.239 here there's about a $2 trillion annual
+01:14:36.880 deficit right now in the United States
+01:14:38.800 um federal government 2 trillion a year
+01:14:40.760 and if you look at the the doo book on
+01:14:43.440 why countries go broke you know there's
+01:14:44.840 a pretty simple kind of arithmetic in
+01:14:46.520 there which is not complicated it's just
+01:14:48.480 at the end of the day the US needs to
+01:14:51.000 get our federal deficit down below 3% of
+01:14:54.199 GDP which means we've got to cut about a
+01:14:56.760 trillion trillion one of spending if we
+01:14:59.239 can do that then we're in kind of a more
+01:15:00.840 economically sound place by the way a
+01:15:02.840 really important point which is in the
+01:15:04.480 doo interview as you cut spending
+01:15:07.280 interest rates will come down because
+01:15:09.480 right now there's a pretty significant
+01:15:11.120 selloff in treasuries and a lot of risk
+01:15:12.880 associated with the US's ability to
+01:15:14.639 deliver um its debt obligations over the
+01:15:17.159 next 30 Years which is why 30-year
+01:15:18.719 treasuries are at 5% right now even
+01:15:21.320 though the Federal Reserve is cutting
+01:15:22.760 rates the rate on treasuries is going
+01:15:25.199 people are still selling off treasuries
+01:15:27.199 that also inflationary it's also
+01:15:29.239 inflationary Dave yeah for sure and so
+01:15:31.560 as we cut spending we also will see that
+01:15:34.520 the intent that the there will be less
+01:15:36.600 inflation and the US ability to pay back
+01:15:39.400 their debt obligations over the next 30
+01:15:41.199 Years goes up so the rates will come
+01:15:42.880 down and so there's actually a really
+01:15:44.719 nice kind of cyclical effect as these
+01:15:46.440 Cuts start to come into play the rate at
+01:15:48.480 which you can make the cuts actually
+01:15:50.400 affects the the amount of cuts you have
+01:15:51.840 to make the faster you make the cuts the
+01:15:53.520 less you have to cut and that's a key
+01:15:55.360 kind of principle going into this which
+01:15:56.920 I think we should expect a big Whirlwind
+01:15:59.080 of cutting in the next couple of months
+01:16:00.440 or an attempt to the courts will
+01:16:02.040 adjudicate what needs to be legislated
+01:16:03.960 and then they're going to go to Congress
+01:16:05.080 and start to try and get some of these
+01:16:06.239 Cuts in but I will tell you once again
+01:16:07.800 after our visit in DC last week there
+01:16:10.120 was not a single member of Congress that
+01:16:11.679 I spoke with who views cutting to be a
+01:16:13.840 mandate for them in the laws that
+01:16:15.800 they're trying to pass they all have a
+01:16:17.080 very different kind of agenda than D
+01:16:19.800 well look this is this is really one of
+01:16:21.800 those interesting things where it's like
+01:16:24.120 the difference between legislature and
+01:16:26.679 executive branch is like doge is really
+01:16:30.440 bringing it to life is like what powers
+01:16:33.639 and controls does the executive branch
+01:16:35.560 have to spend and not to spend and
+01:16:39.040 especially to not spend when it's been
+01:16:41.239 legislated to spend this is where the
+01:16:44.120 action is like there's no law that says
+01:16:47.280 you know you can give a bunch of folks
+01:16:49.920 eight months of severance and they're
+01:16:51.840 gone and you don't replace them there's
+01:16:53.480 no law that says that the executive
+01:16:55.679 branch and again I don't know the all
+01:16:57.239 the the laws sort of the rules or laws
+01:16:59.760 about whether you know how they go about
+01:17:01.600 doing it but let's say presumably
+01:17:03.480 they're doing this and there's some
+01:17:05.199 legal backing behind it like they just
+01:17:08.280 go and do it and now they're not
+01:17:09.440 spending money if it was really hard to
+01:17:12.159 hire people and they could even make it
+01:17:14.520 harder to hire people do they do they
+01:17:16.520 fight bureaucracy with bureaucracy that
+01:17:18.639 it's harder to spend harder to hire
+01:17:21.120 people harder to procure certain things
+01:17:23.480 that you're supposed to spend money on
+01:17:26.400 you can reduce the spend through a lot
+01:17:28.480 of very interesting nuanced friction
+01:17:31.280 rules that they're in control of yeah
+01:17:33.440 some friction could slow things down
+01:17:35.520 they're talking about putting competency
+01:17:37.080 tests in they're talking about giving
+01:17:38.960 people reviews and maybe they have to
+01:17:40.880 hit some standards and the gentleman's
+01:17:42.159 riff I mean when you force people to
+01:17:43.960 come back to the office you're going to
+01:17:44.880 lose 5 10% of people and 10% take the
+01:17:47.719 buyout and now all of a sudden we're
+01:17:49.000 saving things I mean it'll be
+01:17:50.159 interesting to see if it's 5 or 10% on
+01:17:52.520 RTO I mean that it could be a lot more I
+01:17:55.120 mean what I'm hearing about these
+01:17:56.480 buildings is that they are super super
+01:17:59.520 empty like next level empty and
+01:18:03.760 uh let's just say I'm really glad I
+01:18:06.360 don't hold like I'm an owner that has a
+01:18:09.560 bunch of leases yeah to the to the the
+01:18:12.639 federal government right now yeah oh the
+01:18:14.520 government and you know what the
+01:18:15.360 interesting thing about those leases I
+01:18:16.800 was talking to the DM at density which
+01:18:18.400 does people counting and buildings so
+01:18:19.760 they obviously um you know very
+01:18:21.280 interested in that the government is
+01:18:23.040 such a reliable
+01:18:25.120 yeah client that they're all on one-year
+01:18:27.600 leases so people don't you know do what
+01:18:29.719 they do with startups we just force them
+01:18:31.120 to do five or 10 years because they know
+01:18:32.800 hey this company could go out of
+01:18:33.760 business they're just like yeah yeah
+01:18:35.120 we're just on a rolling year-over-year
+01:18:36.360 lease so you can actually just cut these
+01:18:38.600 it's going to flood the market Shaman
+01:18:40.560 your thoughts on also the stopping of uh
+01:18:44.159 because they're obviously going for it
+01:18:46.199 they stopped all payments which is a
+01:18:49.040 part of the Playbook I saw a Twitter up
+01:18:50.560 close and personal which is hey let's
+01:18:53.239 let's turn off subscriptions and see you
+01:18:55.000 know if anybody's using these
+01:18:56.239 subscriptions
+01:18:57.440 basically obviously a judge got involved
+01:18:59.679 in that but Aid going to other countries
+01:19:02.239 you know we're just starting to look at
+01:19:04.080 what are we actually sending to other
+01:19:05.360 countries and for what purpose and then
+01:19:07.360 there's a naming and shaming and maybe
+01:19:10.080 appealing to the public through social
+01:19:12.120 media and saying hey do you want this
+01:19:13.600 money going here when hey we have
+01:19:16.239 tragedies in our own country that need
+01:19:17.880 to be solved we have healthare we have
+01:19:20.080 houses burned down we have
+01:19:21.719 infrastructure and so maybe you could
+01:19:23.520 talk a little bit about heart and minds
+01:19:25.320 and winning those and what your general
+01:19:26.960 take is so far I think that we have to
+01:19:28.520 remember that we're only n or 10 days
+01:19:30.320 into Doge so the fact that we're already
+01:19:32.800 at a billion dollars a day is really
+01:19:35.880 incredible and there has really been no
+01:19:38.880 discernable impact there has been a lot
+01:19:41.719 of fissures of fake news and
+01:19:43.560 misinformation but the real impacts have
+01:19:45.400 been negligible To None since they
+01:19:47.040 started making those cuts I think that
+01:19:49.760 doge is a three layer onion so layer one
+01:19:53.679 is the people
+01:19:55.679 we have now given a pretty generous
+01:19:58.199 offer to
+01:20:00.360 folks and I think Elon said it it was
+01:20:03.000 like basically the maximum allowed by
+01:20:05.360 these contracts but they tried to do a
+01:20:06.920 very good thing there the second as you
+01:20:08.719 guys just said the second layer of the
+01:20:10.520 onion is going to be the
+01:20:12.239 infrastructure all the buildings all the
+01:20:14.679 physical plants that the government owns
+01:20:17.159 and operates that may be empty that may
+01:20:19.120 be idle and getting them back in into
+01:20:22.159 private hands so that they be they can
+01:20:23.679 be repurposed that's going to save a ton
+01:20:25.400 of money but both of them will pale in
+01:20:29.040 comparison to the third layer of this
+01:20:30.719 onion which is the it and the services
+01:20:34.639 and the spend and what I mean by that is
+01:20:36.880 when you read how the department is set
+01:20:39.360 up at the center and nucleus of every
+01:20:43.199 single one of these Doge teams is an
+01:20:46.520 engineer and I think the reason is that
+01:20:48.679 they can get into these systems of
+01:20:50.159 record and start to trace where the
+01:20:52.280 money is going and I think when you
+01:20:54.199 start to on cover Through
+01:20:56.840 forensic
+01:20:58.679 analysis where these dollars are going
+01:21:01.360 and how it's spent that's probably how
+01:21:04.600 you're going to close the gap from a a
+01:21:06.800 trillion to and I suspect to be honest
+01:21:09.120 it could be more than two trillion
+01:21:10.960 dollars when it's all said and done that
+01:21:12.800 is an enormous amount of waste and it's
+01:21:16.600 unproductive so I'm very excited for
+01:21:19.080 what happens over this next little while
+01:21:20.600 just the the transparency is going to be
+01:21:22.320 incredible guys Just for kicks check the
+01:21:24.800 out right 2009 if we took if we took
+01:21:29.320 2019 spend right the year before Co and
+01:21:33.199 put it up against 2024 revenues $500
+01:21:36.760 billion Surplus wow there go that's
+01:21:39.400 crazy versus versus the1 A5 trillion
+01:21:42.080 dollar deficit so a two2 trillion swing
+01:21:46.719 on like a four four yeah on a$ four4
+01:21:49.760 trillion doll budget that's all
+01:21:52.159 waste well a lot of we've got a trillion
+01:21:55.560 dollars a year of interest payments now
+01:21:57.280 I mean this is guys this is the thing
+01:21:59.159 like there's two deflationary things
+01:22:02.199 that we need one is Doge and two is
+01:22:06.679 where AI is going to take us if it
+01:22:08.600 really does its thing and that will keep
+01:22:11.440 us in an okay spot economically but like
+01:22:13.800 we gota this spend has to go or we're in
+01:22:16.040 we're in sort of like we're in Greek
+01:22:18.639 Greek territory if that makes
+01:22:20.880 sense yeah and I think this is um the
+01:22:23.560 popular support for this this is pretty
+01:22:26.040 incredible I'll just go through a couple
+01:22:27.760 of numbers with you you know looking at
+01:22:31.360 what people agree with that Trump's
+01:22:33.320 doing early on and what they disagree
+01:22:35.719 with you know obviously we talked about
+01:22:37.960 it last week chamath pardoning the
+01:22:39.520 January 6 protesters and you know ending
+01:22:43.560 requirements for government employees to
+01:22:45.040 report gifts that's sort of like the
+01:22:46.440 Supreme Court thing these are
+01:22:48.080 tremendously unpopular and then if you
+01:22:50.000 go and you look at downsizing the
+01:22:52.080 federal
+01:22:53.120 government and imposing a hiring freeze
+01:22:56.320 and requiring all federal employees to
+01:22:58.760 return to an office these are incredibly
+01:23:00.960 popular and Elon tweeted these uh these
+01:23:03.480 graphs out as well so right now you have
+01:23:06.360 Trump at the Apex of his political
+01:23:08.800 popularity and you have these issues
+01:23:11.600 specifically in a very
+01:23:13.880 polarized time as incredibly popular
+01:23:17.320 he's also done an incredible job with
+01:23:20.480 the Border that's another
+01:23:21.840 consensus-based issue so Trump now has
+01:23:25.120 downsizing the government and
+01:23:26.520 controlling immigration and getting rid
+01:23:27.880 of violent immigrants as incredibly
+01:23:30.840 popular parts of his mandate and that's
+01:23:33.600 the big win for him if you look at his
+01:23:35.719 popularity Trump is massively more
+01:23:38.480 popular than he was the first time round
+01:23:40.199 he's at 49% compared to last time 44
+01:23:42.840 he's still the historically least
+01:23:44.800 popular president ever so my point in
+01:23:47.560 all of this is when you see Trump doing
+01:23:49.960 things like his meme coin or you know
+01:23:53.800 taking on Pete Bud Jed today all that
+01:23:55.920 kind of trump 1.0 negativity grifting
+01:23:58.719 that's the stuff that's going to derail
+01:24:00.159 this but the stuff that's not going to
+01:24:01.679 derail it is focusing on the Trump 2.0
+01:24:03.960 agenda and that is as somebody who was a
+01:24:06.760 never Trumper as you all know in the
+01:24:08.199 audience and now somebody who is
+01:24:09.960 supporting him
+01:24:11.239 relentlessly that margin that extra 10%
+01:24:14.440 of people who support him right now is
+01:24:15.960 me and other folks who are looking at
+01:24:17.920 the people who put around him he has to
+01:24:20.320 stay with the 2.0 agenda as hard as it
+01:24:22.400 is and stay away from the Steve Bannon
+01:24:24.040 agenda
+01:24:25.000 and the grifting those are the things
+01:24:26.560 that will take this all apart so that's
+01:24:28.080 my appeal to them I told everybody I
+01:24:30.000 give a letter grade I give them a b so
+01:24:31.719 far could do better but pretty good less
+01:24:34.760 of the meme coin less of the dra you
+01:24:37.040 know we have to make sure that we're not
+01:24:38.239 dragging dishwashers and teachers and
+01:24:41.080 and people who've been here 20 years out
+01:24:42.440 of the country and it's going to be a
+01:24:44.239 very DEA important um approach here if
+01:24:48.719 this is going to be sustained and I
+01:24:50.280 think it's a coin toss if he will be
+01:24:52.239 able to maintain his popularity
+01:24:54.960 and what he did today with this like I
+01:24:56.320 don't know if you saw the Pete budha Jed
+01:24:57.760 he was attacking him over this tragedy
+01:25:00.080 that's the kind of stuff people don't
+01:25:01.159 want less of that please more of the
+01:25:03.480 Doge that's my little rant can we talk
+01:25:06.639 to Travis about wh now Travis can I ask
+01:25:09.280 have you taken a production wayo yes
+01:25:11.840 what do you think about it and do you
+01:25:13.320 think that's the future of
+01:25:14.239 transportation and how does Uber play
+01:25:16.040 into the uh self-driving car business
+01:25:19.800 now I mean look it it's funny because as
+01:25:23.080 you guys know back in the uh Back in the
+01:25:25.639 Day 2015 16 17 we had our own autonomous
+01:25:30.040 vehicles out there and I remember the
+01:25:32.520 first one of ours that I
+01:25:36.239 took and I got in the back and all I had
+01:25:39.040 was a stop button a big red stop button
+01:25:41.239 that I could push if things got weird
+01:25:43.600 yeah and uh I remember this is in
+01:25:45.199 Pittsburgh where we had our robotics
+01:25:46.600 Division and autonomy division at Uber
+01:25:49.320 and I got out of that car and literally
+01:25:52.760 it's like I got off a roller coaster
+01:25:54.480 like my legs were I could not stand
+01:25:56.840 straight like I was like a little wobbly
+01:25:58.800 cuz I was so freaked out and adrenaline
+01:26:01.080 was
+01:26:02.239 pumping you get in a wayo today and it's
+01:26:05.000 like you you're not even thinking twice
+01:26:07.440 you're just like it's all good you just
+01:26:09.000 get in you get out now part of it just
+01:26:11.000 the normalization it's
+01:26:12.679 like it's just working and it that
+01:26:15.800 normalizing matters in terms of the
+01:26:18.080 psychology around it is we're just there
+01:26:20.600 so it just works now is it a optimized
+01:26:23.679 experience for ride sharing no like the
+01:26:26.159 Cyber cab is sort of the ultra sort of
+01:26:29.560 destination for what it means to get
+01:26:32.320 transported across the city in a vehicle
+01:26:35.280 that is not meant for a human to drive
+01:26:37.840 no steering wheel you know folks
+01:26:39.920 potentially even facing each other you
+01:26:41.800 know just a whole bunch of different
+01:26:44.679 formats the the technology works we know
+01:26:47.520 that there are different ways to get to
+01:26:48.840 the technology I think the the probably
+01:26:50.560 the most interesting thing that we
+01:26:51.920 should be or one of the most interesting
+01:26:54.280 things to be thinking about maybe
+01:26:55.760 there's a few first is a cheap
+01:27:00.480 AI makes cheap
+01:27:03.719 autonomy okay so if as as cheap AI gets
+01:27:07.080 out there and proliferates and gets
+01:27:08.440 broadly distributed we should expect
+01:27:10.480 autonomy gets easier and easier and
+01:27:12.040 easier and you see some of the stuff
+01:27:13.679 that's happening with Tesla and FSD
+01:27:16.480 their new models are like I think in a
+01:27:18.719 three-month period he they went up like
+01:27:20.679 10x in terms of performance meaning in
+01:27:23.800 number miles per per human intervention
+01:27:26.920 like they're seeing you know that's the
+01:27:28.600 thing that elon's seeing right now
+01:27:29.920 because cheap AI cheap good AI makes
+01:27:33.639 cheap good autonomy and that's a thing
+01:27:35.400 we need to connect the dots on I think
+01:27:37.679 the thing then you go one level past
+01:27:39.760 that you're like okay there's the
+01:27:41.080 possibility literally that autonomy just
+01:27:43.719 gets easy and commoditized similar to
+01:27:45.639 what's happening to AI the next part is
+01:27:49.199 okay you get the hardware you're like
+01:27:50.520 okay manufacturing's hard that's
+01:27:51.960 interesting that could be a long pull in
+01:27:53.400 the tent I think that that could be a
+01:27:55.840 place where Tesla of course has huge
+01:27:58.320 Advantage you then look at who are wh's
+01:28:01.040 partners are they getting set up to do
+01:28:03.400 the right kind of manufacturing and get
+01:28:05.320 scale of cars out there but then there's
+01:28:07.960 like this dark horse that nobody's
+01:28:10.840 talking about which is it's called
+01:28:15.040 electricity It's called Power and all
+01:28:18.480 these vehicles are electric
+01:28:20.480 vehicles and if you said you know I just
+01:28:22.840 did some like quick back of the envelope
+01:28:25.040 Cals if all of the miles in California
+01:28:30.000 went EV ride sharing you would need to
+01:28:33.119 double the energy capacity of California
+01:28:36.480 right let's not even talk about what it
+01:28:38.000 would take to double the energy capacity
+01:28:39.719 in the grid and things like that in
+01:28:41.080 California like let's not even go there
+01:28:43.400 even getting 20% more 10% more is going
+01:28:46.040 to be a
+01:28:47.520 gargantuan 5 to 10 year
+01:28:51.639 exercise you know look I live in you
+01:28:54.199 know I live in LA it's a nice area in LA
+01:28:57.440 and we have power outages all the
+01:28:58.920 freaking time because the grid is effed
+01:29:01.040 up and they're sort of upgrading it as
+01:29:02.880 things break that's literally where
+01:29:04.440 we're at in La one of the most affluent
+01:29:07.000 neighborhoods in La that's just where we
+01:29:09.480 are so I think the the sort of the Dark
+01:29:14.040 Horse kind of hot take
+01:29:17.679 is combustion
+01:29:20.480 engine
+01:29:22.560 AVS because I I don't know how you can
+01:29:25.719 go fast getting AV out there really
+01:29:28.800 really really
+01:29:30.440 massive with the electric grid as it is
+01:29:34.000 what do you think about regulation in
+01:29:35.400 this regard because
+01:29:36.760 obviously there was the
+01:29:39.600 cruise you know a person got hit by a
+01:29:42.320 regular car they dragged it the whole
+01:29:44.560 thing imploded we had uh at Uber the um
+01:29:48.080 the tragedy in Arizona where somebody
+01:29:49.719 was playing Candy Crush when they were a
+01:29:51.199 safety driver you know what is what is
+01:29:53.520 your outlook on on this stuff rolls out
+01:29:56.440 and somebody gets hurt and then that you
+01:29:59.400 know tens of thousands of cities that
+01:30:01.080 you brought Uber to how receptive are
+01:30:04.080 they going to be towards this and what
+01:30:05.520 do you think the regulatory framework
+01:30:07.280 will be
+01:30:08.239 like you know I think similar to how you
+01:30:10.800 get normalized it's like you're used to
+01:30:13.280 getting in a car it's normalized
+01:30:15.119 psychologically and in the sort of
+01:30:16.920 public sphere the public mindset you get
+01:30:19.600 used to it so like we're getting to a
+01:30:22.360 place where these vehicles are provably
+01:30:24.840 safer than human driven Vehicles so yes
+01:30:27.679 there are mistakes but they are just
+01:30:29.920 provably safer and people are just
+01:30:31.679 getting used to it and that's a big part
+01:30:34.119 of the cycle so I think we're getting
+01:30:36.600 out of the hysteria and we're getting
+01:30:38.719 into like yeah it's just great like talk
+01:30:42.080 to people who are using it and they feel
+01:30:45.320 safer from a of course like I I I feel
+01:30:48.920 like we're going to get in less
+01:30:50.040 accidents but also I feel safer because
+01:30:52.520 there's like there's less chance of like
+01:30:54.040 an interpersonal problem that does
+01:30:56.040 happen especially you
+01:30:57.880 know late at night you know when people
+01:31:00.280 are out partying and things like this
+01:31:02.440 there's just like there is a level of
+01:31:04.199 safety on many different aspects
+01:31:07.840 to for the drive no it's for the yeah
+01:31:10.600 there's like there's there's safety
+01:31:12.520 aspects across the board sure right what
+01:31:14.920 do you think about byd and like you sort
+01:31:16.960 of mentioned everybody getting to
+01:31:18.520 autonomy at the same time obviously wh
+01:31:20.199 Mo's got the biggest lead Tesla's behind
+01:31:22.600 them byd and about 10 other providers
+01:31:24.719 are out there doing this does does you
+01:31:27.480 know do 10 players get there at the same
+01:31:29.159 time and then it's just who can
+01:31:31.400 incorporate these into their Network and
+01:31:33.040 what do you think of the strategy that
+01:31:34.119 Uber's doing of hey we've got these
+01:31:35.880 eight Partners we'll take everybody into
+01:31:37.840 the network and we'll manage people
+01:31:40.239 vomiting the back of cars cleaning them
+01:31:41.960 and charging them so look I think the
+01:31:44.639 big issue you have with anything Chinese
+01:31:46.480 is will you be allowed to bring it in
+01:31:47.880 the
+01:31:49.080 US just period like you maybe kind of
+01:31:52.480 can now what happens with teror will
+01:31:54.360 there be blocks and bringing this kind
+01:31:55.920 of Technology into the US what happens
+01:31:58.440 there I think that's a whole thing the
+01:32:00.239 bet that Uber makes is
+01:32:02.239 that whether consciously or
+01:32:04.119 subconsciously it's like will AI will
+01:32:07.480 cheap democratized AI happen and if so
+01:32:11.520 does that make cheap democratized
+01:32:13.719 autonomy then you've got to line up your
+01:32:15.960 physical sort of Hardware Partners car
+01:32:18.560 manufacturers then you've got to say
+01:32:20.400 okay is the electricity where it's at
+01:32:21.880 and are there other bets to make to make
+01:32:23.520 sure
+01:32:24.679 that I can charge my cars so like there
+01:32:27.080 is a huge real estate play here and
+01:32:29.320 Fleet Management play of like how do I
+01:32:34.040 Electrify these plots of land known as
+01:32:36.760 parking lots and also set them up so
+01:32:40.400 that robots can clean cars in sort of a
+01:32:43.639 very very efficient way there's like a
+01:32:46.520 whole when you we talk that's super
+01:32:48.920 interesting Travis that's like it's
+01:32:50.360 almost like the idea that we all talk
+01:32:52.159 about today is Data Centers and data
+01:32:53.880 centers need their own power substation
+01:32:56.040 in order to meet the Power demands but
+01:32:57.639 if if we do see a world of Robotics
+01:33:00.239 automation generally and we've got these
+01:33:02.280 kind of moving robotic systems in our
+01:33:05.000 world they need to have a similar sort
+01:33:07.480 of like power demand met that probably
+01:33:10.800 looks like hey they all go into their
+01:33:12.520 their recharge building and they get
+01:33:14.000 recharged whether they're a car or a
+01:33:16.159 humanoid robot or a food delivery robot
+01:33:18.280 on the sidewalk or whatever or Dr and
+01:33:21.000 they just kind of get recharged huh
+01:33:22.679 robots need actuators
+01:33:24.560 you know what you need for an actuator a
+01:33:26.000 permanent magnet you know what you need
+01:33:27.760 for a permanent magnet rare Earths who's
+01:33:30.679 the rare earth king X China
+01:33:34.840 Greenland Greenland let's go so so guys
+01:33:39.679 I think there is a there is a there's a
+01:33:42.440 couple interesting things one of them is
+01:33:44.000 going to be how are these companies
+01:33:46.280 thinking about real estate electrifying
+01:33:48.760 that real estate in urban environments
+01:33:51.280 and robotizing that real estate so that
+01:33:53.560 they can do the servicing maintenance
+01:33:55.080 Etc look I guess it could be manual for
+01:33:56.800 a while can I can I put you on the spot
+01:33:58.760 just go one level above it because merge
+01:34:00.880 the last two concepts together you
+01:34:02.360 talked about we talked about the federal
+01:34:04.119 government Doge Etc isn't there the
+01:34:06.840 potential for just a complete surplus of
+01:34:10.480 physical inventory that exists in
+01:34:12.560 America oh yeah okay so big time so what
+01:34:15.440 does that mean for commercial re like
+01:34:17.119 how do you like navigate around that
+01:34:19.199 because you got to evade the falling
+01:34:20.800 knives first so okay so let's just just
+01:34:23.840 go down ride sharing Lane it's
+01:34:25.800 autonomous ride sharing Lane you go down
+01:34:27.639 that lane car ownership which is already
+01:34:30.880 dropping drops Like a Knife all the way
+01:34:33.400 down and there's this thing in cities
+01:34:36.239 which takes up 20 to 30% of all the land
+01:34:38.600 it's called parking is no longer
+01:34:40.320 necessary because cars are getting
+01:34:41.920 utiliz the cars that exist on the roads
+01:34:43.560 are getting utilized 15x more than they
+01:34:45.960 were before per car so you need
+01:34:50.080 hypothetically 115th the number of cars
+01:34:52.600 maybe you could say fth or 11th because
+01:34:54.880 you want to be able to Surge to like
+01:34:57.040 rush hour and things like that it
+01:34:58.639 depends on what kind of car pooling and
+01:35:00.440 things like this are going on let's just
+01:35:01.840 call it 10x fewer cars on10th the land
+01:35:06.360 necessary for parking at least on Tenth
+01:35:09.440 like maybe it's less than that okay so
+01:35:11.840 now you're opening up you're opening up
+01:35:15.560 20% of the land in a city that just goes
+01:35:19.280 fallow but what what should we do with
+01:35:21.520 that and is there a demand for that land
+01:35:24.560 well look I mean maybe it's the should
+01:35:26.560 it be housing you know like and then
+01:35:28.920 don't we have to re-evaluate all of the
+01:35:31.920 city planning today because City
+01:35:33.320 Planning today to your point Works
+01:35:34.679 backwards from all these constraints
+01:35:36.719 that are 1.0 constraints like here's the
+01:35:38.960 traffic flow here the traffic patterns
+01:35:41.119 those don't exist theoretically anymore
+01:35:42.800 or they would exist in a totally
+01:35:44.119 different way right yeah I mean we've
+01:35:45.960 got a there's like a massive amount of
+01:35:47.880 creativity to say what can I do with
+01:35:49.719 that land at with a high
+01:35:52.400 Roi right like some people are like
+01:35:54.960 you're going to have Farms you know uh
+01:35:58.239 hydroponic farms in urban environments
+01:36:00.440 I'm like uh you know that's not a bad
+01:36:02.360 idea if you want to have Farm to Table
+01:36:04.119 healthy food it's literally Farm to
+01:36:06.360 Table it's like a mile away from you
+01:36:07.920 yeah so there's some interesting ideas
+01:36:10.040 the land price has to really come
+01:36:11.760 crashing down and there's interesting
+01:36:13.440 ramifications if it were to do that you
+01:36:15.560 could imagine that's that's what I
+01:36:16.760 wanted you to say not to try to get you
+01:36:18.239 there but that winess well that seems
+01:36:21.199 like the crazy thing that nobody is
+01:36:22.760 thinking about which is in this push
+01:36:24.800 this physical built inventory has so
+01:36:27.159 much value built up in the 401ks of of
+01:36:31.719 individuals to the balance sheets of
+01:36:33.679 huge Pension funds but that value is
+01:36:36.360 could be very different right but the
+01:36:37.920 crazy part is is it could just be
+01:36:40.159 electricity production and electric
+01:36:42.719 capacity on the grid could be the gating
+01:36:45.159 factor that makes it a slow
+01:36:47.280 burn potentially I'm just riffing here
+01:36:50.239 guys right right right right right makes
+01:36:51.880 total sense and if want to see what
+01:36:54.600 happens when you have like unlimited
+01:36:55.880 land if you live in Austin and you see
+01:36:58.400 the distance between San Antonio Houston
+01:37:00.560 and Dallas and Austin in that triangle
+01:37:03.400 you know you get 30 minutes outside of
+01:37:04.760 the city centers there's just unlimited
+01:37:06.199 land and there's less regulation and you
+01:37:08.239 know what's happened housing prices and
+01:37:09.639 rents have come down two or three years
+01:37:10.960 in a row so this could happen in other
+01:37:12.960 major cities and if Doge has less
+01:37:14.880 regulation you can build more it could
+01:37:16.639 be amazing for Americans to actually be
+01:37:18.600 able to afford homes again and maybe
+01:37:22.239 convert some of this space you go energy
+01:37:24.639 storage electric grid upgrades sort of
+01:37:29.320 modular energy capacity upgrades like
+01:37:33.280 and production these are this is going
+01:37:35.560 to be very very important right now if
+01:37:38.239 you want to I we do this all the time we
+01:37:40.080 have of course facilities all over every
+01:37:42.599 major city in the US and really around
+01:37:45.040 the
+01:37:46.040 world utility upgrades is the long pull
+01:37:49.599 in the tent in in construction
+01:37:52.239 development
+01:37:54.360 in a lot of our cities not all cities
+01:37:55.920 but in a lot of our cities the FED um
+01:37:58.920 held rates they're getting close to the
+01:38:00.840 goal of 2% I guess we're at 2.4
+01:38:03.400 2.9% in terms of inflation any thoughts
+01:38:06.320 on uh where we're at with the FED
+01:38:08.480 deciding to not cut and just uh you put
+01:38:11.400 it on the docket here jamat any any
+01:38:13.080 wider thoughts there I would just say
+01:38:14.719 that the long end of the yield curve is
+01:38:17.520 basically telling us that there's a
+01:38:19.119 still a chance for inflation so I think
+01:38:21.119 that the the question is these next 30
+01:38:24.560 or 60 days from the administration I
+01:38:27.080 think are basically they're they're
+01:38:28.679 critical and I think if if Doge gets to
+01:38:31.239 the three billion a day number quicker
+01:38:33.360 than people thought there's going to be
+01:38:35.760 a lot of room for I think the president
+01:38:39.599 to make a very valid argument that rates
+01:38:42.599 are too high for where they are and that
+01:38:44.920 we're going to be able to have a lot
+01:38:46.360 more cost
+01:38:48.000 control in the expenses which means that
+01:38:50.520 they'll be less need to spend it doesn't
+01:38:53.159 solve
+01:38:54.320 the problem that Yellen created Yellen
+01:38:56.920 and Biden on the way out the door the
+01:38:58.599 biggest problem was that they put
+01:39:00.920 America in this very difficult position
+01:39:03.239 because they issued so much short-term
+01:39:05.040 paper that is extremely expensive and as
+01:39:07.000 all of that rolls off we have to go and
+01:39:09.400 finance a ton of this debt at now 5% so
+01:39:15.320 it's still nearly 30% of of the debt is
+01:39:18.320 going to get refinanced this year and
+01:39:20.719 then it's like what are these auctions
+01:39:22.040 going to look like guys this is the
+01:39:23.920 thing we we all got to bre the last
+01:39:25.360 auction barely had 2x coverage and I
+01:39:27.360 think that that could take a lot of the
+01:39:28.639 energy out of the market watch the doo
+01:39:30.440 interview because this this is exactly
+01:39:32.119 the topic he covers you know as we end
+01:39:34.239 up needing to refinance this debt the
+01:39:36.040 rates climb the appetite isn't there and
+01:39:38.239 it becomes a
+01:39:39.440 spiral that's why we have to cut fast in
+01:39:42.639 terms of the deficit to basically
+01:39:45.639 attract the market now you know the
+01:39:47.040 markets moved a little bit right so on
+01:39:49.119 January
+01:39:50.480 13th the 30-year treasury peaked at
+01:39:53.599 exactly 5% and it's come down today it's
+01:39:56.719 at 4.77 so a little bit of relief since
+01:40:00.199 that that Peak as as kind of the
+01:40:02.040 administration's gone into office and
+01:40:03.920 actually taken action but as more of
+01:40:05.800 this action is realized if people do
+01:40:09.080 appreciate and doge is successful and
+01:40:11.320 the Court's adjudication does allow
+01:40:13.800 reduction in spending which I think is
+01:40:15.400 the intention I think we could see this
+01:40:17.199 rate drop from 478 much more
+01:40:19.840 significantly than where it is and
+01:40:21.239 that'll create a great deal of and David
+01:40:23.320 it's like it either does that or it
+01:40:26.480 really really
+01:40:27.840 doesn't or ites the exact super nasty
+01:40:32.280 really bad that's right I got a text
+01:40:33.840 from someone who is pretty senior in
+01:40:36.639 capital markets thinks this is going to
+01:40:38.320 go to five and a half% before it goes
+01:40:40.679 down so they think that there's going to
+01:40:42.440 be a little bit more of a turbulent run
+01:40:45.000 ahead but it's like but the thing is
+01:40:46.639 it's like that whole thing of like it's
+01:40:48.199 going to get to five and a half before
+01:40:49.440 it comes down it's like it spirals on
+01:40:51.719 itself it's like you got to print money
+01:40:54.119 to then get to that place and then the
+01:40:56.320 printing drives it for you know you get
+01:40:58.000 to that spiral the problem is if we go
+01:41:00.280 to 5 a half% that's not 80 basis points
+01:41:03.080 what you really need to think about is
+01:41:04.400 the total tonnage of actual dollars that
+01:41:06.639 need to get repaid back and if you look
+01:41:09.000 backwards that's effectively like 10%
+01:41:11.639 rates from 2000 could you imagine what
+01:41:13.599 the economy that's right would have done
+01:41:15.560 if you had brought rates to 10 11% 20
+01:41:18.000 years ago it would have crippled the
+01:41:19.239 economy so we don't have a lot of room
+01:41:22.080 here where you can walk rates up to 5
+01:41:24.239 half 6% without a lot of things starting
+01:41:27.119 to break this is why I actually think
+01:41:28.639 Doge will be successful because as
+01:41:30.320 people internalize all of these things
+01:41:33.880 where every single Congress person
+01:41:35.639 freeberg that may have wanted their own
+01:41:37.800 benefit for their Community they'll have
+01:41:39.960 to take a step back because the broader
+01:41:41.920 optimization for America just needs to
+01:41:44.159 take priorities sham it just doesn't
+01:41:45.800 work like that man like my thing is like
+01:41:47.920 I like I agree with the notion but I
+01:41:49.560 just don't believe that any individual
+01:41:51.599 Congress person will take responsibility
+01:41:53.360 in this way no they won't they won't but
+01:41:55.199 the question is can they block it yeah
+01:41:57.040 but or put another way again the
+01:41:59.840 executive
+01:42:01.360 branch can slow roll spend in a lot of
+01:42:06.320 different ways except you cannot with
+01:42:09.199 Medicare and Social Security
+01:42:10.719 discretionary spending is like 20% the
+01:42:14.239 mandatory spending Social
+01:42:16.719 Security Medicare Medicaid these are the
+01:42:20.400 the larger outlay and this where where
+01:42:23.960 we come back to the fact that this will
+01:42:26.440 never I hear you get addressed until it
+01:42:29.119 has to be because of the political
+01:42:30.639 suicide that arises I just think there's
+01:42:32.520 this is where I think elon's Fame can be
+01:42:35.520 helpful and I mean very specifically
+01:42:37.320 this following idea you know that famous
+01:42:39.320 Sputnik comment
+01:42:41.239 where NASA spent millions of dollars
+01:42:43.760 trying to engineer a pen that could
+01:42:45.239 write upside down and it turned out that
+01:42:47.360 in Sputnik the Russians just took a
+01:42:50.000 pencil that is what we need to do to the
+01:42:52.320 US government because I suspect even
+01:42:54.159 though there's a lot of mandated spend
+01:42:56.360 the real question that nobody knows the
+01:42:57.960 answer to Is is that spend useful so
+01:43:00.679 even though it's appropriated by
+01:43:02.119 Congress there has to be a feedback loop
+01:43:05.280 that says you can just use a pencil you
+01:43:07.360 don't need the upside down writing pen
+01:43:09.520 and I think that if there's anybody that
+01:43:11.080 can broadcast that to the world it's him
+01:43:14.040 and this is where I think Trump gets
+01:43:15.840 enormous leverage by having Elon being
+01:43:18.119 the westwing that nobody else could give
+01:43:19.760 him the rest of us would just be
+01:43:21.080 chirping into the darkness yeah this is
+01:43:23.159 the naming and shaming of government
+01:43:24.760 waste that's actually going to work and
+01:43:26.639 the Doge account on Twitter is doing it
+01:43:28.920 they're basically saying hey we're
+01:43:30.239 giving foreign aid for this project for
+01:43:32.040 that project is it going to be perfect
+01:43:33.440 every time no but you show an empty
+01:43:35.480 office space you show people not coming
+01:43:37.199 to work you show people wasting money
+01:43:39.840 well yeah if that's even real you know
+01:43:41.520 there's going to be a bunch of you know
+01:43:43.679 back and forth here but overall if you
+01:43:46.080 keep naming and shaming each of these
+01:43:47.679 projects and then you know they were
+01:43:49.040 talking about blockchain or whatever and
+01:43:50.400 supposed is a Report Elon is at like the
+01:43:52.760 Govern building working on leases at the
+01:43:55.599 moment like this stuff is going to be
+01:43:57.920 extraordinar popular because you can
+01:43:59.719 just take the number of 330 million
+01:44:02.360 Americans and whatever you just saved
+01:44:04.920 you can just divide it by that number
+01:44:06.920 and tell every American how much they
+01:44:08.599 just paid less in taxes or how much they
+01:44:10.639 just saved individually the naming
+01:44:12.719 shaming and doing the back of the
+01:44:14.400 envelope math for every American is
+01:44:16.000 going to work do we want to wrap maybe a
+01:44:18.159 little bit on this tragedy in DC okay
+01:44:21.199 what are your thoughts uh we were
+01:44:22.280 talking with our friends Dayton who is
+01:44:24.040 very involved in aviation and um he's
+01:44:26.480 got a lot of blog posts he's done
+01:44:28.480 recently and he's got a company he
+01:44:29.760 invested in to do uh pilot training I'll
+01:44:33.520 share two things one is anonymous it's
+01:44:35.840 from friend of mine gave it to me and
+01:44:38.080 said I could share it who's a commercial
+01:44:41.000 pilot and he and and I posted this so
+01:44:43.280 I'll just read it honesty DCA is the
+01:44:45.679 sketchiest airport we fly into I feel
+01:44:48.159 like the controllers there play fast and
+01:44:50.040 loose hence the periodic Runway
+01:44:51.639 incursions I've said to every first
+01:44:53.719 officer in my threat briefings that we
+01:44:55.840 both need to be on red alert at all
+01:44:57.639 times there DCA calls out Hilo traffic
+01:45:00.639 helicopter traffic and vice versa all
+01:45:03.239 the time but it's borderline impossible
+01:45:04.960 to see them when you're bombing along at
+01:45:06.760 150 mph I mean that's from a pilot that
+01:45:10.800 is not I don't think he has any
+01:45:11.960 incentive to sugarcoat things and then I
+01:45:14.360 just wanted to read a message from Brian
+01:45:15.920 uto who's the CEO of whisk who's
+01:45:19.599 building a lot of these aut autonomous
+01:45:21.960 systems he said said first autot
+01:45:24.760 trffic Collision of voida systems do
+01:45:27.400 exist right now these aircraft will not
+01:45:30.119 take control from the pilot to save the
+01:45:33.000 aircraft even if software and systems on
+01:45:35.679 the aircraft know that it's going to
+01:45:38.320 collide that's the bti flip that needs
+01:45:40.800 to happen in aviation automation can
+01:45:43.800 actually kick in and take over even in
+01:45:47.239 piloted aircraft to prevent a crash
+01:45:50.239 that's the minimum of where we need to
+01:45:52.119 go some fighter jets have something
+01:45:54.320 called automatic ground collision
+01:45:55.920 avoidance systems that do exactly this
+01:45:57.800 when fighter pilots pass out and it's
+01:46:00.520 possible for commercial and then the
+01:46:02.320 second he said is we need to have better
+01:46:03.960 ATC Air Traffic Control software and
+01:46:07.040 automation right now we use VHF radio
+01:46:10.960 communications for safety and for
+01:46:13.440 critical instructions and that's kind of
+01:46:15.760 insane we should be using data links Etc
+01:46:18.960 the whole ATC system runs on 1960s
+01:46:21.880 technology they deserve better software
+01:46:24.119 and Automation in the control Towers
+01:46:26.840 it's totally ripe for change the problem
+01:46:29.239 is that attempts at reform have
+01:46:31.599 failed so I just wanted you guys to have
+01:46:34.400 that one from this commercial pilot and
+01:46:36.400 then two from Brian uto who I I think
+01:46:38.760 understands this issue really well
+01:46:39.840 there's so much opportunity here to make
+01:46:41.199 this better this should have never
+01:46:42.639 happened our other friend Sky Dayton has
+01:46:44.840 been pushing really hard for the US
+01:46:47.800 government to do Advanced pilot training
+01:46:49.800 one of the things that he says
+01:46:51.080 constantly is just that a lot of the
+01:46:52.480 push back is just Union rhetoric around
+01:46:55.159 what they perceive the right thing for
+01:46:57.920 their constituency is and hopefully this
+01:47:00.960 starts this conversation because I think
+01:47:02.800 guys like Sky guys like Brian are
+01:47:05.360 working on this next level of autonomous
+01:47:08.360 solution that can just make flying
+01:47:11.119 totally totally safe beyond what it was
+01:47:13.000 the crazy stat is that we haven't had a
+01:47:15.119 commercial airline disaster in the
+01:47:16.480 United States in almost 25 years isn't
+01:47:18.760 that inredible 15 yeah it it's looking
+01:47:21.199 like pilot era here and it's there seems
+01:47:23.239 to be some question of why these Apaches
+01:47:26.040 are flying around this really crowded
+01:47:28.199 airspace and it seems like they're
+01:47:29.880 shuttling you know politicians around
+01:47:32.040 and maybe that's not the best idea in
+01:47:34.599 this really dense area as your pilot
+01:47:37.119 friend was referring to jamath so God
+01:47:40.520 thoughts and prayers and all that stuff
+01:47:42.280 for the um for the families of the
+01:47:44.000 people who died it's just terrible
+01:47:45.400 tragedy terrible tragedy yeah it's just
+01:47:48.239 this really just this is an area to
+01:47:50.679 invest money and use the private private
+01:47:53.080 sector and all this incredible
+01:47:54.280 Innovation that's available to upgrade
+01:47:56.599 these systems and infrastructure this
+01:47:58.440 has been another amazing episode of the
+01:47:59.840 all-in podcast thanks Travis for joining
+01:48:01.719 us thankar for coming a lot of fun guys
+01:48:04.599 first time this is my first time on a
+01:48:05.960 podcast ever yes right in you come back
+01:48:09.960 anytime you were great man appr it
+01:48:12.080 apprciate very based is going to like it
+01:48:14.440 tell us what you think and we'll see you
+01:48:16.320 all next time love you boys
+01:48:19.360 byebye let your winners ride
+01:48:22.960 Rainman
+01:48:26.320 David and instead we open source it to
+01:48:28.880 the fans and they've just gone crazy
+01:48:39.239 with
+01:48:41.880 besties that's my dog taking
+01:48:47.000 driveway oh
+01:48:49.599 man we should all just get a room and
+01:48:51.840 just have one big Georgie cuz they're
+01:48:53.560 all this useless it's like this like
+01:48:55.199 sexual tension that they just need to
+01:48:56.679 release
+01:49:03.000 somehow we need to get
+01:49:12.480 mer I'm going in
