@@ -5,8 +5,7 @@ import os
 import asyncio
 from pydantic import BaseModel
 from pydantic_ai import Agent
-from pydantic_ai.models.openai import OpenAIModel
-from pydantic_ai.providers.openai import OpenAIProvider
+from pydantic_ai.models.anthropic import AnthropicModel
 
 class Joke(BaseModel):
     title: str
@@ -15,16 +14,12 @@ class Joke(BaseModel):
 load_dotenv()
 
 # Get API key from environment variable
-OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
-if not OPENROUTER_API_KEY:
-    raise ValueError("OPENROUTER_API_KEY not found in .env file")
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+if not ANTHROPIC_API_KEY:
+    raise ValueError("ANTHROPIC_API_KEY not found in .env file")
 
-gemini_25_flash = OpenAIModel(
-    'google/gemini-2.5-flash-preview',
-    provider=OpenAIProvider(
-        base_url='https://openrouter.ai/api/v1',
-        api_key=OPENROUTER_API_KEY,
-    ),
+claude_35_sonnet = AnthropicModel(
+    'claude-3-5-sonnet-20241022',
 )
 
 async def run():
@@ -44,7 +39,7 @@ async def run():
     user_prompt = "Tell me a joke!"
 
     agent = Agent(
-        model=gemini_25_flash,
+        model=claude_35_sonnet,
         system_prompt=system_prompt,
         output_type=Joke,
     )

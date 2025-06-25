@@ -16,6 +16,7 @@ dependencies = [
     "python-dotenv",
     "pydantic-ai",
     "pydantic>=2.11.4",
+    "agno>=1.6.4",
 ]
 
 [project.optional-dependencies]
